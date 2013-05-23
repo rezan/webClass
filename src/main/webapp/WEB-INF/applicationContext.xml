@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tx="http://www.springframework.org/schema/tx"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/tx
+    http://www.springframework.org/schema/tx/spring-tx.xsd"
+    default-autowire="byName">
+    
+    <bean id="dclassProcessor" class="org.rezsoft.webclass.data.DClassProcessor">
+        <property name="dtree">
+            <list>
+                <value>/WEB-INF/dtrees/entertainment/tvshows.dtree</value>
+                <value>/WEB-INF/dtrees/entertainment/actresses.dtree</value>
+                <value>/WEB-INF/dtrees/entertainment/sports.dtree</value>
+                <value>/WEB-INF/dtrees/devicedetection/openddr.dtree</value>
+                <value>/WEB-INF/dtrees/devicedetection/browser.dtree</value>
+            </list>
+        </property>
+    </bean>
+
+</beans>
