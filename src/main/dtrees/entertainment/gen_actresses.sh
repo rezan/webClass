@@ -3,12 +3,12 @@
 URL="http://en.wikipedia.org/wiki/List_of_American_film_actresses"
 OUT="actresses.dtree"
 
-echo "# wikipedia List_of_American_film_actresses" > $OUT
+echo "# wikipedia american film actresses `date +"%Y%m%d"`" > $OUT
 echo "#\$regex" >> $OUT
 echo "#\$dups" >> $OUT
 echo "#!unknown,exact,medium" >> $OUT
 
-curl "$URL" | grep "^<li>" | grep "/wiki/" | grep -v "Lists" | sed "s/^.*\">//" | sed "s/<.*$//" | gawk '
+curl "$URL" 2> /dev/null | grep "^<li>" | grep "/wiki/" | grep -v "Lists" | sed "s/^.*\">//" | sed "s/<.*$//" | tr "\"" "'" | tr ";" "," | gawk '
 BEGIN{
   for(n=0;n<256;n++)ord[sprintf("%c",n)]=n
   vals=ord[" "]
@@ -28,7 +28,7 @@ BEGIN{
   for(i=1;i<=NF;i++) {
     pat=tolower($i)
     if(length(pat)>=2) {
-      part[pat]=part[pat] ", " full
+      part[pat]=part[pat] "; " full
     }
   }
 }

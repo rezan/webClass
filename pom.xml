@@ -48,6 +48,7 @@
     </dependencies>
 
     <build>
+        <finalName>webclass</finalName>
         <filters>
             <filter>src/main/config/${env}.properties</filter>
         </filters>
@@ -119,7 +120,7 @@
             <properties>
                 <env>dev</env>
                 <tomcat.server>tomcat7-dev</tomcat.server>
-                <tomcat.url>http://localhost:8080</tomcat.url>
+                <tomcat.url>http://localhost:8888</tomcat.url>
             </properties>
         </profile>
         <profile>

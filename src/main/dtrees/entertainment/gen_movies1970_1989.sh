@@ -1,15 +1,38 @@
 #!/bin/bash
 
-URL="http://en.wikipedia.org/wiki/List_of_professional_sports_teams_in_the_United_States_and_Canada"
-OUT="sports.dtree"
+URL="http://en.wikipedia.org/wiki/%YEAR%_in_film"
+OUT="movies1970_1989.dtree"
 
-echo "# wikipedia professional sports teams USA Canada `date +"%Y%m%d"`" > $OUT
+echo "# wikipedia USA movies 1970_1989 `date +"%Y%m%d"`" > $OUT
 echo "#\$regex" >> $OUT
 echo "#\$dups" >> $OUT
-echo "#!unknown,exact,low,high" >> $OUT
+echo "#!unknown" >> $OUT
 
+> movies
 
-curl "$URL" 2> /dev/null | grep -E "<h3>|<b>" | grep "/wiki/" | sed "s/<h3>/H3:/" | sed "s/<[^>]*>//g" | sed "s/ \[edit\]//" | tr "\"" "'" | tr ";" "," | gawk '
+for YEAR in {1970..1989};
+do
+    echo "$YEAR"
+	YURL=`echo $URL | sed "s/%YEAR%/$YEAR/"`
+	curl "$YURL" 2> /dev/null | gawk '
+BEGIN {
+  on=0
+}
+/="Notable.films/ {
+  on=1
+  next
+}
+/h2/ {
+  on=0
+}
+{
+  if(on)
+    print $0
+}
+' | sed "s/<\/i>/\n/g" | grep "^<li>" | grep "<i>" | sed "s/<[^>]*>//g" | sed "s/amp;//g" | tr "\"" "'" | tr ";" "," | sed "s/$/ $YEAR/" >> movies
+done
+
+cat movies | gawk '
 BEGIN{
   for(n=0;n<256;n++)ord[sprintf("%c",n)]=n
   vals=ord[" "]
@@ -19,31 +42,38 @@ BEGIN{
   valz=ord["Z"]
   valla=ord["a"]
   vallz=ord["z"]
-  league="unknown"
 }
 {
-  if(substr($0,1,3)=="H3:") {
-    league=substr($0,4)
-    next;
+  title=$1
+  for(i=2;i<NF;i++) {
+    title=title " " $i
   }
-  full=$0
+  year=$NF
+  NNF=NF-1
+  full=title
   pattern=normpattern(full,".","?")
   id=normpattern(full,"x","")
   gsub(" ","_",id)
-  printf("\"%s\";%s;S;;name=\"%s\",league=\"%s\",match=exact\n",pattern,id,full,league)
-  for(i=1;i<=NF;i++) {
+  printf("\"%s\";%s;W80;;name=\"%s\",year=%s,match=exact\n",pattern,id,full,year)
+  for(i=1;i<=NNF;i++) {
     pat=tolower($i)
     if(length(pat)>=2) {
       part[pat]=part[pat] "; " full
     }
   }
-  if(NF>2) {
-    for(i=1;i<NF;i++) {
+  if(NNF>2) {
+    for(i=1;i<NNF;i++) {
       if(length($i)<2 || length($(i+1))<2) {
         continue
       }
       bipat=tolower($i) " " tolower($(i+1))
       bipart[bipat]=bipart[bipat] "; " full
+    }
+  }
+  if(NNF>3) {
+    for(i=1;i<NNF-1;i++) {
+      tripat=tolower($i) " " tolower($(i+1)) " " tolower($(i+2))
+      tripart[tripat]=tripart[tripat] "; " full
     }
   }
 }
@@ -68,7 +98,18 @@ END{
     if(index(val,",")>0) {
       type="possible"
     }
-    printf("\"%s\";%s;W40;;%s=\"%s\",match=high\n",pattern,id,type,val);
+    printf("\"%s\";%s;W40;;%s=\"%s\",match=medium\n",pattern,id,type,val);
+  }
+  for(x in tripart) {
+    pattern=normpattern(x,".","?")
+    id=normpattern(x,"x","")
+    gsub(" ","_",id)
+    type="likely"
+    val=substr(tripart[x],3);
+    if(index(val,",")>0) {
+      type="possible"
+    }
+    printf("\"%s\";%s;W60;;%s=\"%s\",match=high\n",pattern,id,type,val);
   }
 }
 function normpattern(s,r,o) {
@@ -84,4 +125,7 @@ function normpattern(s,r,o) {
     }
   }
   return ret
-}' >> $OUT
+}' | sed "s/ \./\( .\)/g" >> $OUT
+
+rm movies
+
