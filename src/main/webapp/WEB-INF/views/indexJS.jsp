@@ -4,6 +4,13 @@
 <c:if test="${not empty indexes}">
 <c:set var="i" value="${indexes[0]}"/>
 "version":"${i.version}",
+"groupCount":${fn:length(groups)},
+"groups":[
+<c:forEach items="${groups}" var="group" varStatus="gs">
+  <c:if test="${gs.count>1}">,</c:if>
+  "${group}"
+</c:forEach>
+],
 "indexCount":${fn:length(indexes)},
 "indexes":[
 <c:forEach items="${indexes}" var="index" varStatus="is">

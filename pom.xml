@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>webclass</artifactId>
     <groupId>org.rezsoft.webclass</groupId>
     <name>webclass</name>
-    <version>1.1-SNAPSHOT</version>
+    <version>0.1</version>
     <packaging>war</packaging>
 
     <properties>
-        <java.version>1.6</java.version>
+        <java.version>1.7</java.version>
         <build.date>${maven.build.timestamp}</build.date>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.build.timestamp.format>yyyyMMdd_HHmm</maven.build.timestamp.format>
@@ -39,16 +39,15 @@
             <version>1.2.17</version>
         </dependency>
         <dependency>
-			<groupId>dclass</groupId>
-			<artifactId>dclass</artifactId>
-			<version>2.2.0</version>
-			<scope>system</scope>
-			<systemPath>${lib.base.dir}/dclass.jar</systemPath>
-		</dependency>
+            <groupId>dclass</groupId>
+            <artifactId>dclass</artifactId>
+            <version>2.2.0</version>
+            <scope>system</scope>
+            <systemPath>${lib.base.dir}/dclass.jar</systemPath>
+        </dependency>
     </dependencies>
 
     <build>
-        <finalName>webclass</finalName>
         <filters>
             <filter>src/main/config/${env}.properties</filter>
         </filters>
@@ -75,16 +74,16 @@
                             </includes>
                         </resource>
                         <resource>
-							<directory>${lib.base.dir}</directory>
-							<targetPath>WEB-INF/lib</targetPath>
-						</resource>
+                            <directory>${lib.base.dir}</directory>
+                            <targetPath>WEB-INF/lib</targetPath>
+                        </resource>
                         <resource>
-							<directory>${basedir}/src/main/dtrees</directory>
-							<targetPath>WEB-INF/dtrees</targetPath>
+                            <directory>${basedir}/src/main/dtrees</directory>
+                            <targetPath>WEB-INF/dtrees</targetPath>
                             <includes>
                                 <include>**/*.dtree</include>
                             </includes>
-						</resource>
+                        </resource>
                     </webResources>
                 </configuration>
             </plugin>
@@ -98,6 +97,16 @@
                     <debug>true</debug>
                 </configuration>
             </plugin>
+            <plugin>
+				<groupId>org.apache.tomcat.maven</groupId>
+				<artifactId>tomcat7-maven-plugin</artifactId>
+				<version>2.0</version>
+				<configuration>
+					<server>${tomcat.server}</server>
+					<url>${tomcat.url}/manager/text</url>
+                    <update>true</update>
+				</configuration>
+			</plugin>
         </plugins>
     </build>
 
@@ -109,6 +118,8 @@
             </activation>
             <properties>
                 <env>dev</env>
+                <tomcat.server>tomcat7-dev</tomcat.server>
+                <tomcat.url>http://localhost:8080</tomcat.url>
             </properties>
         </profile>
         <profile>

@@ -8,7 +8,12 @@
 <div style="font-family:Courier New;font-size:10pt;">
 <c:if test="${not empty indexes}">
 <c:set var="i" value="${indexes[0]}"/>
-Version: ${i.version}<br>
+Version: ${i.version}<br><br>
+Groups: ${fn:length(groups)}<br>
+<c:forEach items="${groups}" var="g">
+    &nbsp;Group: ${g}<br>
+</c:forEach>
+<br>
 Indexes: ${fn:length(indexes)}<br>
 <c:forEach items="${indexes}" var="index">
     <br>
@@ -20,7 +25,7 @@ Indexes: ${fn:length(indexes)}<br>
     &nbsp;Patterns: ${index.dclass.patterns}<br>
 </c:forEach>
 <br>
-<a href="index.js">JSON</a><br>
+<a href="index.js?group=${group}">JSON</a><br>
 </c:if>
 <a href="class">webClass</a><br>
 <a href="https://github.com/rezan/webClass">Source</a><br>

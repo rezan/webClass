@@ -24,11 +24,11 @@ public class DClassProcessor {
     public void setDtree(List<Resource> paths) {
         long start=System.nanoTime();
 
-        dclasses=new ArrayList<DClassObject>();
+        List<DClassObject> dcs=new ArrayList<DClassObject>();
         
         for(Resource path:paths) {
             try {
-                loadDtreeResource(path);
+                loadDtreeResource(path,dcs);
             } catch(Exception ex) {
                 log.error("ERROR: "+ex.toString(),ex);
             }
@@ -38,9 +38,11 @@ public class DClassProcessor {
         String sdiff=Util.getTime(diff);
         
         log.info("dtrees loaded: "+sdiff);
+        
+        dclasses=dcs;
     }
     
-    private void loadDtreeResource(Resource resource) throws Exception
+    private void loadDtreeResource(Resource resource,List<DClassObject> dcs) throws Exception
     {
         String name=resource.getFile().getName();
         
@@ -58,7 +60,7 @@ public class DClassProcessor {
 
         DClassObject dco=loadDClass(resource.getFile().getAbsolutePath(),group,name);
 
-        dclasses.add(dco);
+        dcs.add(dco);
     }
     
     private DClassObject loadDClass(String path,String group,String name) {
@@ -75,15 +77,22 @@ public class DClassProcessor {
         return dco;
     }
     
-    public List<DClassResult> process(String text) {
+    public List<DClassResult> process(String text,String group) {
         List<DClassResult> results=new ArrayList<DClassResult>();
         
-        log.info("process: '"+text+"'");
+        log.info("process: '"+text+"' group: "+group);
         
         for(DClassObject dclass:dclasses) {
+            if(!group.equals("all") && !group.equals(dclass.getGroup())) {
+                continue;
+            }
+            
             Map<String,String> rmap=dclass.getDclass().classify(text);
+            
             String id=rmap.get("id");
+            
             log.info("dclass "+dclass.getName()+" result: "+id);
+            
             if(id!=null && !id.equals("unknown")) {
                 results.add(new DClassResult(dclass.getGroup(), dclass.getName(), rmap));
             }
@@ -92,7 +101,27 @@ public class DClassProcessor {
         return results;
     }
 
-    public List<DClassObject> getDClasses() {
-        return dclasses;
+    public List<DClassObject> getDClasses(String group) {
+        List<DClassObject> results=new ArrayList<DClassObject>();
+        
+        for(DClassObject dclass:dclasses) {
+            if(group.equals("all") || group.equals(dclass.getGroup())) {
+                results.add(dclass);
+            }
+        }
+        
+        return results;
+    }
+    
+    public List<String> getGroups() {
+        List<String> groups=new ArrayList<String>();
+        
+        for(DClassObject dclass:dclasses) {
+            if(!groups.contains(dclass.getGroup())) {
+                groups.add(dclass.getGroup());
+            }
+        }
+        
+        return groups;
     }
 }

@@ -1,5 +1,13 @@
 webClass
 
-web based classification using dClass
+Open sourced web based classification
 
 http://www.rezsoft.org/webclass
+
+webClass aims to be an open sourced set of pattern classifiers.
+
+webClass uses dClass as its backend. To learn more about dClass patterns:
+
+https://github.com/TheWeatherChannel/dClass/blob/master/dtrees/README
+
+Pattern index contribution is much needed, so please feel free to contribute.

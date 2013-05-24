@@ -21,18 +21,20 @@ public class WebClass
     private DClassProcessor dclassProcessor;
 
     @RequestMapping(value="/class",method=RequestMethod.GET)
-    public String webClass(ModelMap model, @RequestParam(value="text",required=false) String text)
+    public String webClass(ModelMap model, @RequestParam(value="text",required=false) String text,
+        @RequestParam(value="group",defaultValue="all") String group)
     {
-        processWebClass(model,text);
+        processWebClass(model,text,group);
         
         return "classHTML";
     }
     
     @RequestMapping(value="/class.js",method=RequestMethod.GET)
     public String webClassJS(ModelMap model, @RequestParam(value="text",required=false) String text,
+        @RequestParam(value="group",defaultValue="all") String group,
         @RequestParam(value="callback",required=false) String callback)
     {
-        processWebClass(model,text);
+        processWebClass(model,text,group);
 
         if(callback!=null && !callback.isEmpty()) {
             model.addAttribute("callback",callback);
@@ -42,10 +44,12 @@ public class WebClass
         return "classJSON";
     }
     
-    private void processWebClass(ModelMap model, String text) {
-        log.info("processWebClass() called, text: '"+text+"'");
+    private void processWebClass(ModelMap model,String text,String group) {
+        log.info("processWebClass() called, text: '"+text+"' group: "+group);
         
         model.addAttribute("text",text);
+        model.addAttribute("group",group);
+        model.addAttribute("groups",dclassProcessor.getGroups());
 
         text=Util.normAscii(text);
         
@@ -55,7 +59,7 @@ public class WebClass
         
         long start=System.nanoTime();
         
-        List<DClassResult> results=dclassProcessor.process(text);
+        List<DClassResult> results=dclassProcessor.process(text,group);
         
         long diff=System.nanoTime()-start;
         String sdiff=Util.getTime(diff);
@@ -67,17 +71,22 @@ public class WebClass
     }
 
     @RequestMapping(value="/index",method=RequestMethod.GET)
-    public String webClass(ModelMap model)
+    public String webClass(ModelMap model,@RequestParam(value="group",defaultValue="all") String group)
     {
-        model.addAttribute("indexes",dclassProcessor.getDClasses());
+        model.addAttribute("indexes",dclassProcessor.getDClasses(group));
+        model.addAttribute("group",group);
+        model.addAttribute("groups",dclassProcessor.getGroups());
 
         return "indexHTML";
     }
     
     @RequestMapping(value="/index.js",method=RequestMethod.GET)
-    public String webClassJS(ModelMap model, @RequestParam(value="callback",required=false) String callback)
+    public String webClassJS(ModelMap model, @RequestParam(value="group",defaultValue="all") String group,
+        @RequestParam(value="callback",required=false) String callback)
     {
-        model.addAttribute("indexes",dclassProcessor.getDClasses());
+        model.addAttribute("indexes",dclassProcessor.getDClasses(group));
+        model.addAttribute("group",group);
+        model.addAttribute("groups",dclassProcessor.getGroups());
 
         if(callback!=null && !callback.isEmpty()) {
             model.addAttribute("callback",callback);

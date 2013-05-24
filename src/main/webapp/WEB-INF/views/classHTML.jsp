@@ -7,6 +7,12 @@
 <h1>webClass</h1>
 <form action="" method="GET">
 Text: <input type="text" name="text" value="${text}">
+<select name="group">
+  <option value="all">All</option>
+<c:forEach items="${groups}" var="g">
+    <option value="${g}" <c:if test="${group == g}">selected</c:if>>${g}</option>
+</c:forEach>
+</select>
 <input type="submit" value="Submit">
 </form>
 <div style="font-family:Courier New;font-size:10pt;">
@@ -23,7 +29,7 @@ Results: ${fn:length(results)}<br>
     </c:forEach>
 </c:forEach>
 <br>
-<a href="class.js?text=${text}">JSON</a><br>
+<a href="class.js?text=${text}&group=${group}">JSON</a><br>
 </c:if>
 <a href="index">Indexes</a><br>
 <a href="https://github.com/rezan/webClass">Source</a><br>
