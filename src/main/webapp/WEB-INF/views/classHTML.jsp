@@ -9,8 +9,8 @@
 Text: <input type="text" name="text" value="${text}">
 <input type="submit" value="Submit">
 </form>
-<c:if test="${not empty text}">
 <div style="font-family:Courier New;font-size:10pt;">
+<c:if test="${not empty text}">
 Text: ${text}<br>
 Processing time: ${time}<br>
 Results: ${fn:length(results)}<br>
@@ -22,9 +22,11 @@ Results: ${fn:length(results)}<br>
         &nbsp;${map.key}: ${map.value}<br>
     </c:forEach>
 </c:forEach>
-</div>
 <br>
-<a href="class.js?text=${text}">json</a>
+<a href="class.js?text=${text}">JSON</a><br>
 </c:if>
+<a href="index">Indexes</a><br>
+<a href="https://github.com/rezan/webClass">Source</a><br>
+</div>
 </body>
 </html>

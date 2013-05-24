@@ -27,4 +27,8 @@ public class DClassObject {
     public dClass getDclass() {
         return dclass;
     }    
+
+    public String getVersion() {
+        return dClass.getVersion()+" "+dClass.getAddressing()+"bit addressing "+dClass.getNodeSize()+"byte dt_node";
+    }
 }

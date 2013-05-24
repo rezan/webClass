@@ -19,11 +19,12 @@ public class DClassProcessor {
     private List<DClassObject> dclasses;
     
     public DClassProcessor() {
-        dclasses=new ArrayList<DClassObject>();
     }
     
     public void setDtree(List<Resource> paths) {
         long start=System.nanoTime();
+
+        dclasses=new ArrayList<DClassObject>();
         
         for(Resource path:paths) {
             try {
@@ -41,8 +42,6 @@ public class DClassProcessor {
     
     private void loadDtreeResource(Resource resource) throws Exception
     {
-        InputStream is=resource.getInputStream();
-        
         String name=resource.getFile().getName();
         
         if(name.indexOf(".")>0) {
@@ -57,29 +56,8 @@ public class DClassProcessor {
         
         log.info("loadDtreeResource() "+group+" "+name+": "+resource);
 
-        if(is==null)
-            throw new RuntimeException("Resource not found: "+resource);
+        DClassObject dco=loadDClass(resource.getFile().getAbsolutePath(),group,name);
 
-        File f=File.createTempFile(name,null);
-        f.deleteOnExit();
-
-        if(!f.exists())
-            throw new RuntimeException("Could not make temp file for "+name);
-
-        OutputStream fos=new FileOutputStream(f);
-
-        byte[] buffer=new byte[10000];
-        int read;
-
-        while((read=is.read(buffer))!=-1)
-        {
-            fos.write(buffer,0,read);
-        }
-
-        is.close();
-        fos.close();
-
-        DClassObject dco=loadDClass(f.getAbsolutePath(),group,name);
         dclasses.add(dco);
     }
     
@@ -112,5 +90,9 @@ public class DClassProcessor {
         }
         
         return results;
+    }
+
+    public List<DClassObject> getDClasses() {
+        return dclasses;
     }
 }

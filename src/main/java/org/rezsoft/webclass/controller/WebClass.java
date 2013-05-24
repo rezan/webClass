@@ -25,21 +25,29 @@ public class WebClass
     {
         processWebClass(model,text);
         
-        return "showHTML";
+        return "classHTML";
     }
     
     @RequestMapping(value="/class.js",method=RequestMethod.GET)
-    public String webClassJS(ModelMap model, @RequestParam(value="text",required=false) String text)
+    public String webClassJS(ModelMap model, @RequestParam(value="text",required=false) String text,
+        @RequestParam(value="callback",required=false) String callback)
     {
         processWebClass(model,text);
+
+        if(callback!=null && !callback.isEmpty()) {
+            model.addAttribute("callback",callback);
+            return "classJSONP";
+        }
         
-        return "showJS";
+        return "classJSON";
     }
     
     private void processWebClass(ModelMap model, String text) {
-        text=Util.normAscii(text);
-        
         log.info("processWebClass() called, text: '"+text+"'");
+        
+        model.addAttribute("text",text);
+
+        text=Util.normAscii(text);
         
         if(text==null || text.isEmpty()) {
             return;
@@ -54,8 +62,28 @@ public class WebClass
         
         log.info("processWebClass() results: "+results.size()+" time: "+sdiff);
 
-        model.addAttribute("text",text);
         model.addAttribute("time",sdiff);
         model.addAttribute("results",results);
+    }
+
+    @RequestMapping(value="/index",method=RequestMethod.GET)
+    public String webClass(ModelMap model)
+    {
+        model.addAttribute("indexes",dclassProcessor.getDClasses());
+
+        return "indexHTML";
+    }
+    
+    @RequestMapping(value="/index.js",method=RequestMethod.GET)
+    public String webClassJS(ModelMap model, @RequestParam(value="callback",required=false) String callback)
+    {
+        model.addAttribute("indexes",dclassProcessor.getDClasses());
+
+        if(callback!=null && !callback.isEmpty()) {
+            model.addAttribute("callback",callback);
+            return "indexJSONP";
+        }
+        
+        return "indexJSON";
     }
 }
