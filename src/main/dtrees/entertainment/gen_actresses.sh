@@ -3,7 +3,7 @@
 URL="http://en.wikipedia.org/wiki/List_of_American_film_actresses"
 OUT="actresses.dtree"
 
-echo "# wikipedia american film actresses `date +"%Y%m%d"`" > $OUT
+echo "# en wikipedia american film actresses `date +"%Y%m%d"`" > $OUT
 echo "#\$regex" >> $OUT
 echo "#\$dups" >> $OUT
 echo "#!unknown,exact,medium" >> $OUT

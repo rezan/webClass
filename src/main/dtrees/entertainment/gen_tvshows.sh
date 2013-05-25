@@ -3,7 +3,7 @@
 URL="http://en.wikipedia.org/wiki/List_of_television_programs_by_name"
 OUT="tvshows.dtree"
 
-echo "# wikipedia television tv programs `date +"%Y%m%d"`" > $OUT
+echo "# en wikipedia television tv programs `date +"%Y%m%d"`" > $OUT
 echo "#\$regex" >> $OUT
 echo "#\$dups" >> $OUT
 echo "#!unknown,low,medium,high,exact" >> $OUT

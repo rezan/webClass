@@ -3,7 +3,7 @@
 URL="http://en.wikipedia.org/wiki/List_of_professional_sports_teams_in_the_United_States_and_Canada"
 OUT="sports.dtree"
 
-echo "# wikipedia professional sports teams USA Canada `date +"%Y%m%d"`" > $OUT
+echo "# en wikipedia professional sports teams USA Canada `date +"%Y%m%d"`" > $OUT
 echo "#\$regex" >> $OUT
 echo "#\$dups" >> $OUT
 echo "#!unknown,exact,low,high" >> $OUT

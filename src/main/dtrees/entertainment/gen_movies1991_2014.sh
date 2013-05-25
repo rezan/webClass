@@ -3,7 +3,7 @@
 URL="http://en.wikipedia.org/wiki/%YEAR%_in_film"
 OUT="movies1991_2014.dtree"
 
-echo "# wikipedia USA movies 1991_2014 `date +"%Y%m%d"`" > $OUT
+echo "# en wikipedia USA movies 1991_2014 `date +"%Y%m%d"`" > $OUT
 echo "#\$regex" >> $OUT
 echo "#\$dups" >> $OUT
 echo "#!unknown" >> $OUT

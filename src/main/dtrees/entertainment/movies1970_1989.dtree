@@ -1,4 +1,4 @@
-# wikipedia USA movies 1970_1989 20130525
+# en wikipedia USA movies 1970_1989 20130525
 #$regex
 #$dups
 #!unknown
@@ -179,7 +179,6 @@
 "There Was a Crooked Man.?.?.?";There_Was_a_Crooked_Manxxx;W80;;name="There Was a Crooked Man...",year=1970,match=exact
 "They Call Me Trinity";They_Call_Me_Trinity;W80;;name="They Call Me Trinity",year=1970,match=exact
 "The Things of Life";The_Things_of_Life;W80;;name="The Things of Life",year=1970,match=exact
-"Three Sisters";Three_Sisters;W80;;name="Three Sisters",year=1970,match=exact
 "Three Sisters";Three_Sisters;W80;;name="Three Sisters",year=1970,match=exact
 ".?.?.?tick.?.?.?tick.?.?.?tick.?.?.?";xxxtickxxxtickxxxtickxxx;W80;;name="...tick...tick...tick...",year=1970,match=exact
 "Too Late the Hero";Too_Late_the_Hero;W80;;name="Too Late the Hero",year=1970,match=exact
@@ -5163,7 +5162,7 @@
 "cooley";cooley;W10;;likely="Cooley High",match=low
 "lean";lean;W10;;likely="Lean on Me",match=low
 "valdez";valdez;W10;;likely="Valdez Is Coming",match=low
-"sisters";sisters;W10;;possible="Three Sisters; Three Sisters; Sisters; Switchblade Sisters; The German Sisters; The Makioka Sisters; Hannah and Her Sisters",match=low
+"sisters";sisters;W10;;possible="Three Sisters; Sisters; Switchblade Sisters; The German Sisters; The Makioka Sisters; Hannah and Her Sisters",match=low
 "interiors";interiors;W10;;likely="Interiors",match=low
 "lear";lear;W10;;possible="King Lear; King Lear; King Lear",match=low
 "bruxelles";bruxelles;W10;;likely="Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",match=low
@@ -7956,7 +7955,7 @@
 "nest";nest;W10;;possible="Hornets' Nest; One Flew Over the Cuckoo's Nest; The Nest",match=low
 "tartuffe";tartuffe;W10;;likely="Le Tartuffe",match=low
 "domino";domino;W10;;likely="The Domino Principle",match=low
-"three";three;W10;;possible="Three Sisters; Three Sisters; Three Reservists; The Three Musketeers; Three Nuts for Cinderella; The Taking of Pelham One Two Three; Three Tough Guys; Three Days of the Condor; From Noon till Three; d'Artagnan and Three Musketeers; Three from Buttermilk Village; Three Brothers; Three Crowns of the Sailor; Three Men and a Cradle; Murder in Three Acts; Three for the Road; Three Men and a Baby; Three Fugitives",match=low
+"three";three;W10;;possible="Three Sisters; Three Reservists; The Three Musketeers; Three Nuts for Cinderella; The Taking of Pelham One Two Three; Three Tough Guys; Three Days of the Condor; From Noon till Three; d'Artagnan and Three Musketeers; Three from Buttermilk Village; Three Brothers; Three Crowns of the Sailor; Three Men and a Cradle; Murder in Three Acts; Three for the Road; Three Men and a Baby; Three Fugitives",match=low
 "shy";shy;W10;;likely="Shy People",match=low
 "rip.?off";ripxoff;W10;;likely="Slaughter's Big Rip-Off",match=low
 "chocolat";chocolat;W10;;likely="Chocolat",match=low
