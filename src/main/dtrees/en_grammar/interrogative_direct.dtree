@@ -1,0 +1,12 @@
+# en interrogative direct words
+#$regex
+#!unknown
+^what;what;S;;type=determiner
+^whose;whose;S;;type=possessive
+^who;who;S;;type=personal
+^whom;who;S;;type=personal
+^which;which;S;;type=impersonal
+^where;where;S;;type=location
+^when;when;S;;type=time
+^why;why;S;;type=reason
+^how;how;S;;type=manner

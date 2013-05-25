@@ -1,4 +1,5 @@
 # human emotions
+#$regex
 #!unknown
 
 fear;fear;S;;feeling=fear,opposite=confident

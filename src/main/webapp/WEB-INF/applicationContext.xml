@@ -18,6 +18,7 @@
                 <value>/WEB-INF/dtrees/devicedetection/openddr.dtree</value>
                 <value>/WEB-INF/dtrees/devicedetection/browser.dtree</value>
                 <value>/WEB-INF/dtrees/human/emotion.dtree</value>
+                <value>/WEB-INF/dtrees/en_grammar/interrogative_direct.dtree</value>
             </list>
         </property>
     </bean>
