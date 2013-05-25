@@ -10,11 +10,11 @@
     <bean id="dclassProcessor" class="org.rezsoft.webclass.data.DClassProcessor">
         <property name="dtree">
             <list>
-                <value>/WEB-INF/dtrees/entertainment/tvshows.dtree</value>
-                <value>/WEB-INF/dtrees/entertainment/actresses.dtree</value>
-                <value>/WEB-INF/dtrees/entertainment/sports.dtree</value>
-                <value>/WEB-INF/dtrees/entertainment/movies1970_1989.dtree</value>
-                <value>/WEB-INF/dtrees/entertainment/movies1991_2014.dtree</value>
+                <value>/WEB-INF/dtrees/en_entertainment/tvshows.dtree</value>
+                <value>/WEB-INF/dtrees/en_entertainment/actresses.dtree</value>
+                <value>/WEB-INF/dtrees/en_entertainment/sports.dtree</value>
+                <value>/WEB-INF/dtrees/en_entertainment/movies1970_1989.dtree</value>
+                <value>/WEB-INF/dtrees/en_entertainment/movies1991_2014.dtree</value>
                 <value>/WEB-INF/dtrees/devicedetection/openddr.dtree</value>
                 <value>/WEB-INF/dtrees/devicedetection/browser.dtree</value>
                 <value>/WEB-INF/dtrees/human/emotion.dtree</value>
