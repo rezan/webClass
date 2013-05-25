@@ -11,6 +11,9 @@ webClass uses dClass as its backend. To learn more about dClass patterns:
 https://github.com/TheWeatherChannel/dClass/blob/master/dtrees/README
 
 Pattern contribution is much needed, so please feel free to contribute.
+Current pattern indexes can be found here:
+
+https://github.com/rezan/webClass/tree/master/src/main/dtrees
 
 
 FAQ
@@ -19,8 +22,8 @@ Q: How do you interpret the results of webClass?
 A: At this moment is time, webClass is purely a pattern classifer. webClass
    does not provide any reasoning or post classification logic. This may
    (and likely will) change in the future. When more indexes are created,
-   a common classification langauge will emerge which will allow cross index
-   reasoning.
+   a common classification langauge will emerge which will allow for cross
+   index reasoning and more concise responses.
 
 Q: How do I embed this technology into my application?
 A: webClass is a simple web wrapper around dClass:
