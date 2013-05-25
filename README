@@ -22,3 +22,7 @@ A: At this moment is time, webClass is purely a pattern classifer. webClass
    a common classification langauge will emerge which will allow cross index
    reasoning.
 
+Q: How do I embed this technology into my application?
+A: webClass is a simple web wrapper around dClass:
+   https://github.com/TheWeatherChannel/dClass
+
