@@ -1,4 +1,4 @@
-# wikipedia professional sports teams USA Canada 20130524
+# wikipedia professional sports teams USA Canada 20130525
 #$regex
 #$dups
 #!unknown,exact,low,high
@@ -305,14 +305,14 @@
 "Minnesota Swarm";Minnesota_Swarm;S;;name="Minnesota Swarm",league="National Lacrosse League",match=exact
 "Washington Stealth";Washington_Stealth;S;;name="Washington Stealth",league="National Lacrosse League",match=exact
 "wheeling";wheeling;W10;;likely="Wheeling Nailers",match=low
-"chicago";chicago;W10;;likely="Chicago Fire; Chicago Soul; Chicago Red Stars; Chicago Bulls; Chicago Sky; Chicago Bears; Chicago Wolves; Chicago Blackhawks; Chicago Cubs; Chicago White Sox",match=low
+"chicago";chicago;W10;;possible="Chicago Fire; Chicago Soul; Chicago Red Stars; Chicago Bulls; Chicago Sky; Chicago Bears; Chicago Wolves; Chicago Blackhawks; Chicago Cubs; Chicago White Sox",match=low
 "storm";storm;W10;;likely="Seattle Storm",match=low
 "sounders";sounders;W10;;likely="Seattle Sounders FC",match=low
 "sockers";sockers;W10;;likely="San Diego Sockers",match=low
 "aeros";aeros;W10;;likely="Houston Aeros",match=low
-"kings";kings;W10;;likely="Cincinnati Kings; Sacramento Kings; Los Angeles Kings",match=low
+"kings";kings;W10;;possible="Cincinnati Kings; Sacramento Kings; Los Angeles Kings",match=low
 "greenville";greenville;W10;;likely="Greenville Road Warriors",match=low
-"ice";ice;W10;;likely="Knoxville Ice Bears; Pensacola Ice Flyers",match=low
+"ice";ice;W10;;possible="Knoxville Ice Bears; Pensacola Ice Flyers",match=low
 "griffins";griffins;W10;;likely="Grand Rapids Griffins",match=low
 "demize";demize;W10;;likely="Springfield Demize",match=low
 "eskimos";eskimos;W10;;likely="Edmonton Eskimos",match=low
@@ -322,32 +322,32 @@
 "impact";impact;W10;;likely="Montreal Impact",match=low
 "barons";barons;W10;;likely="Oklahoma City Barons",match=low
 "elmira";elmira;W10;;likely="Elmira Jackals",match=low
-"bruins";bruins;W10;;likely="Providence Bruins; Boston Bruins",match=low
+"bruins";bruins;W10;;possible="Providence Bruins; Boston Bruins",match=low
 "road";road;W10;;likely="Greenville Road Warriors",match=low
 "wenatchee";wenatchee;W10;;likely="Wenatchee Fire",match=low
-"philadelphia";philadelphia;W10;;likely="Philadelphia Union; Philadelphia 76ers; Philadelphia Eagles; Philadelphia Flyers; Philadelphia Phillies; Philadelphia Wings",match=low
-"miami";miami;W10;;likely="Miami Heat; Miami Dolphins; Miami Marlins",match=low
-"denver";denver;W10;;likely="Denver Nuggets; Denver Broncos; Denver Outlaws",match=low
+"philadelphia";philadelphia;W10;;possible="Philadelphia Union; Philadelphia 76ers; Philadelphia Eagles; Philadelphia Flyers; Philadelphia Phillies; Philadelphia Wings",match=low
+"miami";miami;W10;;possible="Miami Heat; Miami Dolphins; Miami Marlins",match=low
+"denver";denver;W10;;possible="Denver Nuggets; Denver Broncos; Denver Outlaws",match=low
 "phantoms";phantoms;W10;;likely="Adirondack Phantoms",match=low
-"toronto";toronto;W10;;likely="Toronto FC; Toronto Raptors; Toronto Argonauts; Toronto Marlies; Toronto Furies; Toronto Maple Leafs; Toronto Blue Jays; Toronto Rock",match=low
+"toronto";toronto;W10;;possible="Toronto FC; Toronto Raptors; Toronto Argonauts; Toronto Marlies; Toronto Furies; Toronto Maple Leafs; Toronto Blue Jays; Toronto Rock",match=low
 "solar";solar;W10;;likely="Orlando Solar Bears",match=low
 "pelicans";pelicans;W10;;likely="New Orleans Pelicans",match=low
 "jazz";jazz;W10;;likely="Utah Jazz",match=low
 "scorpions";scorpions;W10;;likely="San Antonio Scorpions",match=low
 "athletics";athletics;W10;;likely="Oakland Athletics",match=low
 "drillers";drillers;W10;;likely="Edmonton Drillers",match=low
-"columbus";columbus;W10;;likely="Columbus Crew; Columbus Blue Jackets; Columbus Cottonmouths",match=low
-"titans";titans;W10;;likely="Tennessee Titans; Trenton Titans",match=low
-"angeles";angeles;W10;;likely="Los Angeles Galaxy; Los Angeles Blues; Los Angeles Clippers; Los Angeles Lakers; Los Angeles Sparks; Los Angeles Kings; Los Angeles Dodgers; Los Angeles Angels of Anaheim",match=low
-"vegas";vegas;W10;;likely="Las Vegas Locomotives; Las Vegas Wranglers",match=low
+"columbus";columbus;W10;;possible="Columbus Crew; Columbus Blue Jackets; Columbus Cottonmouths",match=low
+"titans";titans;W10;;possible="Tennessee Titans; Trenton Titans",match=low
+"angeles";angeles;W10;;possible="Los Angeles Galaxy; Los Angeles Blues; Los Angeles Clippers; Los Angeles Lakers; Los Angeles Sparks; Los Angeles Kings; Los Angeles Dodgers; Los Angeles Angels of Anaheim",match=low
+"vegas";vegas;W10;;possible="Las Vegas Locomotives; Las Vegas Wranglers",match=low
 "jacksonville";jacksonville;W10;;likely="Jacksonville Jaguars",match=low
 "wilkes.?barre.?scranton";wilkesxbarrexscranton;W10;;likely="Wilkes-Barre/Scranton Penguins",match=low
 "astros";astros;W10;;likely="Houston Astros",match=low
-"st.?";stx;W10;;likely="St. Louis Rams; St. John's IceCaps; St. Louis Blues; St. Louis Cardinals",match=low
-"carolina";carolina;W10;;likely="Carolina RailHawks FC; Carolina Panthers; South Carolina Stingrays; Carolina Hurricanes",match=low
+"st.?";stx;W10;;possible="St. Louis Rams; St. John's IceCaps; St. Louis Blues; St. Louis Cardinals",match=low
+"carolina";carolina;W10;;possible="Carolina RailHawks FC; Carolina Panthers; South Carolina Stingrays; Carolina Hurricanes",match=low
 "stampeders";stampeders;W10;;likely="Calgary Stampeders",match=low
 "alliance";alliance;W10;;likely="Winnipeg Alliance FC",match=low
-"los";los;W10;;likely="Los Angeles Galaxy; Los Angeles Blues; Los Angeles Clippers; Los Angeles Lakers; Los Angeles Sparks; Los Angeles Kings; Los Angeles Dodgers; Los Angeles Angels of Anaheim",match=low
+"los";los;W10;;possible="Los Angeles Galaxy; Los Angeles Blues; Los Angeles Clippers; Los Angeles Lakers; Los Angeles Sparks; Los Angeles Kings; Los Angeles Dodgers; Los Angeles Angels of Anaheim",match=low
 "dodgers";dodgers;W10;;likely="Los Angeles Dodgers",match=low
 "liberty";liberty;W10;;likely="New York Liberty",match=low
 "antigua";antigua;W10;;likely="Antigua Barracuda",match=low
@@ -357,54 +357,54 @@
 "stockton";stockton;W10;;likely="Stockton Thunder",match=low
 "rockies";rockies;W10;;likely="Colorado Rockies",match=low
 "twins";twins;W10;;likely="Minnesota Twins",match=low
-"diego";diego;W10;;likely="San Diego Sockers; San Diego Chargers; San Diego Padres",match=low
+"diego";diego;W10;;possible="San Diego Sockers; San Diego Chargers; San Diego Padres",match=low
 "strikers";strikers;W10;;likely="Fort Lauderdale Strikers",match=low
-"blues";blues;W10;;likely="Los Angeles Blues; St. Louis Blues",match=low
-"warriors";warriors;W10;;likely="Golden State Warriors; Greenville Road Warriors",match=low
+"blues";blues;W10;;possible="Los Angeles Blues; St. Louis Blues",match=low
+"warriors";warriors;W10;;possible="Golden State Warriors; Greenville Road Warriors",match=low
 "blazers";blazers;W10;;likely="Portland Trail Blazers",match=low
-"cardinals";cardinals;W10;;likely="Arizona Cardinals; St. Louis Cardinals",match=low
-"tampa";tampa;W10;;likely="Tampa Bay Rowdies; Tampa Bay Buccaneers; Tampa Bay Lightning; Tampa Bay Rays",match=low
-"grizzlies";grizzlies;W10;;likely="Memphis Grizzlies; Utah Grizzlies",match=low
+"cardinals";cardinals;W10;;possible="Arizona Cardinals; St. Louis Cardinals",match=low
+"tampa";tampa;W10;;possible="Tampa Bay Rowdies; Tampa Bay Buccaneers; Tampa Bay Lightning; Tampa Bay Rays",match=low
+"grizzlies";grizzlies;W10;;possible="Memphis Grizzlies; Utah Grizzlies",match=low
 "argonauts";argonauts;W10;;likely="Toronto Argonauts",match=low
 "havoc";havoc;W10;;likely="Huntsville Havoc",match=low
 "worcester";worcester;W10;;likely="Worcester Sharks",match=low
-"flyers";flyers;W10;;likely="Philadelphia Flyers; Pensacola Ice Flyers",match=low
-"francisco";francisco;W10;;likely="San Francisco 49ers; San Francisco Bulls; San Francisco Giants",match=low
+"flyers";flyers;W10;;possible="Philadelphia Flyers; Pensacola Ice Flyers",match=low
+"francisco";francisco;W10;;possible="San Francisco 49ers; San Francisco Bulls; San Francisco Giants",match=low
 "brooklyn";brooklyn;W10;;likely="Brooklyn Nets",match=low
 "raiders";raiders;W10;;likely="Oakland Raiders",match=low
-"senators";senators;W10;;likely="Binghamton Senators; Ottawa Senators",match=low
+"senators";senators;W10;;possible="Binghamton Senators; Ottawa Senators",match=low
 "toledo";toledo;W10;;likely="Toledo Walleye",match=low
 "76ers";76ers;W10;;likely="Philadelphia 76ers",match=low
 "louisiana";louisiana;W10;;likely="Louisiana IceGators",match=low
 "louisville";louisville;W10;;likely="Louisville Lightning",match=low
 "sparks";sparks;W10;;likely="Los Angeles Sparks",match=low
-"arizona";arizona;W10;;likely="Arizona Cardinals; Arizona Diamondbacks",match=low
+"arizona";arizona;W10;;possible="Arizona Cardinals; Arizona Diamondbacks",match=low
 "steelheads";steelheads;W10;;likely="Idaho Steelheads",match=low
-"portland";portland;W10;;likely="Portland Timbers; Portland Thorns FC; Portland Trail Blazers; Portland Pirates",match=low
+"portland";portland;W10;;possible="Portland Timbers; Portland Thorns FC; Portland Trail Blazers; Portland Pirates",match=low
 "john.?s";johnxs;W10;;likely="St. John's IceCaps",match=low
 "braves";braves;W10;;likely="Atlanta Braves",match=low
-"panthers";panthers;W10;;likely="Carolina Panthers; Florida Panthers",match=low
+"panthers";panthers;W10;;possible="Carolina Panthers; Florida Panthers",match=low
 "real";real;W10;;likely="Real Salt Lake",match=low
 "bucks";bucks;W10;;likely="Milwaukee Bucks",match=low
-"whitecaps";whitecaps;W10;;likely="Vancouver Whitecaps FC; Minnesota Whitecaps",match=low
+"whitecaps";whitecaps;W10;;possible="Vancouver Whitecaps FC; Minnesota Whitecaps",match=low
 "idaho";idaho;W10;;likely="Idaho Steelheads",match=low
 "rhinos";rhinos;W10;;likely="Rochester Rhinos",match=low
 "rockford";rockford;W10;;likely="Rockford IceHogs",match=low
 "wolves";wolves;W10;;likely="Chicago Wolves",match=low
 "crew";crew;W10;;likely="Columbus Crew",match=low
-"england";england;W10;;likely="New England Revolution; New England Patriots",match=low
-"mississippi";mississippi;W10;;likely="Mississippi RiverKings; Mississippi Surge",match=low
+"england";england;W10;;possible="New England Revolution; New England Patriots",match=low
+"mississippi";mississippi;W10;;possible="Mississippi RiverKings; Mississippi Surge",match=low
 "d.?c.?";dxcx;W10;;likely="D.C. United",match=low
-"sharks";sharks;W10;;likely="Worcester Sharks; San Jose Sharks",match=low
+"sharks";sharks;W10;;possible="Worcester Sharks; San Jose Sharks",match=low
 "lynx";lynx;W10;;likely="Minnesota Lynx",match=low
-"connecticut";connecticut;W10;;likely="Connecticut Sun; Connecticut Whale",match=low
+"connecticut";connecticut;W10;;possible="Connecticut Sun; Connecticut Whale",match=low
 "chargers";chargers;W10;;likely="San Diego Chargers",match=low
-"eagles";eagles;W10;;likely="Charlotte Eagles; Philadelphia Eagles; Colorado Eagles",match=low
+"eagles";eagles;W10;;possible="Charlotte Eagles; Philadelphia Eagles; Colorado Eagles",match=low
 "richmond";richmond;W10;;likely="Richmond Kickers",match=low
 "bridgeport";bridgeport;W10;;likely="Bridgeport Sound Tigers",match=low
 "everblades";everblades;W10;;likely="Florida Everblades",match=low
-"indiana";indiana;W10;;likely="Indiana Pacers; Indiana Fever",match=low
-"fire";fire;W10;;likely="Chicago Fire; Wenatchee Fire",match=low
+"indiana";indiana;W10;;possible="Indiana Pacers; Indiana Fever",match=low
+"fire";fire;W10;;possible="Chicago Fire; Wenatchee Fire",match=low
 "dayton";dayton;W10;;likely="Dayton Dutch Lions",match=low
 "aces";aces;W10;;likely="Alaska Aces",match=low
 "nuggets";nuggets;W10;;likely="Denver Nuggets",match=low
@@ -416,44 +416,44 @@
 "norfolk";norfolk;W10;;likely="Norfolk Admirals",match=low
 "brampton";brampton;W10;;likely="Brampton Thunder",match=low
 "chivas";chivas;W10;;likely="CD Chivas USA",match=low
-"ohio";ohio;W10;;likely="Ohio Vortex; Ohio Machine",match=low
+"ohio";ohio;W10;;possible="Ohio Vortex; Ohio Machine",match=low
 "timbers";timbers;W10;;likely="Portland Timbers",match=low
 "usa";usa;W10;;likely="CD Chivas USA",match=low
-"buffalo";buffalo;W10;;likely="Buffalo Bills; Buffalo Sabres; Buffalo Bandits",match=low
+"buffalo";buffalo;W10;;possible="Buffalo Bills; Buffalo Sabres; Buffalo Bandits",match=low
 "monsters";monsters;W10;;likely="Lake Erie Monsters",match=low
 "galaxy";galaxy;W10;;likely="Los Angeles Galaxy",match=low
 "battery";battery;W10;;likely="Charleston Battery",match=low
-"texas";texas;W10;;likely="Texas Stars; Texas Rangers",match=low
+"texas";texas;W10;;possible="Texas Stars; Texas Rangers",match=low
 "piasa";piasa;W10;;likely="Illinois Piasa",match=low
 "clippers";clippers;W10;;likely="Los Angeles Clippers",match=low
-"hamilton";hamilton;W10;;likely="Hamilton Tiger-Cats; Hamilton Bulldogs; Hamilton Nationals",match=low
+"hamilton";hamilton;W10;;possible="Hamilton Tiger-Cats; Hamilton Bulldogs; Hamilton Nationals",match=low
 "bombers";bombers;W10;;likely="Winnipeg Blue Bombers",match=low
-"calgary";calgary;W10;;likely="Calgary United F.C.; Calgary Stampeders; Calgary Flames; Calgary Roughnecks",match=low
+"calgary";calgary;W10;;possible="Calgary United F.C.; Calgary Stampeders; Calgary Flames; Calgary Roughnecks",match=low
 "bengals";bengals;W10;;likely="Cincinnati Bengals",match=low
 "mets";mets;W10;;likely="New York Mets",match=low
-"minnesota";minnesota;W10;;likely="Minnesota United FC; Minnesota Timberwolves; Minnesota Lynx; Minnesota Vikings; Minnesota Wild; Minnesota Whitecaps; Minnesota Twins; Minnesota Swarm",match=low
+"minnesota";minnesota;W10;;possible="Minnesota United FC; Minnesota Timberwolves; Minnesota Lynx; Minnesota Vikings; Minnesota Wild; Minnesota Whitecaps; Minnesota Twins; Minnesota Swarm",match=low
 "spirit";spirit;W10;;likely="Washington Spirit",match=low
 "redskins";redskins;W10;;likely="Washington Redskins",match=low
-"charlotte";charlotte;W10;;likely="Charlotte Eagles; Charlotte Bobcats; Charlotte Checkers; Charlotte Hounds",match=low
+"charlotte";charlotte;W10;;possible="Charlotte Eagles; Charlotte Bobcats; Charlotte Checkers; Charlotte Hounds",match=low
 "green";green;W10;;likely="Green Bay Packers",match=low
 "checkers";checkers;W10;;likely="Charlotte Checkers",match=low
 "mammoth";mammoth;W10;;likely="Colorado Mammoth",match=low
 "waza";waza;W10;;likely="Detroit Waza",match=low
 "vikings";vikings;W10;;likely="Minnesota Vikings",match=low
 "barracudas";barracudas;W10;;likely="Burlington Barracudas",match=low
-"jets";jets;W10;;likely="New York Jets; Winnipeg Jets",match=low
+"jets";jets;W10;;possible="New York Jets; Winnipeg Jets",match=low
 "wave";wave;W10;;likely="Milwaukee Wave",match=low
 "timberwolves";timberwolves;W10;;likely="Minnesota Timberwolves",match=low
-"colorado";colorado;W10;;likely="Colorado Rapids; Colorado Eagles; Colorado Avalanche; Colorado Rockies; Colorado Mammoth",match=low
+"colorado";colorado;W10;;possible="Colorado Rapids; Colorado Eagles; Colorado Avalanche; Colorado Rockies; Colorado Mammoth",match=low
 "wild";wild;W10;;likely="Minnesota Wild",match=low
 "wizards";wizards;W10;;likely="Washington Wizards",match=low
-"florida";florida;W10;;likely="Florida Everblades; Florida Panthers",match=low
+"florida";florida;W10;;possible="Florida Everblades; Florida Panthers",match=low
 "ravens";ravens;W10;;likely="Baltimore Ravens",match=low
-"bears";bears;W10;;likely="Chicago Bears; Hershey Bears; Orlando Solar Bears; Knoxville Ice Bears",match=low
+"bears";bears;W10;;possible="Chicago Bears; Hershey Bears; Orlando Solar Bears; Knoxville Ice Bears",match=low
 "kalamazoo";kalamazoo;W10;;likely="Kalamazoo Wings",match=low
-"silver";silver;W10;;likely="Syracuse Silver Knights; San Antonio Silver Stars",match=low
+"silver";silver;W10;;possible="Syracuse Silver Knights; San Antonio Silver Stars",match=low
 "shock";shock;W10;;likely="Tulsa Shock",match=low
-"thunder";thunder;W10;;likely="Oklahoma City Thunder; Brampton Thunder; Stockton Thunder",match=low
+"thunder";thunder;W10;;possible="Oklahoma City Thunder; Brampton Thunder; Stockton Thunder",match=low
 "brewers";brewers;W10;;likely="Milwaukee Brewers",match=low
 "barracuda";barracuda;W10;;likely="Antigua Barracuda",match=low
 "illinois";illinois;W10;;likely="Illinois Piasa",match=low
@@ -464,32 +464,32 @@
 "sabres";sabres;W10;;likely="Buffalo Sabres",match=low
 "revolution";revolution;W10;;likely="New England Revolution",match=low
 "monarchs";monarchs;W10;;likely="Manchester Monarchs",match=low
-"washington";washington;W10;;likely="Washington Spirit; Washington Wizards; Washington Mystics; Washington Redskins; Washington Capitals; Washington Nationals; Washington Stealth",match=low
-"rangers";rangers;W10;;likely="New York Rangers; Texas Rangers",match=low
-"falcons";falcons;W10;;likely="Atlanta Falcons; Springfield Falcons",match=low
+"washington";washington;W10;;possible="Washington Spirit; Washington Wizards; Washington Mystics; Washington Redskins; Washington Capitals; Washington Nationals; Washington Stealth",match=low
+"rangers";rangers;W10;;possible="New York Rangers; Texas Rangers",match=low
+"falcons";falcons;W10;;possible="Atlanta Falcons; Springfield Falcons",match=low
 "earthquakes";earthquakes;W10;;likely="San Jose Earthquakes",match=low
 "bulldogs";bulldogs;W10;;likely="Hamilton Bulldogs",match=low
 "dutch";dutch;W10;;likely="Dayton Dutch Lions",match=low
 "swarm";swarm;W10;;likely="Minnesota Swarm",match=low
-"fort";fort;W10;;likely="Fort Lauderdale Strikers; Fort Wayne Komets",match=low
-"united";united;W10;;likely="Calgary United F.C.; D.C. United; Minnesota United FC",match=low
+"fort";fort;W10;;possible="Fort Lauderdale Strikers; Fort Wayne Komets",match=low
+"united";united;W10;;possible="Calgary United F.C.; D.C. United; Minnesota United FC",match=low
 "soul";soul;W10;;likely="Chicago Soul",match=low
 "walleye";walleye;W10;;likely="Toledo Walleye",match=low
 "cwhl";cwhl;W10;;likely="Team Alberta CWHL",match=low
 "railhawks";railhawks;W10;;likely="Carolina RailHawks FC",match=low
-"stars";stars;W10;;likely="Chicago Red Stars; Tacoma Stars; San Antonio Silver Stars; Texas Stars; Montreal Stars; Dallas Stars",match=low
+"stars";stars;W10;;possible="Chicago Red Stars; Tacoma Stars; San Antonio Silver Stars; Texas Stars; Montreal Stars; Dallas Stars",match=low
 "missouri";missouri;W10;;likely="Missouri Comets",match=low
 "augusta";augusta;W10;;likely="Augusta RiverHawks",match=low
 "providence";providence;W10;;likely="Providence Bruins",match=low
 "western";western;W10;;likely="Western New York Flash",match=low
 "sun";sun;W10;;likely="Connecticut Sun",match=low
 "hammerheads";hammerheads;W10;;likely="Wilmington Hammerheads",match=low
-"san";san;W10;;likely="San Jose Earthquakes; San Antonio Scorpions; San Diego Sockers; San Antonio Spurs; San Antonio Silver Stars; San Diego Chargers; San Francisco 49ers; San Antonio Rampage; San Francisco Bulls; San Jose Sharks; San Diego Padres; San Francisco Giants",match=low
+"san";san;W10;;possible="San Jose Earthquakes; San Antonio Scorpions; San Diego Sockers; San Antonio Spurs; San Antonio Silver Stars; San Diego Chargers; San Francisco 49ers; San Antonio Rampage; San Francisco Bulls; San Jose Sharks; San Diego Padres; San Francisco Giants",match=low
 "texans";texans;W10;;likely="Houston Texans",match=low
 "white";white;W10;;likely="Chicago White Sox",match=low
 "indianapolis";indianapolis;W10;;likely="Indianapolis Colts",match=low
 "49ers";49ers;W10;;likely="San Francisco 49ers",match=low
-"milwaukee";milwaukee;W10;;likely="Milwaukee Wave; Milwaukee Bucks; Milwaukee Admirals; Milwaukee Brewers",match=low
+"milwaukee";milwaukee;W10;;possible="Milwaukee Wave; Milwaukee Bucks; Milwaukee Admirals; Milwaukee Brewers",match=low
 "rays";rays;W10;;likely="Tampa Bay Rays",match=low
 "bakersfield";bakersfield;W10;;likely="Bakersfield Condors",match=low
 "rico";rico;W10;;likely="Puerto Rico Islanders (on hiatus)",match=low
@@ -502,20 +502,20 @@
 "lauderdale";lauderdale;W10;;likely="Fort Lauderdale Strikers",match=low
 "hounds";hounds;W10;;likely="Charlotte Hounds",match=low
 "rivermen";rivermen;W10;;likely="Peoria Rivermen",match=low
-"royals";royals;W10;;likely="Reading Royals; Kansas City Royals",match=low
-"boston";boston;W10;;likely="Boston Breakers; Boston Celtics; Boston Blades; Boston Bruins; Boston Red Sox; Boston Cannons",match=low
-"utah";utah;W10;;likely="Utah Jazz; Utah Grizzlies",match=low
-"pirates";pirates;W10;;likely="Portland Pirates; Pittsburgh Pirates",match=low
+"royals";royals;W10;;possible="Reading Royals; Kansas City Royals",match=low
+"boston";boston;W10;;possible="Boston Breakers; Boston Celtics; Boston Blades; Boston Bruins; Boston Red Sox; Boston Cannons",match=low
+"utah";utah;W10;;possible="Utah Jazz; Utah Grizzlies",match=low
+"pirates";pirates;W10;;possible="Portland Pirates; Pittsburgh Pirates",match=low
 "blackhawks";blackhawks;W10;;likely="Chicago Blackhawks",match=low
 "capitals";capitals;W10;;likely="Washington Capitals",match=low
 "sound";sound;W10;;likely="Bridgeport Sound Tigers",match=low
 "fever";fever;W10;;likely="Indiana Fever",match=low
 "gwinnett";gwinnett;W10;;likely="Gwinnett Gladiators",match=low
-"winnipeg";winnipeg;W10;;likely="Winnipeg Alliance FC; Winnipeg Blue Bombers; Winnipeg Jets",match=low
-"maple";maple;W10;;likely="Toronto Maple Leafs; Manitoba Maple Leafs",match=low
+"winnipeg";winnipeg;W10;;possible="Winnipeg Alliance FC; Winnipeg Blue Bombers; Winnipeg Jets",match=low
+"maple";maple;W10;;possible="Toronto Maple Leafs; Manitoba Maple Leafs",match=low
 "diamondbacks";diamondbacks;W10;;likely="Arizona Diamondbacks",match=low
 "dynamo";dynamo;W10;;likely="Houston Dynamo",match=low
-"devils";devils;W10;;likely="Albany Devils; New Jersey Devils",match=low
+"devils";devils;W10;;possible="Albany Devils; New Jersey Devils",match=low
 "stingrays";stingrays;W10;;likely="South Carolina Stingrays",match=low
 "alberta";alberta;W10;;likely="Team Alberta CWHL",match=low
 "lakers";lakers;W10;;likely="Los Angeles Lakers",match=low
@@ -528,16 +528,16 @@
 "cougars";cougars;W10;;likely="California Cougars",match=low
 "icehogs";icehogs;W10;;likely="Rockford IceHogs",match=low
 "flames";flames;W10;;likely="Calgary Flames",match=low
-"lightning";lightning;W10;;likely="Louisville Lightning; Tampa Bay Lightning",match=low
+"lightning";lightning;W10;;possible="Louisville Lightning; Tampa Bay Lightning",match=low
 "cavaliers";cavaliers;W10;;likely="Cleveland Cavaliers",match=low
-"nationals";nationals;W10;;likely="Washington Nationals; Hamilton Nationals",match=low
-"edmonton";edmonton;W10;;likely="Edmonton Drillers; FC Edmonton; Edmonton Eskimos; Edmonton Oilers; Edmonton Rush",match=low
+"nationals";nationals;W10;;possible="Washington Nationals; Hamilton Nationals",match=low
+"edmonton";edmonton;W10;;possible="Edmonton Drillers; FC Edmonton; Edmonton Eskimos; Edmonton Oilers; Edmonton Rush",match=low
 "albany";albany;W10;;likely="Albany Devils",match=low
 "trenton";trenton;W10;;likely="Trenton Titans",match=low
-"louis";louis;W10;;likely="St. Louis Rams; St. Louis Blues; St. Louis Cardinals",match=low
-"giants";giants;W10;;likely="New York Giants; San Francisco Giants",match=low
+"louis";louis;W10;;possible="St. Louis Rams; St. Louis Blues; St. Louis Cardinals",match=low
+"giants";giants;W10;;possible="New York Giants; San Francisco Giants",match=low
 "furies";furies;W10;;likely="Toronto Furies",match=low
-"kansas";kansas;W10;;likely="Sporting Kansas City; FC Kansas City; Kansas City Chiefs; Kansas City Royals",match=low
+"kansas";kansas;W10;;possible="Sporting Kansas City; FC Kansas City; Kansas City Chiefs; Kansas City Royals",match=low
 "abbotsford";abbotsford;W10;;likely="Abbotsford Heat",match=low
 "binghamton";binghamton;W10;;likely="Binghamton Senators",match=low
 "magic";magic;W10;;likely="Orlando Magic",match=low
@@ -546,44 +546,44 @@
 "icegators";icegators;W10;;likely="Louisiana IceGators",match=low
 "cosmos";cosmos;W10;;likely="New York Cosmos",match=low
 "rock";rock;W10;;likely="Toronto Rock",match=low
-"tigers";tigers;W10;;likely="Bridgeport Sound Tigers; Detroit Tigers",match=low
+"tigers";tigers;W10;;possible="Bridgeport Sound Tigers; Detroit Tigers",match=low
 "fayetteville";fayetteville;W10;;likely="Fayetteville FireAntz",match=low
 "nighthawks";nighthawks;W10;;likely="Omaha Nighthawks",match=low
-"cincinnati";cincinnati;W10;;likely="Cincinnati Kings; Cincinnati Bengals; Cincinnati Cyclones; Cincinnati Reds",match=low
+"cincinnati";cincinnati;W10;;possible="Cincinnati Kings; Cincinnati Bengals; Cincinnati Cyclones; Cincinnati Reds",match=low
 "cottonmouths";cottonmouths;W10;;likely="Columbus Cottonmouths",match=low
 "mountain";mountain;W10;;likely="Sacramento Mountain Lions",match=low
 "dream";dream;W10;;likely="Atlanta Dream",match=low
-"fc";fc;W10;;likely="Winnipeg Alliance FC; Toronto FC; FC Dallas; Seattle Sounders FC; Vancouver Whitecaps FC; FC Kansas City; Portland Thorns FC; Seattle Reign FC; Sky Blue FC; Carolina RailHawks FC; FC Edmonton; Minnesota United FC",match=low
+"fc";fc;W10;;possible="Winnipeg Alliance FC; Toronto FC; FC Dallas; Seattle Sounders FC; Vancouver Whitecaps FC; FC Kansas City; Portland Thorns FC; Seattle Reign FC; Sky Blue FC; Carolina RailHawks FC; FC Edmonton; Minnesota United FC",match=low
 "knicks";knicks;W10;;likely="New York Knicks",match=low
 "bc";bc;W10;;likely="BC Lions",match=low
 "jackets";jackets;W10;;likely="Columbus Blue Jackets",match=low
 "marlins";marlins;W10;;likely="Miami Marlins",match=low
 "jaguars";jaguars;W10;;likely="Jacksonville Jaguars",match=low
 "riverhawks";riverhawks;W10;;likely="Augusta RiverHawks",match=low
-"las";las;W10;;likely="Las Vegas Locomotives; Las Vegas Wranglers",match=low
+"las";las;W10;;possible="Las Vegas Locomotives; Las Vegas Wranglers",match=low
 "machine";machine;W10;;likely="Ohio Machine",match=low
 "omaha";omaha;W10;;likely="Omaha Nighthawks",match=low
-"york";york;W10;;likely="New York Red Bulls; Western New York Flash; New York Cosmos; F.C. New York; New York Knicks; New York Liberty; New York Jets; New York Giants; New York Islanders; New York Rangers; New York Mets; New York Yankees; New York Lizards",match=low
-"montreal";montreal;W10;;likely="Montreal Impact; Montreal Alouettes; Montreal Stars; Montreal Canadiens",match=low
-"rapids";rapids;W10;;likely="Colorado Rapids; Grand Rapids Griffins",match=low
+"york";york;W10;;possible="New York Red Bulls; Western New York Flash; New York Cosmos; F.C. New York; New York Knicks; New York Liberty; New York Jets; New York Giants; New York Islanders; New York Rangers; New York Mets; New York Yankees; New York Lizards",match=low
+"montreal";montreal;W10;;possible="Montreal Impact; Montreal Alouettes; Montreal Stars; Montreal Canadiens",match=low
+"rapids";rapids;W10;;possible="Colorado Rapids; Grand Rapids Griffins",match=low
 "alouettes";alouettes;W10;;likely="Montreal Alouettes",match=low
 "patriots";patriots;W10;;likely="New England Patriots",match=low
-"detroit";detroit;W10;;likely="Detroit Waza; Detroit Pistons; Detroit Lions; Detroit Red Wings; Detroit Tigers",match=low
+"detroit";detroit;W10;;possible="Detroit Waza; Detroit Pistons; Detroit Lions; Detroit Red Wings; Detroit Tigers",match=low
 "nailers";nailers;W10;;likely="Wheeling Nailers",match=low
-"baltimore";baltimore;W10;;likely="Baltimore Blast; Baltimore Ravens; Baltimore Orioles",match=low
+"baltimore";baltimore;W10;;possible="Baltimore Blast; Baltimore Ravens; Baltimore Orioles",match=low
 "packers";packers;W10;;likely="Green Bay Packers",match=low
 "wayne";wayne;W10;;likely="Fort Wayne Komets",match=low
-"phoenix";phoenix;W10;;likely="Phoenix Suns; Phoenix Mercury; Phoenix Coyotes",match=low
+"phoenix";phoenix;W10;;possible="Phoenix Suns; Phoenix Mercury; Phoenix Coyotes",match=low
 "nets";nets;W10;;likely="Brooklyn Nets",match=low
 "crunch";crunch;W10;;likely="Syracuse Crunch",match=low
 "manchester";manchester;W10;;likely="Manchester Monarchs",match=low
 "gladiators";gladiators;W10;;likely="Gwinnett Gladiators",match=low
 "wranglers";wranglers;W10;;likely="Las Vegas Wranglers",match=low
 "saints";saints;W10;;likely="New Orleans Saints",match=low
-"bulls";bulls;W10;;likely="New York Red Bulls; Chicago Bulls; San Francisco Bulls",match=low
+"bulls";bulls;W10;;possible="New York Red Bulls; Chicago Bulls; San Francisco Bulls",match=low
 "lizards";lizards;W10;;likely="New York Lizards",match=low
 "surge";surge;W10;;likely="Mississippi Surge",match=low
-"seattle";seattle;W10;;likely="Seattle Sounders FC; Seattle Reign FC; Seattle Storm; Seattle Seahawks; Seattle Mariners",match=low
+"seattle";seattle;W10;;possible="Seattle Sounders FC; Seattle Reign FC; Seattle Storm; Seattle Seahawks; Seattle Mariners",match=low
 "bayhawks";bayhawks;W10;;likely="Chesapeake Bayhawks",match=low
 "seahawks";seahawks;W10;;likely="Seattle Seahawks",match=low
 "union";union;W10;;likely="Philadelphia Union",match=low
@@ -591,26 +591,26 @@
 "ottawa";ottawa;W10;;likely="Ottawa Senators",match=low
 "rush";rush;W10;;likely="Edmonton Rush",match=low
 "bobcats";bobcats;W10;;likely="Charlotte Bobcats",match=low
-"pittsburgh";pittsburgh;W10;;likely="Pittsburgh Riverhounds; Pittsburgh Steelers; Pittsburgh Penguins; Pittsburgh Pirates",match=low
-"oklahoma";oklahoma;W10;;likely="Oklahoma City Thunder; Oklahoma City Barons",match=low
+"pittsburgh";pittsburgh;W10;;possible="Pittsburgh Riverhounds; Pittsburgh Steelers; Pittsburgh Penguins; Pittsburgh Pirates",match=low
+"oklahoma";oklahoma;W10;;possible="Oklahoma City Thunder; Oklahoma City Barons",match=low
 "ducks";ducks;W10;;likely="Anaheim Ducks",match=low
 "broncos";broncos;W10;;likely="Denver Broncos",match=low
 "cannons";cannons;W10;;likely="Boston Cannons",match=low
 "rowdies";rowdies;W10;;likely="Tampa Bay Rowdies",match=low
 "bills";bills;W10;;likely="Buffalo Bills",match=low
-"lions";lions;W10;;likely="Dayton Dutch Lions; BC Lions; Detroit Lions; Sacramento Mountain Lions",match=low
-"red";red;W10;;likely="New York Red Bulls; Chicago Red Stars; Detroit Red Wings; Boston Red Sox",match=low
+"lions";lions;W10;;possible="Dayton Dutch Lions; BC Lions; Detroit Lions; Sacramento Mountain Lions",match=low
+"red";red;W10;;possible="New York Red Bulls; Chicago Red Stars; Detroit Red Wings; Boston Red Sox",match=low
 "browns";browns;W10;;likely="Cleveland Browns",match=low
 "orioles";orioles;W10;;likely="Baltimore Orioles",match=low
 "celtics";celtics;W10;;likely="Boston Celtics",match=low
-"atlanta";atlanta;W10;;likely="Atlanta Silverbacks; Atlanta Hawks; Atlanta Dream; Atlanta Falcons; Atlanta Braves",match=low
+"atlanta";atlanta;W10;;possible="Atlanta Silverbacks; Atlanta Hawks; Atlanta Dream; Atlanta Falcons; Atlanta Braves",match=low
 "trail";trail;W10;;likely="Portland Trail Blazers",match=low
 "buccaneers";buccaneers;W10;;likely="Tampa Bay Buccaneers",match=low
 "roughriders";roughriders;W10;;likely="Saskatchewan Roughriders",match=low
 "hurricanes";hurricanes;W10;;likely="Carolina Hurricanes",match=low
-"bay";bay;W10;;likely="Tampa Bay Rowdies; Green Bay Packers; Tampa Bay Buccaneers; Tampa Bay Lightning; Tampa Bay Rays",match=low
-"oakland";oakland;W10;;likely="Oakland Raiders; Oakland Athletics",match=low
-"blue";blue;W10;;likely="Sky Blue FC; Winnipeg Blue Bombers; Columbus Blue Jackets; Toronto Blue Jays",match=low
+"bay";bay;W10;;possible="Tampa Bay Rowdies; Green Bay Packers; Tampa Bay Buccaneers; Tampa Bay Lightning; Tampa Bay Rays",match=low
+"oakland";oakland;W10;;possible="Oakland Raiders; Oakland Athletics",match=low
+"blue";blue;W10;;possible="Sky Blue FC; Winnipeg Blue Bombers; Columbus Blue Jackets; Toronto Blue Jays",match=low
 "sporting";sporting;W10;;likely="Sporting Kansas City",match=low
 "memphis";memphis;W10;;likely="Memphis Grizzlies",match=low
 "icemen";icemen;W10;;likely="Evansville IceMen",match=low
@@ -622,15 +622,15 @@
 "tulsa";tulsa;W10;;likely="Tulsa Shock",match=low
 "cyclones";cyclones;W10;;likely="Cincinnati Cyclones",match=low
 "riverkings";riverkings;W10;;likely="Mississippi RiverKings",match=low
-"leafs";leafs;W10;;likely="Toronto Maple Leafs; Manitoba Maple Leafs",match=low
+"leafs";leafs;W10;;possible="Toronto Maple Leafs; Manitoba Maple Leafs",match=low
 "knighthawks";knighthawks;W10;;likely="Rochester Knighthawks",match=low
 "suns";suns;W10;;likely="Phoenix Suns",match=low
 "pistons";pistons;W10;;likely="Detroit Pistons",match=low
 "tiger.?cats";tigerxcats;W10;;likely="Hamilton Tiger-Cats",match=low
 "hiatus.?";hiatusx;W10;;likely="Puerto Rico Islanders (on hiatus)",match=low
-"penguins";penguins;W10;;likely="Wilkes-Barre/Scranton Penguins; Pittsburgh Penguins",match=low
-"city";city;W10;;likely="Sporting Kansas City; FC Kansas City; Orlando City; Harrisburg City Islanders; Oklahoma City Thunder; Kansas City Chiefs; Oklahoma City Barons; Kansas City Royals",match=low
-"anaheim";anaheim;W10;;likely="Anaheim Ducks; Los Angeles Angels of Anaheim",match=low
+"penguins";penguins;W10;;possible="Wilkes-Barre/Scranton Penguins; Pittsburgh Penguins",match=low
+"city";city;W10;;possible="Sporting Kansas City; FC Kansas City; Orlando City; Harrisburg City Islanders; Oklahoma City Thunder; Kansas City Chiefs; Oklahoma City Barons; Kansas City Royals",match=low
+"anaheim";anaheim;W10;;possible="Anaheim Ducks; Los Angeles Angels of Anaheim",match=low
 "rattlers";rattlers;W10;;likely="Rochester Rattlers",match=low
 "grand";grand;W10;;likely="Grand Rapids Griffins",match=low
 "wichita";wichita;W10;;likely="Wichita Wings",match=low
@@ -638,7 +638,7 @@
 "knoxville";knoxville;W10;;likely="Knoxville Ice Bears",match=low
 "bandits";bandits;W10;;likely="Buffalo Bandits",match=low
 "jays";jays;W10;;likely="Toronto Blue Jays",match=low
-"cleveland";cleveland;W10;;likely="Cleveland Cavaliers; Cleveland Browns; Cleveland Indians",match=low
+"cleveland";cleveland;W10;;possible="Cleveland Cavaliers; Cleveland Browns; Cleveland Indians",match=low
 "avalanche";avalanche;W10;;likely="Colorado Avalanche",match=low
 "hershey";hershey;W10;;likely="Hershey Bears",match=low
 "alaska";alaska;W10;;likely="Alaska Aces",match=low
@@ -656,57 +656,57 @@
 "puerto";puerto;W10;;likely="Puerto Rico Islanders (on hiatus)",match=low
 "erie";erie;W10;;likely="Lake Erie Monsters",match=low
 "hawks";hawks;W10;;likely="Atlanta Hawks",match=low
-"orleans";orleans;W10;;likely="New Orleans Pelicans; New Orleans Saints",match=low
+"orleans";orleans;W10;;possible="New Orleans Pelicans; New Orleans Saints",match=low
 "virginia";virginia;W10;;likely="Virginia Destroyers",match=low
 "destroyers";destroyers;W10;;likely="Virginia Destroyers",match=low
 "pensacola";pensacola;W10;;likely="Pensacola Ice Flyers",match=low
 "nashville";nashville;W10;;likely="Nashville Predators",match=low
 "blast";blast;W10;;likely="Baltimore Blast",match=low
-"f.?c.?";fxcx;W10;;likely="Calgary United F.C.; F.C. New York",match=low
+"f.?c.?";fxcx;W10;;possible="Calgary United F.C.; F.C. New York",match=low
 "tennessee";tennessee;W10;;likely="Tennessee Titans",match=low
 "state";state;W10;;likely="Golden State Warriors",match=low
-"islanders";islanders;W10;;likely="Puerto Rico Islanders (on hiatus); Harrisburg City Islanders; New York Islanders",match=low
+"islanders";islanders;W10;;possible="Puerto Rico Islanders (on hiatus); Harrisburg City Islanders; New York Islanders",match=low
 "pacers";pacers;W10;;likely="Indiana Pacers",match=low
 "thorns";thorns;W10;;likely="Portland Thorns FC",match=low
 "mercury";mercury;W10;;likely="Phoenix Mercury",match=low
 "oilers";oilers;W10;;likely="Edmonton Oilers",match=low
-"sacramento";sacramento;W10;;likely="Sacramento Kings; Sacramento Mountain Lions",match=low
+"sacramento";sacramento;W10;;possible="Sacramento Kings; Sacramento Mountain Lions",match=low
 "padres";padres;W10;;likely="San Diego Padres",match=low
 "kickers";kickers;W10;;likely="Richmond Kickers",match=low
-"antonio";antonio;W10;;likely="San Antonio Scorpions; San Antonio Spurs; San Antonio Silver Stars; San Antonio Rampage",match=low
+"antonio";antonio;W10;;possible="San Antonio Scorpions; San Antonio Spurs; San Antonio Silver Stars; San Antonio Rampage",match=low
 "tacoma";tacoma;W10;;likely="Tacoma Stars",match=low
 "chesapeake";chesapeake;W10;;likely="Chesapeake Bayhawks",match=low
-"houston";houston;W10;;likely="Houston Dynamo; Houston Rockets; Houston Texans; Houston Aeros; Houston Astros",match=low
+"houston";houston;W10;;possible="Houston Dynamo; Houston Rockets; Houston Texans; Houston Aeros; Houston Astros",match=low
 "colts";colts;W10;;likely="Indianapolis Colts",match=low
-"heat";heat;W10;;likely="Miami Heat; Abbotsford Heat",match=low
-"sox";sox;W10;;likely="Boston Red Sox; Chicago White Sox",match=low
+"heat";heat;W10;;possible="Miami Heat; Abbotsford Heat",match=low
+"sox";sox;W10;;possible="Boston Red Sox; Chicago White Sox",match=low
 "vortex";vortex;W10;;likely="Ohio Vortex",match=low
 "whale";whale;W10;;likely="Connecticut Whale",match=low
 "angels";angels;W10;;likely="Los Angeles Angels of Anaheim",match=low
-"sky";sky;W10;;likely="Sky Blue FC; Chicago Sky",match=low
+"sky";sky;W10;;possible="Sky Blue FC; Chicago Sky",match=low
 "evansville";evansville;W10;;likely="Evansville IceMen",match=low
 "americans";americans;W10;;likely="Rochester Americans",match=low
 "knights";knights;W10;;likely="Syracuse Silver Knights",match=low
-"rochester";rochester;W10;;likely="Rochester Lancers; Rochester Rhinos; Rochester Americans; Rochester Rattlers; Rochester Knighthawks",match=low
-"jose";jose;W10;;likely="San Jose Earthquakes; San Jose Sharks",match=low
-"syracuse";syracuse;W10;;likely="Syracuse Silver Knights; Syracuse Crunch",match=low
+"rochester";rochester;W10;;possible="Rochester Lancers; Rochester Rhinos; Rochester Americans; Rochester Rattlers; Rochester Knighthawks",match=low
+"jose";jose;W10;;possible="San Jose Earthquakes; San Jose Sharks",match=low
+"syracuse";syracuse;W10;;possible="Syracuse Silver Knights; Syracuse Crunch",match=low
 "yankees";yankees;W10;;likely="New York Yankees",match=low
 "coyotes";coyotes;W10;;likely="Phoenix Coyotes",match=low
 "reds";reds;W10;;likely="Cincinnati Reds",match=low
 "reading";reading;W10;;likely="Reading Royals",match=low
-"springfield";springfield;W10;;likely="Springfield Demize; Springfield Falcons",match=low
-"wings";wings;W10;;likely="Wichita Wings; Kalamazoo Wings; Detroit Red Wings; Philadelphia Wings",match=low
+"springfield";springfield;W10;;possible="Springfield Demize; Springfield Falcons",match=low
+"wings";wings;W10;;possible="Wichita Wings; Kalamazoo Wings; Detroit Red Wings; Philadelphia Wings",match=low
 "jersey";jersey;W10;;likely="New Jersey Devils",match=low
 "roughnecks";roughnecks;W10;;likely="Calgary Roughnecks",match=low
-"lake";lake;W10;;likely="Real Salt Lake; Lake Erie Monsters",match=low
+"lake";lake;W10;;possible="Real Salt Lake; Lake Erie Monsters",match=low
 "mystics";mystics;W10;;likely="Washington Mystics",match=low
-"vancouver";vancouver;W10;;likely="Vancouver Whitecaps FC; Vancouver Canucks",match=low
+"vancouver";vancouver;W10;;possible="Vancouver Whitecaps FC; Vancouver Canucks",match=low
 "fireantz";fireantz;W10;;likely="Fayetteville FireAntz",match=low
-"reign";reign;W10;;likely="Seattle Reign FC; Ontario Reign",match=low
-"orlando";orlando;W10;;likely="Orlando City; Orlando Magic; Orlando Solar Bears",match=low
-"new";new;W10;;likely="New England Revolution; New York Red Bulls; Western New York Flash; New York Cosmos; F.C. New York; New York Knicks; New Orleans Pelicans; New York Liberty; New England Patriots; New York Jets; New York Giants; New Orleans Saints; New Jersey Devils; New York Islanders; New York Rangers; New York Mets; New York Yankees; New York Lizards",match=low
-"dallas";dallas;W10;;likely="FC Dallas; Dallas Mavericks; Dallas Cowboys; Dallas Stars",match=low
-"admirals";admirals;W10;;likely="Norfolk Admirals; Milwaukee Admirals",match=low
+"reign";reign;W10;;possible="Seattle Reign FC; Ontario Reign",match=low
+"orlando";orlando;W10;;possible="Orlando City; Orlando Magic; Orlando Solar Bears",match=low
+"new";new;W10;;possible="New England Revolution; New York Red Bulls; Western New York Flash; New York Cosmos; F.C. New York; New York Knicks; New Orleans Pelicans; New York Liberty; New England Patriots; New York Jets; New York Giants; New Orleans Saints; New Jersey Devils; New York Islanders; New York Rangers; New York Mets; New York Yankees; New York Lizards",match=low
+"dallas";dallas;W10;;possible="FC Dallas; Dallas Mavericks; Dallas Cowboys; Dallas Stars",match=low
+"admirals";admirals;W10;;possible="Norfolk Admirals; Milwaukee Admirals",match=low
 "canucks";canucks;W10;;likely="Vancouver Canucks",match=low
 "raptors";raptors;W10;;likely="Toronto Raptors",match=low
 "south";south;W10;;likely="South Carolina Stingrays",match=low

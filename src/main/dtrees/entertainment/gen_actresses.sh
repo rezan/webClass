@@ -39,7 +39,7 @@ END{
     gsub(" ","_",id)
     type="likely"
     val=substr(part[x],3);
-    if(index(val,",")>0) {
+    if(index(val,";")>0) {
       type="possible"
     }
     printf("\"%s\";%s;W;;%s=\"%s\",match=medium\n",pattern,id,type,val);
