@@ -17,6 +17,7 @@
                 <value>/WEB-INF/dtrees/entertainment/movies1991_2014.dtree</value>
                 <value>/WEB-INF/dtrees/devicedetection/openddr.dtree</value>
                 <value>/WEB-INF/dtrees/devicedetection/browser.dtree</value>
+                <value>/WEB-INF/dtrees/human/emotion.dtree</value>
             </list>
         </property>
     </bean>
