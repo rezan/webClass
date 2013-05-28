@@ -19,7 +19,7 @@ https://github.com/rezan/webClass/tree/master/src/main/dtrees
 FAQ
 
 Q: How do you interpret the results of webClass?
-A: At this moment is time, webClass is purely a pattern classifer. webClass
+A: At this moment in time, webClass is purely a pattern classifer. webClass
    does not provide any reasoning or post classification logic. This may
    (and likely will) change in the future. When more indexes are created,
    a common classification langauge will emerge which will allow for cross
