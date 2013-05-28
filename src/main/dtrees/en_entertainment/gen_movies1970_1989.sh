@@ -29,7 +29,7 @@ BEGIN {
   if(on)
     print $0
 }
-' | sed "s/<\/i>/\n/g" | grep "^<li>" | grep "<i>" | sed "s/<[^>]*>//g" | sed "s/amp;//g" | tr "\"" "'" | tr ";" "," | sed "s/$/ $YEAR/" >> movies
+' | sed "s/<\/i>/\n/g" | grep "^<li>" | grep "<i>" | sed "s/<[^>]*>//g" | sed "s/amp;//g" | tr "\"" "'" | tr ";" "," | sed "s/\.\.\.//" | sed "s/$/ $YEAR/" >> movies
 done
 
 cat movies | gawk '

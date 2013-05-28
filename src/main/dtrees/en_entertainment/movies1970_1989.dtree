@@ -1,4 +1,4 @@
-# en wikipedia USA movies 1970_1989 20130525
+# en wikipedia USA movies 1970_1989 20130528
 #$regex
 #$dups
 #!unknown
@@ -99,7 +99,7 @@
 "Kazoku";Kazoku;W80;;name="Kazoku",year=1970,match=exact
 "Kelly.?s Heroes";Kellyxs_Heroes;W80;;name="Kelly's Heroes",year=1970,match=exact
 "Khilona";Khilona;W80;;name="Khilona",year=1970,match=exact
-"King.? A Filmed Record.?.?.? Montgomery to Memphis";Kingx_A_Filmed_Recordxxx_Montgomery_to_Memphis;W80;;name="King: A Filmed Record... Montgomery to Memphis",year=1970,match=exact
+"King.? A Filmed Record Montgomery to Memphis";Kingx_A_Filmed_Record_Montgomery_to_Memphis;W80;;name="King: A Filmed Record Montgomery to Memphis",year=1970,match=exact
 "The Kremlin Letter";The_Kremlin_Letter;W80;;name="The Kremlin Letter",year=1970,match=exact
 "The Landlord";The_Landlord;W80;;name="The Landlord",year=1970,match=exact
 "Landscape After Battle";Landscape_After_Battle;W80;;name="Landscape After Battle",year=1970,match=exact
@@ -176,11 +176,11 @@
 "Taking Tiger Mountain by Strategy";Taking_Tiger_Mountain_by_Strategy;W80;;name="Taking Tiger Mountain by Strategy",year=1970,match=exact
 "Tell Me That You Love Me.? Junie Moon";Tell_Me_That_You_Love_Mex_Junie_Moon;W80;;name="Tell Me That You Love Me, Junie Moon",year=1970,match=exact
 "There.?s a Girl in My Soup";Therexs_a_Girl_in_My_Soup;W80;;name="There's a Girl in My Soup",year=1970,match=exact
-"There Was a Crooked Man.?.?.?";There_Was_a_Crooked_Manxxx;W80;;name="There Was a Crooked Man...",year=1970,match=exact
+"There Was a Crooked Man";There_Was_a_Crooked_Man;W80;;name="There Was a Crooked Man",year=1970,match=exact
 "They Call Me Trinity";They_Call_Me_Trinity;W80;;name="They Call Me Trinity",year=1970,match=exact
 "The Things of Life";The_Things_of_Life;W80;;name="The Things of Life",year=1970,match=exact
 "Three Sisters";Three_Sisters;W80;;name="Three Sisters",year=1970,match=exact
-".?.?.?tick.?.?.?tick.?.?.?tick.?.?.?";xxxtickxxxtickxxxtickxxx;W80;;name="...tick...tick...tick...",year=1970,match=exact
+"tick.?.?.?tick.?.?.?tick.?.?.?";tickxxxtickxxxtickxxx;W80;;name="tick...tick...tick...",year=1970,match=exact
 "Too Late the Hero";Too_Late_the_Hero;W80;;name="Too Late the Hero",year=1970,match=exact
 "Tora.? Tora.? Tora.?";Torax_Torax_Torax;W80;;name="Tora! Tora! Tora!",year=1970,match=exact
 "The Traveling Executioner";The_Traveling_Executioner;W80;;name="The Traveling Executioner",year=1970,match=exact
@@ -968,7 +968,7 @@
 "Son of Dracula";Son_of_Dracula;W80;;name="Son of Dracula",year=1974,match=exact
 "The Spikes Gang";The_Spikes_Gang;W80;;name="The Spikes Gang",year=1974,match=exact
 "Stardust";Stardust;W80;;name="Stardust",year=1974,match=exact
-"Stavisky.?.?.?";Staviskyxxx;W80;;name="Stavisky...",year=1974,match=exact
+"Stavisky";Stavisky;W80;;name="Stavisky",year=1974,match=exact
 "Still Life";Still_Life;W80;;name="Still Life",year=1974,match=exact
 "Stone";Stone;W80;;name="Stone",year=1974,match=exact
 "The Street Fighter";The_Street_Fighter;W80;;name="The Street Fighter",year=1974,match=exact
@@ -1258,7 +1258,7 @@
 "In the Realm of the Senses";In_the_Realm_of_the_Senses;W80;;name="In the Realm of the Senses",year=1976,match=exact
 "L.?innocente";Lxinnocente;W80;;name="L'innocente",year=1976,match=exact
 "The Inugamis";The_Inugamis;W80;;name="The Inugamis",year=1976,match=exact
-"I Will.? I Will.?.?.? for Now";I_Willx_I_Willxxx_for_Now;W80;;name="I Will, I Will... for Now",year=1976,match=exact
+"I Will.? I Will for Now";I_Willx_I_Will_for_Now;W80;;name="I Will, I Will for Now",year=1976,match=exact
 "J.?D.?.?s Revenge";JxDxxs_Revenge;W80;;name="J.D.'s Revenge",year=1976,match=exact
 "Je t.?aime moi non plus";Je_txaime_moi_non_plus;W80;;name="Je t'aime moi non plus",year=1976,match=exact
 "Jonah Who Will Be 25 in the Year 2000";Jonah_Who_Will_Be_25_in_the_Year_2000;W80;;name="Jonah Who Will Be 25 in the Year 2000",year=1976,match=exact
@@ -1549,7 +1549,7 @@
 "You Light Up My Life";You_Light_Up_My_Life;W80;;name="You Light Up My Life",year=1977,match=exact
 "The 36th Chamber of Shaolin";The_36th_Chamber_of_Shaolin;W80;;name="The 36th Chamber of Shaolin",year=1978,match=exact
 "The Adventures of Jody Shanan";The_Adventures_of_Jody_Shanan;W80;;name="The Adventures of Jody Shanan",year=1978,match=exact
-"Alexandria.?.?.? Why.?";Alexandriaxxx_Whyx;W80;;name="Alexandria... Why?",year=1978,match=exact
+"Alexandria Why.?";Alexandria_Whyx;W80;;name="Alexandria Why?",year=1978,match=exact
 "Almost Summer";Almost_Summer;W80;;name="Almost Summer",year=1978,match=exact
 "American Boy.? A Profile of Steven Prince";American_Boyx_A_Profile_of_Steven_Prince;W80;;name="American Boy: A Profile of Steven Prince",year=1978,match=exact
 "American Hot Wax";American_Hot_Wax;W80;;name="American Hot Wax",year=1978,match=exact
@@ -1777,7 +1777,7 @@
 "Chapter Two";Chapter_Two;W80;;name="Chapter Two",year=1979,match=exact
 "The China Syndrome";The_China_Syndrome;W80;;name="The China Syndrome",year=1979,match=exact
 "Christ Stopped at Eboli";Christ_Stopped_at_Eboli;W80;;name="Christ Stopped at Eboli",year=1979,match=exact
-"The Concorde( .)?.?.? Airport( .)?79";The_Concorde_xxx_Airport_x79;W80;;name="The Concorde( .).. Airport '79",year=1979,match=exact
+"The Concorde Airport( .)?79";The_Concorde_Airport_x79;W80;;name="The Concorde Airport '79",year=1979,match=exact
 "Cuba";Cuba;W80;;name="Cuba",year=1979,match=exact
 "David";David;W80;;name="David",year=1979,match=exact
 "Derek and Clive Get the Horn";Derek_and_Clive_Get_the_Horn;W80;;name="Derek and Clive Get the Horn",year=1979,match=exact
@@ -2190,7 +2190,7 @@
 "Zigeunerweisen";Zigeunerweisen;W80;;name="Zigeunerweisen",year=1980,match=exact
 "Absence of Malice";Absence_of_Malice;W80;;name="Absence of Malice",year=1981,match=exact
 "All Night Long";All_Night_Long;W80;;name="All Night Long",year=1981,match=exact
-".?.?.?All the Marbles";xxxAll_the_Marbles;W80;;name="...All the Marbles",year=1981,match=exact
+"All the Marbles";All_the_Marbles;W80;;name="All the Marbles",year=1981,match=exact
 "American Pop";American_Pop;W80;;name="American Pop",year=1981,match=exact
 "An American Werewolf in London";An_American_Werewolf_in_London;W80;;name="An American Werewolf in London",year=1981,match=exact
 "Amy";Amy;W80;;name="Amy",year=1981,match=exact
@@ -3310,7 +3310,7 @@
 "Target";Target;W80;;name="Target",year=1985,match=exact
 "Tea in the Harem";Tea_in_the_Harem;W80;;name="Tea in the Harem",year=1985,match=exact
 "Teen Wolf";Teen_Wolf;W80;;name="Teen Wolf",year=1985,match=exact
-"That Was Then.?.?.? This Is Now";That_Was_Thenxxx_This_Is_Now;W80;;name="That Was Then... This Is Now",year=1985,match=exact
+"That Was Then This Is Now";That_Was_Then_This_Is_Now;W80;;name="That Was Then This Is Now",year=1985,match=exact
 "That.?s Dancing.?";Thatxs_Dancingx;W80;;name="That's Dancing!",year=1985,match=exact
 "Thirteen at Dinner";Thirteen_at_Dinner;W80;;name="Thirteen at Dinner",year=1985,match=exact
 "Three Men and a Cradle";Three_Men_and_a_Cradle;W80;;name="Three Men and a Cradle",year=1985,match=exact
@@ -3352,7 +3352,7 @@
 "52 Pick.?Up";52_PickxUp;W80;;name="52 Pick-Up",year=1986,match=exact
 "Aakhree Raasta";Aakhree_Raasta;W80;;name="Aakhree Raasta",year=1986,match=exact
 "Abel";Abel;W80;;name="Abel",year=1986,match=exact
-"About Last Night.?.?.?";About_Last_Nightxxx;W80;;name="About Last Night...",year=1986,match=exact
+"About Last Night";About_Last_Night;W80;;name="About Last Night",year=1986,match=exact
 "Absolute Beginners";Absolute_Beginners;W80;;name="Absolute Beginners",year=1986,match=exact
 "The Adventure of Faustus Bidgood";The_Adventure_of_Faustus_Bidgood;W80;;name="The Adventure of Faustus Bidgood",year=1986,match=exact
 "The Adventures of Milo and Otis";The_Adventures_of_Milo_and_Otis;W80;;name="The Adventures of Milo and Otis",year=1986,match=exact
@@ -3450,7 +3450,7 @@
 "The Green Ray";The_Green_Ray;W80;;name="The Green Ray",year=1986,match=exact
 "Gung Ho.?";Gung_Hox;W80;;name="Gung Ho!",year=1986,match=exact
 "Half Moon Street";Half_Moon_Street;W80;;name="Half Moon Street",year=1986,match=exact
-"Hamburger.?.?.? The Motion Picture";Hamburgerxxx_The_Motion_Picture;W80;;name="Hamburger... The Motion Picture",year=1986,match=exact
+"Hamburger The Motion Picture";Hamburger_The_Motion_Picture;W80;;name="Hamburger The Motion Picture",year=1986,match=exact
 "Hannah and Her Sisters";Hannah_and_Her_Sisters;W80;;name="Hannah and Her Sisters",year=1986,match=exact
 "Haunted Honeymoon";Haunted_Honeymoon;W80;;name="Haunted Honeymoon",year=1986,match=exact
 "Heartbreak Ridge";Heartbreak_Ridge;W80;;name="Heartbreak Ridge",year=1986,match=exact
@@ -4380,7 +4380,7 @@
 "Rojo Amanecer";Rojo_Amanecer;W80;;name="Rojo Amanecer",year=1989,match=exact
 "Rosalie Goes Shopping";Rosalie_Goes_Shopping;W80;;name="Rosalie Goes Shopping",year=1989,match=exact
 "Santa Sangre";Santa_Sangre;W80;;name="Santa Sangre",year=1989,match=exact
-"Say Anything.?.?.?";Say_Anythingxxx;W80;;name="Say Anything...",year=1989,match=exact
+"Say Anything";Say_Anything;W80;;name="Say Anything",year=1989,match=exact
 "Scandal";Scandal;W80;;name="Scandal",year=1989,match=exact
 "Scenes from the Class Struggle in Beverly Hills";Scenes_from_the_Class_Struggle_in_Beverly_Hills;W80;;name="Scenes from the Class Struggle in Beverly Hills",year=1989,match=exact
 "Sea of Love";Sea_of_Love;W80;;name="Sea of Love",year=1989,match=exact
@@ -4437,7 +4437,7 @@
 "Welcome Home";Welcome_Home;W80;;name="Welcome Home",year=1989,match=exact
 "We.?re No Angels";Wexre_No_Angels;W80;;name="We're No Angels",year=1989,match=exact
 "What Time is it.?";What_Time_is_itx;W80;;name="What Time is it?",year=1989,match=exact
-"When Harry Met Sally.?.?.?";When_Harry_Met_Sallyxxx;W80;;name="When Harry Met Sally...",year=1989,match=exact
+"When Harry Met Sally";When_Harry_Met_Sally;W80;;name="When Harry Met Sally",year=1989,match=exact
 "When the Whales Came";When_the_Whales_Came;W80;;name="When the Whales Came",year=1989,match=exact
 "Who.?s Harry Crumb.?";Whoxs_Harry_Crumbx;W80;;name="Who's Harry Crumb?",year=1989,match=exact
 "Why Has Bodhi.?Dharma Left for the East.?";Why_Has_BodhixDharma_Left_for_the_Eastx;W80;;name="Why Has Bodhi-Dharma Left for the East?",year=1989,match=exact
@@ -4513,7 +4513,7 @@
 "hans";hans;W10;;likely="Hans Christian Andersen's The Little Mermaid",match=low
 "general";general;W10;;likely="General Idi Amin Dada: A Self Portrait",match=low
 "raasta";raasta;W10;;likely="Aakhree Raasta",match=low
-"montgomery";montgomery;W10;;likely="King: A Filmed Record... Montgomery to Memphis",match=low
+"montgomery";montgomery;W10;;likely="King: A Filmed Record Montgomery to Memphis",match=low
 "seal";seal;W10;;likely="The Fifth Seal",match=low
 "nice";nice;W10;;possible="Another Nice Mess; A Nice Plate of Spinach; Nice Dreams; Mr. Nice Guy",match=low
 "solid";solid;W10;;likely="Dead Solid Perfect",match=low
@@ -4556,7 +4556,7 @@
 "modo";modo;W10;;likely="Todo modo",match=low
 "cahill";cahill;W10;;likely="Cahill U.S. Marshal",match=low
 "knee";knee;W10;;likely="Claire's Knee",match=low
-"to";to;W10;;possible="Cotton Comes to Harlem; King: A Filmed Record... Montgomery to Memphis; Which Way to the Front?; Born to Win; How to Frame a Figg; One More Train to Rob; Soul to Soul; The Working Class Goes to Heaven; Everything You Always Wanted to Know About Sex (But Were Afraid to Ask); Everything You Always Wanted to Know About Sex (But Were Afraid to Ask); A Reason to Live, a Reason to Die; A Reason to Live, a Reason to Die; Something to Hide; To Find a Man; Ivan Vasilievich: Back to the Future; The Thief Who Came to Dinner; Journey Back to Oz; Pastoral: To Die in the Country; Report to the Commissioner; Escape to Witch Mountain; Mother Küsters' Trip to Heaven; Face to Face; God Told Me To; Harry and Walter Go to New York; The Man Who Fell to Earth; Ode to Billy Joe; To Fly!; To the Devil a Daughter; Welcome to L.A.; Herbie Goes to Monte Carlo; The Bad News Bears Go to Japan; Escape to Athena; To Forget Venice; Dressed to Kill; 9 to 5; Dressed to Kill; Fade to Black; How to Beat the High Co$t of Living; To Love the Damned; Escape to Victory; Happy Birthday to Me; Ticket to Heaven; Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean; I Ought to Be in Pictures; Lookin' to Get Out; The World According to Garp; 10 to Midnight; High Road to China; To Be or Not to Be; To Be or Not to Be; Farewell to the Ark; Give My Regards to Broad Street; Hard to Hold; A Passage to India; The Road to Bresson; Voyage to Cythera; What Have I Done to Deserve This?; Back to the Future; Girls Just Want to Have Fun; Letter to Brezhnev; Nothing Left to Do But Cry; Return to Oz; The Time to Live and the Time to Die; The Time to Live and the Time to Die; To Live and Die in L.A.; The Trip to Bountiful; A View to a Kill; 8 Million Ways to Die; Back to School; Good to Go; Voyage to Nowhere; Coast to Coast; Days to Remember; Ernest Goes to Camp; Maid to Order; Nowhere to Hide; Someone to Love; Someone to Watch Over Me; Straight to Hell; Subway to the Stars; Swimming to Cambodia; Coming to America; Hot to Trot; License to Drive; Married to the Mob; Return to Snowy River; Shoot to Kill; To Kill a Priest; All Dogs Go To Heaven; Back to the Future Part II; Farewell to the King; Freeze Die Come to Life; How to Get Ahead in Advertising; Last Exit to Brooklyn; Licence to Kill; Listen to Me; Nowhere to Run",match=low
+"to";to;W10;;possible="Cotton Comes to Harlem; King: A Filmed Record Montgomery to Memphis; Which Way to the Front?; Born to Win; How to Frame a Figg; One More Train to Rob; Soul to Soul; The Working Class Goes to Heaven; Everything You Always Wanted to Know About Sex (But Were Afraid to Ask); Everything You Always Wanted to Know About Sex (But Were Afraid to Ask); A Reason to Live, a Reason to Die; A Reason to Live, a Reason to Die; Something to Hide; To Find a Man; Ivan Vasilievich: Back to the Future; The Thief Who Came to Dinner; Journey Back to Oz; Pastoral: To Die in the Country; Report to the Commissioner; Escape to Witch Mountain; Mother Küsters' Trip to Heaven; Face to Face; God Told Me To; Harry and Walter Go to New York; The Man Who Fell to Earth; Ode to Billy Joe; To Fly!; To the Devil a Daughter; Welcome to L.A.; Herbie Goes to Monte Carlo; The Bad News Bears Go to Japan; Escape to Athena; To Forget Venice; Dressed to Kill; 9 to 5; Dressed to Kill; Fade to Black; How to Beat the High Co$t of Living; To Love the Damned; Escape to Victory; Happy Birthday to Me; Ticket to Heaven; Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean; I Ought to Be in Pictures; Lookin' to Get Out; The World According to Garp; 10 to Midnight; High Road to China; To Be or Not to Be; To Be or Not to Be; Farewell to the Ark; Give My Regards to Broad Street; Hard to Hold; A Passage to India; The Road to Bresson; Voyage to Cythera; What Have I Done to Deserve This?; Back to the Future; Girls Just Want to Have Fun; Letter to Brezhnev; Nothing Left to Do But Cry; Return to Oz; The Time to Live and the Time to Die; The Time to Live and the Time to Die; To Live and Die in L.A.; The Trip to Bountiful; A View to a Kill; 8 Million Ways to Die; Back to School; Good to Go; Voyage to Nowhere; Coast to Coast; Days to Remember; Ernest Goes to Camp; Maid to Order; Nowhere to Hide; Someone to Love; Someone to Watch Over Me; Straight to Hell; Subway to the Stars; Swimming to Cambodia; Coming to America; Hot to Trot; License to Drive; Married to the Mob; Return to Snowy River; Shoot to Kill; To Kill a Priest; All Dogs Go To Heaven; Back to the Future Part II; Farewell to the King; Freeze Die Come to Life; How to Get Ahead in Advertising; Last Exit to Brooklyn; Licence to Kill; Listen to Me; Nowhere to Run",match=low
 "ludwig";ludwig;W10;;likely="Ludwig",match=low
 "collar";collar;W10;;likely="Blue Collar",match=low
 "kind";kind;W10;;possible="All the Kind Strangers; Close Encounters of the Third Kind; Encounters of the Spooky Kind; Two of a Kind; Slapstick of Another Kind; Some Kind of Wonderful",match=low
@@ -4857,7 +4857,6 @@
 "limits";limits;W10;;possible="The Place Without Limits; Off Limits",match=low
 "tragedies";tragedies;W10;;likely="Little Tragedies",match=low
 "scrooge";scrooge;W10;;likely="Scrooge",match=low
-"night.?.?.?";nightxxx;W10;;likely="About Last Night...",match=low
 "wu.?tang";wuxtang;W10;;likely="Shaolin and Wu-Tang",match=low
 "babies";babies;W10;;likely="The Water Babies",match=low
 "junction";junction;W10;;likely="Two Moon Junction",match=low
@@ -4934,7 +4933,7 @@
 "porky.?s";porkyxs;W10;;likely="Porky's",match=low
 "charlotte";charlotte;W10;;likely="Charlotte",match=low
 "war";war;W10;;possible="The Moonshine War; Suppose They Gave a War and Nobody Came; Murphy's War; The War Between Men and Women; The War in Space; The Dogs of War; See You in the Next War; Harry's War; War and Peace; Funny Dirty Little War; The Winds of War; The Chocolate War; Hanna's War; The Milagro Beanfield War; War and Remembrance; War Party; Casualties of War; The War of the Roses; War Requiem; The Winter War",match=low
-"was";was;W10;;possible="There Was a Crooked Man...; How Tasty Was My Little Frenchman; The Dragon That Wasn't (Or Was He?); Last Year's Snow Was Falling; That Was Then... This Is Now; When Father Was Away on Business",match=low
+"was";was;W10;;possible="There Was a Crooked Man; How Tasty Was My Little Frenchman; The Dragon That Wasn't (Or Was He?); Last Year's Snow Was Falling; That Was Then This Is Now; When Father Was Away on Business",match=low
 "brewster.?s";brewsterxs;W10;;likely="Brewster's Millions",match=low
 "trick";trick;W10;;possible="One Trick Pony; Trick or Treat",match=low
 "wax";wax;W10;;likely="American Hot Wax",match=low
@@ -5047,9 +5046,10 @@
 "hitcher";hitcher;W10;;likely="The Hitcher",match=low
 "phantom";phantom;W10;;possible="The Phantom Tollbooth; The Phantom of Liberty; Phantom of the Paradise",match=low
 "miracle";miracle;W10;;possible="The Miracle of Joe Petrel; Miracle Mile",match=low
+"anything";anything;W10;;likely="Say Anything",match=low
 "woman";woman;W10;;possible="Insect Woman; Scent of a Woman; A Woman Under the Influence; The Left-Handed Woman; An Unmarried Woman; Woman Between Wolf and Dog; The French Lieutenant's Woman; The Incredible Shrinking Woman; The Woman Next Door; Woman Who Exposes Herself; Identification of a Woman; Woman of Fire '82; The Woman in Red; Kiss of the Spider Woman; The Woman and the Stranger; Love is a Fat Woman; The Surrogate Woman; A Taxing Woman; Another Woman",match=low
 "fortune";fortune;W10;;possible="Quackser Fortune Has a Cousin in the Bronx; Fortune and Men's Eyes; Gentlemen of Fortune; Gentlemen of Fortune; The Fortune; Outrageous Fortune",match=low
-"marbles";marbles;W10;;likely="...All the Marbles",match=low
+"marbles";marbles;W10;;likely="All the Marbles",match=low
 "bustin.?";bustinx;W10;;likely="Bustin' Loose",match=low
 "xala";xala;W10;;likely="Xala",match=low
 "crippled";crippled;W10;;likely="Crippled Avengers",match=low
@@ -5615,7 +5615,6 @@
 "gamma";gamma;W10;;likely="The Effect of Gamma Rays on Man-in-the-Moon Marigolds",match=low
 "bit";bit;W10;;likely="Dim Sum: A Little Bit of Heart",match=low
 "mariage";mariage;W10;;likely="Le Beau Mariage",match=low
-".?.?.?all";xxxall;W10;;likely="...All the Marbles",match=low
 "rendez.?vous";rendezxvous;W10;;likely="Rendez-vous",match=low
 "marker";marker;W10;;likely="Little Miss Marker",match=low
 "bananas";bananas;W10;;possible="Bananas; Herbie Goes Bananas",match=low
@@ -5675,7 +5674,7 @@
 "lilies";lilies;W10;;likely="Where the Lilies Bloom",match=low
 "sobstvennomu";sobstvennomu;W10;;likely="Vlyublyon po sobstvennomu zhelaniyu",match=low
 "thunder";thunder;W10;;possible="Alien Thunder; Rolling Thunder; Thunder and Lightning; Blue Thunder; Distant Thunder",match=low
-"harry";harry;W10;;possible="Dirty Harry; Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?; Harry and Tonto; Harry and Walter Go to New York; Harry Tracy, Desperado; Harry & Son; Let's Get Harry; Harry and the Hendersons; When Harry Met Sally...; Who's Harry Crumb?",match=low
+"harry";harry;W10;;possible="Dirty Harry; Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?; Harry and Tonto; Harry and Walter Go to New York; Harry Tracy, Desperado; Harry & Son; Let's Get Harry; Harry and the Hendersons; When Harry Met Sally; Who's Harry Crumb?",match=low
 "sonja";sonja;W10;;likely="Red Sonja",match=low
 "movie.?";moviex;W10;;likely="Bugs Bunny's 3rd Movie: 1001 Rabbit Tales",match=low
 "couch";couch;W10;;likely="The Couch Trip",match=low
@@ -5757,7 +5756,7 @@
 "hawks";hawks;W10;;likely="Hawks",match=low
 "defense";defense;W10;;likely="Best Defense",match=low
 "b.?snuker";bxsnuker;W10;;likely="Hagiga B'Snuker",match=low
-"concorde";concorde;W10;;likely="The Concorde( .).. Airport '79",match=low
+"concorde";concorde;W10;;likely="The Concorde Airport '79",match=low
 "conspiracy";conspiracy;W10;;possible="The Groundstar Conspiracy; The Wilby Conspiracy; The Swiss Conspiracy",match=low
 "daybreak";daybreak;W10;;likely="Operation Daybreak",match=low
 "bobbie";bobbie;W10;;likely="Bobbie Jo and the Outlaw",match=low
@@ -5843,7 +5842,6 @@
 "expectations";expectations;W10;;likely="Great Expectations",match=low
 "surrogate";surrogate;W10;;likely="The Surrogate Woman",match=low
 "spider";spider;W10;;possible="The Giant Spider Invasion; Kiss of the Spider Woman",match=low
-"then.?.?.?";thenxxx;W10;;likely="That Was Then... This Is Now",match=low
 "manila";manila;W10;;likely="Manila by Night",match=low
 "flying";flying;W10;;likely="Master of the Flying Guillotine",match=low
 "ape.?";apex;W10;;likely="Going Ape!",match=low
@@ -5876,7 +5874,6 @@
 "num.?ro";numxro;W10;;likely="Numéro deux",match=low
 "angry";angry;W10;;possible="Angry Guest; The Odd Angry Shot; Angry Harvest",match=low
 "spirits";spirits;W10;;likely="High Spirits",match=low
-"hamburger.?.?.?";hamburgerxxx;W10;;likely="Hamburger... The Motion Picture",match=low
 "case.?";casex;W10;;likely="First Case, Second Case",match=low
 "entertainment.?";entertainmentx;W10;;likely="That's Entertainment, Part 2",match=low
 "river.?s";riverxs;W10;;likely="River's Edge",match=low
@@ -5934,11 +5931,12 @@
 "starman";starman;W10;;likely="Starman",match=low
 "indians";indians;W10;;likely="Ten Little Indians",match=low
 "europe.?";europex;W10;;likely="Who is Killing the Great Chefs of Europe?",match=low
+"sally";sally;W10;;likely="When Harry Met Sally",match=low
 "robbery";robbery;W10;;possible="The First Great Train Robbery; The Great Riviera Bank Robbery",match=low
 "clear";clear;W10;;likely="On a Clear Day You Can See Forever",match=low
 "phibes";phibes;W10;;likely="The Abominable Dr. Phibes",match=low
 "fresh";fresh;W10;;likely="Fresh Horses",match=low
-"night";night;W10;;possible="Night of Dark Shadows; The Night Digger; Endless Night; Night of the Lepus; The Night Stalker; Day for Night; Night Flight from Moscow; Night Watch; The Night Strangler; The Night of the Scarecrow; The Night Porter; Night Moves; A Little Night Music; Opening Night; Saturday Night Fever; A Night Full of Rain; The Night the Prowler; Prom Night; Manila by Night; All Night Long; Hell Night; The Night the Lights Went Out in Georgia; Let's Spend the Night Together; The Night of the Shooting Stars; Night Shift; That Night in Varennes; A Night in Heaven; Night of the Comet; Fright Night; Into the Night; Night of the Pencils; One More Saturday Night; Night Zoo; Pinocchio and the Emperor of the Night; Fright Night II; Night Game",match=low
+"night";night;W10;;possible="Night of Dark Shadows; The Night Digger; Endless Night; Night of the Lepus; The Night Stalker; Day for Night; Night Flight from Moscow; Night Watch; The Night Strangler; The Night of the Scarecrow; The Night Porter; Night Moves; A Little Night Music; Opening Night; Saturday Night Fever; A Night Full of Rain; The Night the Prowler; Prom Night; Manila by Night; All Night Long; Hell Night; The Night the Lights Went Out in Georgia; Let's Spend the Night Together; The Night of the Shooting Stars; Night Shift; That Night in Varennes; A Night in Heaven; Night of the Comet; Fright Night; Into the Night; About Last Night; Night of the Pencils; One More Saturday Night; Night Zoo; Pinocchio and the Emperor of the Night; Fright Night II; Night Game",match=low
 "eating";eating;W10;;likely="Eating Raoul",match=low
 "time.?";timex;W10;;likely="Another Time, Another Place",match=low
 "heartbreak";heartbreak;W10;;possible="The Heartbreak Kid; Heartbreak Ridge; Heartbreak Hotel",match=low
@@ -5949,7 +5947,7 @@
 "brave";brave;W10;;possible="Michael the Brave; Running Brave; The Brave Little Toaster",match=low
 "mouth";mouth;W10;;likely="The Flower in His Mouth",match=low
 "union";union;W10;;likely="Calamari Union",match=low
-"the";the;W10;;possible="The Act of the Heart; The Act of the Heart; The Adventurers; And Soon the Darkness; The Angel Levine; The Aristocats; Awakening of the Beast; The Baby Maker; The Ballad of Cable Hogue; The Beloved; Beneath the Planet of the Apes; Beneath the Planet of the Apes; Beyond the Valley of the Dolls; Beyond the Valley of the Dolls; The Bird with the Crystal Plumage; The Bird with the Crystal Plumage; The Boatniks; The Body; The Boys in the Band; The Boys in the Band; Brancaleone at the Crusades; The Breach; The Butcher; Carry On Up the Jungle; Chariots of the Gods; The Cheyenne Social Club; Colossus: The Forbin Project; The Confession; The Conformist; Crimes of the Future; Days and Nights in the Forest; The Delta Factor; The Dunwich Horror; End of the Road; The Flight; The Games; The Garden of the Finzi-Continis; The Garden of the Finzi-Continis; The Go-Between; Goin' Down the Road; The Great White Hope; The Green Wall; The Hawaiians; The Invincible Six; I Walk the Line; The Kremlin Letter; The Landlord; The Last Warrior; Leo the Last; The Liberation of L.B. Jones; The Little Theatre of Jean Renoir; Lost in the Desert; Michael the Brave; The Molly Maguires; The Moonshine War; The Music Lovers; Of Gods and the Undead; One Day in the Life of Ivan Denisovich; The Out-of-Towners; The Over-the-Hill Gang Rides Again; The Owl and the Pussycat; The Owl and the Pussycat; The Palace of Angels; The Past-Master; Peace in the Fields; The People Next Door; The Phantom Tollbooth; The Pizza Triangle; The Private Life of Sherlock Holmes; Quackser Fortune Has a Cousin in the Bronx; The Railway Children; The Revolutionary; The Rise and Rise of Michael Rimmer; Salt of the Black Earth; The Spider's Stratagem; Start the Revolution Without Me; The Strawberry Statement; The Things of Life; Too Late the Hero; The Traveling Executioner; The Twelve Chairs; The Vampire Lovers; A Walk in the Spring Rain; The Wandering Swordsman; Which Way to the Front?; The Wild Child; The Abominable Dr. Phibes; Adrift on the Nile; The Adversary; The American Soldier; The Anderson Tapes; The Andromeda Strain; The Barefoot Executive; The Battle of Kerzhenets; The Beguiled; The Big Boss; The Big Doll House; Bless the Beasts and Children; The Boat on the Grass; The Boat on the Grass; The Boy Friend; The Ceremony; The Clowns; The Deadly Duo; The Deadly Trap; The Decameron; The Deserter; The Devils; The Emigrants; Escape from the Planet of the Apes; Escape from the Planet of the Apes; Fiddler on the Roof; The French Connection; The Gang That Couldn't Shoot Straight; The Go-Between; The Grissom Gang; The Hellstrom Chronicle; The Hired Hand; The Horsemen; The Hospital; The Hunting Party; The Last Picture Show; The Last Run; The Love Machine; Man in the Wilderness; The Marriage of a Young Stockbroker; The Mephisto Waltz; The Million Dollar Duck; The Missing Clerk; Murmur of the Heart; The Night Digger; The Omega Man; On the Buses; The Panic in Needle Park; The Pursuit of Happiness; Raphael, or The Debauched One; The Salamander; The Seven Minutes; Sympathy for the Underdog; The Tales of Beatrix Potter; The Trojan Women; Twitch of the Death Nerve; W.R.: Mysteries of the Organism; What's the Matter with Helen?; Willy Wonka & the Chocolate Factory; The Working Class Goes to Heaven; The 14 Amazons; The Adventures of Barry McKenzie; Aguirre, the Wrath of God; The Amazing Mr. Blunden; The Big Bird Cage; The Bitter Tears of Petra von Kant; The Boy Turns Man; Buck and the Preacher; The Candidate; The Canterbury Tales; The Carey Treatment; The Castle of Purity; Chloe in the Afternoon; Conquest of the Planet of the Apes; Conquest of the Planet of the Apes; The Cowboys; The Cruel Sea; The Culpepper Cattle Company; The Dawns Here Are Quiet; A Day in the Death of Joe Egg; The Discreet Charm of the Bourgeoisie; The Discreet Charm of the Bourgeoisie; The Effect of Gamma Rays on Man-in-the-Moon Marigolds; The Final Comedown; Fritz the Cat; The Getaway; The Girl on the Broomstick; The Girl on the Broomstick; The Goalkeeper's Fear of the Penalty; The Goalkeeper's Fear of the Penalty; The Goat Horn; The Godfather; The Great Northfield Minnesota Raid; The Groundstar Conspiracy; The Harder They Come; The Heartbreak Kid; The Hot Rock; João and the Knife; The King of Marvin Gardens; Lady Sings the Blues; The Last House on the Left; The Last House on the Left; The Legend of Nigger Charley; The Life and Times of Judge Roy Bean; The Man; The Man Who Quit Smoking; The Mattei Affair; The Mechanic; Mutiny on the Buses; The New Centurions; The New Land; Night of the Lepus; The Night Stalker; The Offence; The Other; The Other Side of the Underneath; The Other Side of the Underneath; The Outside Man; Pearl in the Crown; The Poseidon Adventure; The Possession of Joel Delaney; The Revengers; The Ruling Class; The Salzburg Connection; The Scientific Cardplayer; The Seduction of Mimi; Tales from the Crypt; The Tall Blond Man with One Black Shoe; Taming of the Fire; The Thing with Two Heads; The Triple Echo; Under the Flag of the Rising Sun; Under the Flag of the Rising Sun; The Valachi Papers; The Visitors; The War Between Men and Women; The Water Margin; Way of the Dragon; The Wedding; When the Gods Fall Asleep; The Wrath of God; The 14; Ace Eli and Rodger of the Skies; The Adventures of Rabbi Jacob; The Alpha Caper; Ana and the Wolves; And Now the Screaming Starts!; The Baby; Bang the Drum Slowly; Battle for the Planet of the Apes; Battle for the Planet of the Apes; Blood in the Streets; Blood of the Dragon; Brother of the Wind; The Candy Snatchers; Charley and the Angel; The Crazies; The Creeping Flesh; The Day of the Dolphin; The Day of the Dolphin; The Day of the Jackal; The Day of the Jackal; The Death of a Lumberjack; The Devil in Miss Jones; The Don Is Dead; Don't Be Afraid of the Dark; Emperor of the North Pole; Enter the Dragon; The Exorcist; Five on the Black Hand Side; The Friends of Eddie Coyle; From the Mixed-Up Files of Mrs. Basil E. Frankweiler; The Hare Census; The Harrad Experiment; The Hireling; Hitler: The Last Ten Days; The Holy Mountain; The Homecoming; The Hour-Glass Sanatorium; The House in Nightmare Park; The House on Chelouche Street; Hugo the Hippo; The Iceman Cometh; Ivan Vasilievich: Back to the Future; The Land of Our Ancesters; The Last American Hero; The Last Detail; The Last of Sheila; The Laughing Policeman; The Legend of Hell House; The Legend of Paul and Paula; The Long Goodbye; Love and Pain and the Whole Damn Thing; The Mackintosh Man; The Mother and the Whore; The Mother and the Whore; The Neptune Factor; The No Mercy Man; The Night Strangler; The Nutcracker; The Olsen Gang Goes Crazy; The Paper Chase; Pat Garrett and Billy the Kid; The Pedestrian; Save the Tiger; The Seven Madmen; The Seven-Ups; The Society of the Spectacle; The Society of the Spectacle; The Spirit of the Beehive; The Spirit of the Beehive; The Sting; The Stone Killer; The Tenderness of Wolves; That´ll Be the Day; The Thief Who Came to Dinner; The Three-Day Reign; The Three Musketeers; The Train Robbers; The Vault of Horror; The Way We Were; We Want the Colonels; The Wicker Man; The World's Greatest Athlete; The 6 Ultra Brothers vs. the Monster Army; The 6 Ultra Brothers vs. the Monster Army; Acting Hamlet in the Village of Mrdusa Donja; Ali: Fear Eats the Soul; Alice in the Cities; All the Kind Strangers; The Apprenticeship of Duddy Kravitz; The Autobiography of Miss Jane Pittman; The Beast Must Die; The Black Windmill; Bring Me the Head of Alfredo Garcia; The Cars that Ate Paris; The Clockmaker; The Conscript; The Conversation; The Crazy World of Julius Vrooder; The Deluge; Drama of the Rich; The Enigma of Kaspar Hauser; The Four Musketeers; Freebie and the Bean; The Front Page; The Gambler; Ginger in the Morning; The Girl from Petrovka; The Godfather Part II; The Golden Voyage of Sinbad; The Great Gatsby; The Holy Office; The Homeless; The Internecine Project; The Island at the Top of the World; The Island at the Top of the World; The Island at the Top of the World; The Klansman; Ladies and Gentlemen: The Rolling Stones; The Life and Times of Grizzly Adams; The Longest Yard; The Lords of Flatbush; Lost in the Stars; The Man with the Golden Gun; The Man with the Golden Gun; The Marseille Contract; The Middle of the World; The Middle of the World; The Midnight Man; The Missiles of October; Murder on the Orient Express; The Night of the Scarecrow; The Night of the Scarecrow; The Night Porter; The Nine Lives of Fritz the Cat; The Nine Lives of Fritz the Cat; The Odessa File; One or the Other of Us; The Parallax View; Pastoral: To Die in the Country; The Phantom of Liberty; Phantom of the Paradise; The Red Snowball Tree; The Rehearsal; Report to the Commissioner; Return of the Street Fighter; The Sannikov Land; The Spikes Gang; The Street Fighter; The Street Fighter's Last Revenge; The Sugarland Express; The Taking of Pelham One Two Three; The Tamarind Seed; The Terminal Man; The Texas Chain Saw Massacre; The Towering Inferno; The Traveller; Where the Lilies Bloom; The White Dawn; Winnie the Pooh and Tigger Too!; A Woman Under the Influence; 92 in the Shade; The Adventure of Sherlock Holmes' Smarter Brother; The Adventures of the Wilderness Family; The Adventures of the Wilderness Family; The Apple Dumpling Gang; Bite the Bullet; The Black Bird; Chronicle of the Years of Fire; The Claws of Light; Cleopatra Jones and the Casino of Gold; The Cycle; The Day of the Locust; The Day of the Locust; Doc Savage: The Man of Bronze; The Drowning Pool; The Eiger Sanction; The Empress Dowager; End of the Game; The Flower in His Mouth; The Fortune; The Giant Spider Invasion; The Great Waldo Pepper; Hans Christian Andersen's The Little Mermaid; The Happy Hooker; Hearts of the West; Hedgehog in the Fog; The Hiding Place; The Hindenburg; The 'Human' Factor; The Irony of Fate; Jacob the Liar; Karayuki-san, the Making of a Prostitute; The Land That Time Forgot; Legend of the Lawman; Legend of the Werewolf; The Lion Roars Again; The Lost Honour of Katharina Blum; The Magic Flute; The Man in the Glass Booth; The Man in the Glass Booth; The Man Who Would Be King; The Mirror; Monty Python and the Holy Grail; The Noah, starring Robert Strauss; The Old Gun; One Flew Over the Cuckoo's Nest; The Other Side of the Mountain; The Other Side of the Mountain; The Passenger; The Prisoner of Second Avenue; The Promised Land; Queen of the Gypsies; Queen of the Stardust Ballroom; Race with the Devil; Rafferty and the Gold Dust Twins; The Reincarnation of Peter Proud; The Return of the Pink Panther; The Return of the Pink Panther; The Return of the Sister Street Fighter; The Return of the Sister Street Fighter; The Rocky Horror Picture Show; The Romantic Englishwoman; The Sensuous Nurse; The Stepford Wives; The Story of Adele H.; The Strongest Man in the World; The Strongest Man in the World; The Sunshine Boys; Three Days of the Condor; The Travelling Players; The Ultimate Warrior; W.W. and the Dixie Dancekings; The Wilby Conspiracy; The Wild Party; The Wind and the Lion; The Wind and the Lion; The Wrong Move; The Yakuza; All the President's Men; The Anchorite; The Ascent; At the Earth's Core; The Bad News Bears; The Big Bus; The Bingo Long Traveling All-Stars & Motor Kings; The Blank Generation; Bobbie Jo and the Outlaw; The Bricklayers; Buffalo Bill and the Indians, or Sitting Bull's History Lesson; The Career of a Chambermaid; The Cassandra Crossing; A Child in the Crowd; A Cricket in the Ear; The Desert of the Tartars; The Desert of the Tartars; The Devil's Playground; Diary of the Dead; The Divine Nymph; The Eagle Has Landed; The Enforcer; Escape from the Dark; The Fifth Seal; The First Nudie Musical; The Food of the Gods; The Food of the Gods; The Front; The Gumball Rally; The House with Laughing Windows; The Inheritance; In the Realm of the Senses; In the Realm of the Senses; The Inugamis; Jonah Who Will Be 25 in the Year 2000; The Judge and the Assassin; The Judge and the Assassin; The Killing of a Chinese Bookie; Kings of the Road; The Last Hard Men; The Last Supper; The Last Tycoon; The Little Girl Who Lives Down the Lane; The Little Girl Who Lives Down the Lane; Mako: The Jaws of Death; The Man on the Roof; The Man on the Roof; The Man Who Fell to Earth; Marecek, Pass Me the Pen!; The Marquise of O; Master of the Flying Guillotine; The Memory of Justice; The Missouri Breaks; The Mysterious Monsters; The Omen; The Outlaw Josey Wales; The Pink Panther Strikes Again; The Rat Savior; The Ritz; The Sailor Who Fell from Grace with the Sea; The Sailor Who Fell from Grace with the Sea; The Scar (film); The Seven-Per-Cent Solution; The Shaggy D.A.; The Shootist; Shout at the Devil; The Slipper and the Rose; The Slipper and the Rose; The Smurfs and the Magic Flute; The Smurfs and the Magic Flute; The Song Remains the Same; The Song Remains the Same; The Swiss Conspiracy; The Tenant; To the Devil a Daughter; The Town That Dreaded Sundown; The Twist; Voyage of the Damned; The White Ship; Won Ton Ton, the Dog Who Saved Hollywood; ABBA: The Movie; The Amazing Spider-Man; The American Friend; The Bad News Bears in Breaking Training; The Brothers Lionheart; The Car; The Chess Players; The Choirboys; Close Encounters of the Third Kind; The Deep; The Devil Probably; The Disappearance; The Dog Who Loved Trains; The Domino Principle; Dot and the Kangaroo; The Duellists; Exorcist II: The Heretic; The Gauntlet; The Getting of Wisdom; The Goodbye Girl; The Grateful Dead Movie; The Greatest; The Hills Have Eyes; The Hobbit; The Hunters; In the Name of the Pope King; In the Name of the Pope King; The Iron Prefect; The Iron-Fisted Monk; The Island of Dr. Moreau; Islands in the Stream; Kingdom of the Spiders; The King of the Street Cleaners; The King of the Street Cleaners; The Lacemaker; The Last Remake of Beau Geste; The Last Wave; The Late Show; The Lorry; The Magic Pony; The Man Who Loved Women; The Many Adventures of Winnie the Pooh; The Many Adventures of Winnie the Pooh; One Sings, the Other Doesn't; The Other Side of Midnight; A Piece of the Action; The Report; The Rescuers; The Sentinel; The Serpent's Egg; Sinbad and the Eye of the Tiger; Sinbad and the Eye of the Tiger; Smokey and the Bandit; The Spy Who Loved Me; The Turning Point; The War in Space; The White Buffalo; The World's Greatest Lover; The Year of the Hare; The Year of the Hare; The Yellow Handkerchief; The 36th Chamber of Shaolin; The Adventures of Jody Shanan; The Bad News Bears Go to Japan; The Betsy; The Big Fix; The Big Sleep; The Boys from Brazil; The Boys in Company C; The Brink's Job; The Buddy Holly Story; The Cat from Outer Space; The Chant of Jimmie Blacksmith; The Cheap Detective; The Dain Curse; Dawn of the Dead; Death on the Nile; The Deer Hunter; The Demon; The Driver; The End; An Enemy of the People; Enter the Fat Dragon; The Fury; Go Tell the Spartans; The Herd; Invasion of the Body Snatchers; King of the Gypsies; Lady on the Bus; The Left-Handed Woman; The Last Waltz; The Lord of the Rings; The Lord of the Rings; The Medusa Touch; The Night the Prowler; The Night the Prowler; The One and Only; The Place Without Limits; The Prophet, the Gold and the Transylvanians; The Prophet, the Gold and the Transylvanians; The Prophet, the Gold and the Transylvanians; Revenge of the Pink Panther; The Sailor's Return; The Shout; The Silent Partner; Slow Dancing in the Big City; The Small One; Snake in the Eagle's Shadow; The Stud; The Swarm; The Swissmakers; The Tree of Wooden Clogs; The Water Babies; Who is Killing the Great Chefs of Europe?; Who'll Stop the Rain; The Wild Geese; The Wiz; The Actress, the Dollars and the Transylvanians; The Actress, the Dollars and the Transylvanians; The Actress, the Dollars and the Transylvanians; The Adventure of Sudsakorn; All Quiet on the Western Front; The Amityville Horror; The Apple Dumpling Gang Rides Again; The Bell Jar; Beyond the Poseidon Adventure; Birth of The Beatles; The Bitch; The Black Hole; The Black Stallion; The Brood; Buck Rogers in the 25th Century; The Bugs Bunny/Road Runner Movie; Butch and Sundance: The Early Days; The Butterfly Murders; The Castle of Cagliostro; The Cat and the Canary; The Cat and the Canary; The Champ; The China Syndrome; The Concorde( .).. Airport '79; Derek and Clive Get the Horn; The Electric Horseman; The Europeans; The Fifth Musketeer; The First Great Train Robbery; The Genealogy; The Great Santini; The Great Riviera Bank Robbery; Heart of the Forest; The Human Factor; The Hussy; The Hypothesis of the Stolen Painting; The Hypothesis of the Stolen Painting; The In-Laws; The Jerk; The Kids Are Alright; The Lady Vanishes; The Last of the Knucklemen; The Last of the Knucklemen; Love on the Run; The Magician of Lublin; The Main Event; The Marriage of Maria Braun; Mattie the Goose-boy; The Meeting Place Cannot Be Changed; The Muppet Movie; The North Avenue Irregulars; The Odd Angry Shot; The Odd Couple; The Onion Field; Over the Edge; The Passage; The Plank; The Prisoner of Zenda; The Prize Fighter; The Rose; The Seduction of Joe Tynan; Sisters, or the Balance of Happiness; Star Trek: The Motion Picture; The Survivors; Tarka the Otter; The Tempest; The Third Generation; The Tin Drum; Uncle Marin, the Billionaire; The Villain; The Visitor; The Wanderers; The Warriors; The Fog; Don't Answer the Phone; The Changeling; Don't Go in the House; Friday the 13th; The Nude Bomb; The Long Riders; Star Wars Episode V: The Empire Strikes Back; The Gong Show Movie; The Shining; The Hollywood Knights; Up the Academy; The Island; The Blues Brothers; The Stunt Man; The Blue Lagoon; The Big Red One; The Final Countdown; The Octagon; Smokey and the Bandit II; The Agency; The Awakening; The Baltimore Bullet; The Big Brawl; The Big Red One; The Black Marble; The Blood of Hussain; The Blue Lagoon; The Blues Brothers; The Candidate; Can't Stop the Music; The Changeling; The Club; The Competition; The Constant Factor; The Crime of Cuenca; The Dogs of War; The Elephant Man; Encounters of the Spooky Kind; The Exterminator; The Falls; The Final Countdown; The First Deadly Sin; The Fog; The Formula; Friday the 13th; The Gamekeeper; The Gods Must Be Crazy; The Great Rock 'n' Roll Swindle; The Hit; How to Beat the High Co$t of Living; Humanoids from the Deep; The Hunter; The Idolmaker; The Island; The Jazz Singer; The Last Flight of Noah's Ark; The Last Married Couple in America; The Last Metro; The Last Witness; The Lathe of Heaven; The Life and Times of Rosie the Riveter; The Life and Times of Rosie the Riveter; The Long Good Friday; The Long Riders; The Magician of Lublin; The Man with Bogart's Face; The Mirror Crack'd; The Mountain Men; The Nest; The Ninth Configuration; The Orchestra Conductor; Out of the Blue; The Pilot; The Private Eyes; The Return of the King; The Return of the King; Return of the Secaucus 7; The Sea Wolves; See You in the Next War; The Shining; Star Wars Episode V: The Empire Strikes Back; The Stunt Man; To Love the Damned; The Unseen; Up the Academy; The Watcher in the Woods; The Watcher in the Woods; Where the Buffalo Roam; The Young Master;( .)..All the Marbles; The Aviator's Wife; The Blood of Hussain; The Boat Is Full; The Burning; The Cannonball Run; Charlie Chan and the Curse of the Dragon Queen; Charlie Chan and the Curse of the Dragon Queen; The Chosen; Chu Chu and the Philly Flash; Clash of the Titans; The Decline of Western Civilization; The Devil and Max Devlin; The Entity; The Evil Dead; Eye of the Needle; The Fan; Fort Apache the Bronx; The Four Seasons; The Fox and the Hound; The Fox and the Hound; The French Lieutenant's Woman; Friday the 13th Part 2; The Funhouse; The German Sisters; The Girl with the Red Hair; The Girl with the Red Hair; The Great Muppet Caper; The Hand; History of the World: Part I; The Hound of the Baskervilles; The Hound of the Baskervilles; The Howling; The Incredible Shrinking Woman; The Inventor; The Killing of Angel Street; Ladies and Gentlemen, The Fabulous Stains; The Land of Hunger; The Last Chase; The Legend of the Lone Ranger; The Legend of the Lone Ranger; The Lion of the Desert; The Lion of the Desert; The Little Fox; The Looney Looney Looney Bugs Bunny Movie; Mad Max 2: The Road Warrior; The Melody Haunts My Memory; The Mysterious Castle in the Carpathians; The Mysterious Castle in the Carpathians; The Mystery of the Third Planet; The Mystery of the Third Planet; The Nesting; The Night the Lights Went Out in Georgia; The Night the Lights Went Out in Georgia; The Oil, the Baby and the Transylvanians; The Oil, the Baby and the Transylvanians; The Oil, the Baby and the Transylvanians; Omen III: The Final Conflict; On the Right Track; The Postman Always Rings Twice; Prince of the City; The Prodigal Son; The Pursuit of D. B. Cooper; Race for the Yankee Zephyr; Raiders of the Lost Ark; The Salamander; Saturday the 14th; The Simple-Minded Murder; The Sixth; Tarzan, the Ape Man; The True Story of Ah Q; Under the Rainbow; The Woman Next Door; Zorro, the Gay Blade; Airplane II: The Sequel; Alone in the Dark; Alsino and the Condor; Amityville II: The Possession; The Atomic Cafe; The Beastmaster; The Beehive; The Best Little Whorehouse in Texas; The Border; Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean; Conan the Barbarian; The Concrete Jungle; The Dark Crystal; The Draughtsman's Contract; E.T. the Extra-Terrestrial; The Escape Artist; Evil Under the Sun; The Flight of Dragons; Friday the 13th Part III; The Grey Fox; Halloween III: Season of the Witch; The Herdsman; How the World Is Losing Poets; The Hunchback of Notre Dame; I, the Jury; The Last Unicorn; Let's Spend the Night Together; The Man from Snowy River; The Marathon Family; The Missionary; Monty Python Live at the Hollywood Bowl; The Night of the Shooting Stars; The Night of the Shooting Stars; On Top of the Whale; One from the Heart; The Passerby; Pink Floyd – The Wall; The Pirate Movie; The Plague Dogs; The Pokrovsky Gate (Pokrovskiye Vorota) - (U.S.S.R.); The Pool Hustlers; The Queen of Spades; The Return of Martin Guerre; The Return of the Soldier; The Return of the Soldier; Richard Pryor: Live on the Sunset Strip; The Scarlet Pimpernel; The Secret of NIMH; The Seduction; The Sender; The Shadow Riders; The Shaolin Temple; Shoot the Moon; Star Trek II: The Wrath of Khan; The State of Things; The Sword and the Sorcerer; The Sword and the Sorcerer; The Thing; Timerider: The Adventure of Lyle Swann; Trail of the Pink Panther; The Trout; The Verdict; We of the Never Never; The Wind; The Wizard of Oz; The World According to Garp; The Worthless; The Year of Living Dangerously; All the Right Moves; And the Ship Sails On; The Ballad of Narayama; Beauty and the Beast; The Big Chill; The Black Stallion Returns; Bloodbath at the House of Death; The Boys From Fengkuei; The Crimson Permanent Assurance; Curse of the Pink Panther; The Day After; The Dead Zone; Deal of the Century; The Death of Mario Ricci; The Dragon That Wasn't (Or Was He?); The Dresser; Eddie and the Cruisers; The Family Game; The Fourth Man; The Honorary Consul; The Hunger; The Illusionist; In the White City; The Keep; The King of Comedy; The Lords of Discipline; The Makioka Sisters; The Man in the Silk Hat; The Man in the Silk Hat; The Man Who Loved Women; The Man with Two Brains; Monty Python's The Meaning of Life; The Osterman Weekend; The Outsiders; Pauline at the Beach; The Pirates of Penzance; The Ploughman's Lunch; The Right Stuff; The Scarlet and the Black; The Scarlet and the Black; Smokey and the Bandit Part 3; Spacehunter: Adventures in the Forbidden Zone; The Star Chamber; Star Wars Episode VI: Return of the Jedi; The Sting II; The Survivors; The Thorn Birds; Three Crowns of the Sailor; Twilight Zone: The Movie; The Very Late Afternoon of a Faun; Walking the Edge; The Wind in the Willows (1983 film); The Wind in the Willows (1983 film); The Winds of War; Winnie the Pooh and a Day for Eeyore; The Wounded Man; Zu Warriors from the Magic Mountain; The Adventures of Buckaroo Banzai; After the Rehearsal; The Ambassador; The Annunciation; Ballad of the Little Soldier; The Bay Boy; Beyond the Walls; Bicycles Are for the Summer; The Bostonians; The Bounty; The Brother from Another Planet; The Buddy System; The Chain; The Children; Children of the Corn; The Company of Wolves; Conan the Destroyer; The Coolangatta Gold; The Cotton Club; The Dark Glow of the Mountains; The Dark Glow of the Mountains; The Descendant of the Snow Leopard; The Descendant of the Snow Leopard; The Element of Crime; The Evil That Men Do; Farewell to the Ark; The Flamingo Kid; Friday the 13th: The Final Chapter; Friday the 13th: The Final Chapter; The Funeral; Greystoke - The Legend of Tarzan, Lord of the Apes; Greystoke - The Legend of Tarzan, Lord of the Apes; The Hit; The Holy Innocents; The Hotel New Hampshire; The Ice Pirates; Indiana Jones and the Temple of Doom; The Jesse Owens Story; John the Fearless; Just the Way You Are; The Karate Kid; The Killing Fields; The Last Days of Pompeii; The Last Starfighter; The Little Drummer Girl; The Lonely Guy; Making the Grade; The Man from Majorca; The Miracle of Joe Petrel; Moscow on the Hudson; The Muppets Take Manhattan; The Naked Face; The Natural; Nausicaä of the Valley of the Wind; Nausicaä of the Valley of the Wind; The NeverEnding Story; Night of the Comet; The Ninja Mission; On the Top of the Cherry Tree; On the Top of the Cherry Tree; Over the Brooklyn Bridge; The Philadelphia Experiment; Places in the Heart; The Pope of Greenwich Village; The Razor's Edge; The Return of Godzilla; Revenge of the Nerds; The River; The Road to Bresson; Romancing the Stone; Ronia, the Robber's Daughter; The Snowdrop Festival; Star Trek III: The Search for Spock; A Sunday in the Country; The Tale of Tsar Saltan; The Terminator; Terror in the Aisles; Ultraman Zoffy: Ultra Warriors vs. the Giant Monster Army; Under the Volcano; Up the Creek; When the Raven Flies; Where the Boys Are '84; Where the Green Ants Dream; Where The Toys Come From; The Wild Life; The Woman in Red; Wreaths at the Foot of the Mountain; Wreaths at the Foot of the Mountain; A Year of the Quiet Sun; The Adventures of Mark Twain, starring James Whitmore; The Assam Garden; The Aviator; Baby: Secret of the Lost Legend; Back to the Future; The Black Cauldron; The Boys Next Door; The Breakfast Club; The Bride; The Burmese Harp; The Care Bears Movie; The Coca-Cola Kid; The Color Purple; Day of the Dead; Defence of the Realm; The Emerald Forest; Ewoks: The Battle for Endor; The Falcon and the Snowman; The Falcon and the Snowman; Give the Devil His Due; The Goonies; Guest from the Future; Half Life: A Parable for the Nuclear Age; Here Come the Littles; The Holcroft Covenant; The Home and the World; The Home and the World; Hour of the Star; Into the Night; The Jewel of the Nile; The Jewel of the Nile; The Journey of Natty Gann; Just One of the Guys; Kiss of the Spider Woman; The Last Dragon; The Last Polka; The Legend of Billie Jean; Lust in the Dust; The Man with One Red Shoe; The Mass Is Ended; The Mean Season; The Official Story; The Peanut Butter Solution; The Protector; The Purple Rose of Cairo; The Quiet Earth; Rainbow Brite and the Star Stealer - (U.S.A./Japan); Remo Williams: The Adventure Begins; The Return of the Living Dead; The Return of the Living Dead; The Runner; Santa Claus: The Movie; The Secret of the Sword; The Secret of the Sword; The Shooting Party; The Slugger's Wife; Starchaser: The Legend of Orin; The Supergrass; The Sure Thing; Tea in the Harem; The Time of the Hero; The Time of the Hero; The Time to Live and the Time to Die; The Time to Live and the Time to Die; The Trip to Bountiful; The Two Lives of Mattia Pascal; The Unknown Soldier; The Woman and the Stranger; The Woman and the Stranger; Year of the Dragon; 3:15, aka 3:15: The Moment of Truth; The Adventure of Faustus Bidgood; The Adventures of Milo and Otis; The Adventures of the American Rabbit; The Adventures of the American Rabbit; The AIDS Show; The Assault; Band of the Hand; Bashu, the Little Stranger; The Beekeeper; The Big Parade; The Boy Who Could Fly; The Care Bears Movie II: A New Generation; The Clan of the Cave Bear; The Clan of the Cave Bear; The Color of Money; Crimes of the Heart; The Delta Force; Dr. Otto and the Riddle of the Gloom Beam; Dr. Otto and the Riddle of the Gloom Beam; Dragon Ball: Curse of the Blood Rubies; Dust in the Wind; Eye of the Tiger; Flight of the Navigator; The Fly; Friday the 13th Part VI: Jason Lives; The Fringe Dwellers; GoBots: Battle of the Rock Lords; The Golden Child; Gonza the Spearman; The Great Mouse Detective; The Green Ray; Hamburger... The Motion Picture; Heathcliff: The Movie; The Hitcher; The Horse Thief; Howard the Duck; The Karate Kid, Part II; Knights of the City; Laputa: Castle in the Sky; The Manhattan Project; The Men's Club; The Mission; The Money Pit; Monster in the Closet; The Morning After; The Mosquito Coast; My Little Pony: The Movie; The Name of the Rose; The Name of the Rose; Night of the Pencils; On the Edge; The Park Is Mine; The Patriot; The Pied Piper; Poltergeist II: The Other Side; Robotech: The Movie; The Sacrifice; Scene of the Crime; The Sea and Poison; Seize the Day; Star Trek IV: The Voyage Home; The Terrorizers; The Texas Chainsaw Massacre 2; The Transformers: The Movie; The Transformers: The Movie; Under the Cherry Moon; When the Wind Blows; The Wraith; X: The Unheard Music; The Year of Enlightenment; Amazon Women on the Moon; The Bedroom Window; The Belly of an Architect; Benji the Hunted; The Bicyclist; The Big Easy; The Big Town; The Brave Little Toaster; The Care Bears Adventure in Wonderland; The Chipmunk Adventure; The Cry of the Owl; The Cry of the Owl; Daughter of the Nile; The Dead; Death Wish 4: The Crackdown; Eat the Rich; Empire of the Sun; The Emperor's Naked Army Marches On; End of the Line; Far Side of the Moon; Flowers in the Attic; The Fourth Protocol; Freckled Max and the Spooks; From the Hip; G.I. Joe: The Movie; The Gate; The Glass Menagerie; The Good Wife; The Hanoi Hilton; Harry and the Hendersons; The Hidden; House II: The Second Story; In the Mood; I've Heard the Mermaids Singing; Jaws: The Revenge; King of the Children; The Kreutzer Sonata; The Last Emperor; The Last of England; Laughter and Grief by the White Sea; The Lighthorsemen; The Living Daylights; The Lonely Passion of Judith Hearne; The Lost Boys; A Man from the Boulevard des Capuchines; The Man Who Planted Trees; Masters of the Universe; Mio in the Land of Faraway; The Monster Squad; A Month in the Country; The Moro Affair; The Mother of Kings; On the Silver Globe; Over the Top; Pelle the Conqueror; The Pick-up Artist; Pinocchio and the Emperor of the Night; Pinocchio and the Emperor of the Night; A Prayer for the Dying; The Princess Bride; The Principal; Revenge of the Nerds II: Nerds in Paradise; Royal Space Force: The Wings of Honnêamise; The Running Man; The Secret of My Succe$s; The Sicilian; Sign 'o' the Times; The Squeeze; The Stepfather; Subway to the Stars; Superman IV: The Quest for Peace; The Surrogate Woman; The Theme; Three for the Road; Throw Momma from the Train; The Trouble with Spies; Under the Sun of Satan; The Untouchables; Waiting for the Moon; The Whales of August; Where Is the Friend's Home?; White of the Eye; The Witches of Eastwick; The Year My Voice Broke; The Abyss; Above the Law; The Accidental Tourist; The Accused; The Adventures of Baron Munchausen; Arthur 2: On the Rocks; The Bear; The Beast; The Big Blue; The Blob; The Boost; The Cannibals; The Cat Who Walked by Herself; The Chocolate War; Cocoon: The Return; The Couch Trip; A Cry in the Dark; Dancing in the Dust; The Dawning; The Dead Pool; The Deceivers; The Decline of Western Civilization Part II: The Metal Years; The Decline of Western Civilization Part II: The Metal Years; The Dressmaker; The Eighth Happiness; Elvira, Mistress of the Dark; The Everlasting Secret Family; The First Kangaroos; The Fruit Machine; The Gamble; Ghosts… of the Civil Dead; The Good Mother; Gorillas in the Mist: The Story of Dian Fossey; Gorillas in the Mist: The Story of Dian Fossey; Grave of the Fireflies; The Great Outdoors; Hôtel Terminus: The Life and Times of Klaus Barbie; The House on Carroll Street; Kamilla and the Thief; The Kiss; The Lair of the White Worm; The Lair of the White Worm; The Land Before Time; Landscape in the Mist; The Last Temptation of Christ; The Little Devil; Maison Ikkoku: The Final Chapter; Married to the Mob; Men Behind the Sun; The Milagro Beanfield War; The Moderns; The Music Teacher; The Naked Gun: From the Files of Police Squad!; The Naked Gun: From the Files of Police Squad!; The Navigator: A Medieval Odyssey; The New Adventures of Pippi Longstocking; Pass the Ammo; Pound Puppies and the Legend of Big Paw; The Presidio; The Prince of Pennsylvania; The Rescue; The Secret of the Sahara; The Secret of the Sahara; Shadows in the Storm; Tales from the Gimli Hospital; Time of the Gypsies; Tommy Tricker and the Stamp Traveller; Tucker: The Man and His Dream; The Unbearable Lightness of Being; Urusei Yatsura: The Final Chapter; The Vanishing; Women on the Verge of a Nervous Breakdown; The Abyss; The BFG; Babar: The Movie; Back to the Future Part II; Before the Bat's Flight Is Done; Best of the Best; The Big Picture; Born on the Fourth of July; The 'Burbs; The Cook, the Thief, His Wife & Her Lover; The Cook, the Thief, His Wife & Her Lover; The Delinquents; Do the Right Thing; The Dream Team; The Ear; Erik the Viking; The Experts; The Fabulous Baker Boys; Farewell to the King; Food of the Gods II; Gleaming the Cube; Honey, I Shrunk the Kids; The Icicle Thief; Indiana Jones and the Last Crusade; The January Man; The Karate Kid, Part III; The Killer; The Little Mermaid; The Marriage of the Blessed; The Marriage of the Blessed; Meet the Feebles; Meet the Hollowheads; The Mighty Quinn; Out of the Dark; The Package; The Paper Wedding; The Punisher; The Rainbow; The Return of the Musketeers; The Return of the Musketeers; Scenes from the Class Struggle in Beverly Hills; See You in the Morning; The Servant; The Seventh Continent; Star Trek V: The Final Frontier; The Striker with Number 9; The Tall Guy; Tetsuo: The Iron Man; Triumph of the Spirit; The War of the Roses; The War of the Roses; When the Whales Came; Why Has Bodhi-Dharma Left for the East?; Willy the Sparrow; The Winter War; The Wizard; Wodaabe - Herdsmen of the Sun",match=low
+"the";the;W10;;possible="The Act of the Heart; The Act of the Heart; The Adventurers; And Soon the Darkness; The Angel Levine; The Aristocats; Awakening of the Beast; The Baby Maker; The Ballad of Cable Hogue; The Beloved; Beneath the Planet of the Apes; Beneath the Planet of the Apes; Beyond the Valley of the Dolls; Beyond the Valley of the Dolls; The Bird with the Crystal Plumage; The Bird with the Crystal Plumage; The Boatniks; The Body; The Boys in the Band; The Boys in the Band; Brancaleone at the Crusades; The Breach; The Butcher; Carry On Up the Jungle; Chariots of the Gods; The Cheyenne Social Club; Colossus: The Forbin Project; The Confession; The Conformist; Crimes of the Future; Days and Nights in the Forest; The Delta Factor; The Dunwich Horror; End of the Road; The Flight; The Games; The Garden of the Finzi-Continis; The Garden of the Finzi-Continis; The Go-Between; Goin' Down the Road; The Great White Hope; The Green Wall; The Hawaiians; The Invincible Six; I Walk the Line; The Kremlin Letter; The Landlord; The Last Warrior; Leo the Last; The Liberation of L.B. Jones; The Little Theatre of Jean Renoir; Lost in the Desert; Michael the Brave; The Molly Maguires; The Moonshine War; The Music Lovers; Of Gods and the Undead; One Day in the Life of Ivan Denisovich; The Out-of-Towners; The Over-the-Hill Gang Rides Again; The Owl and the Pussycat; The Owl and the Pussycat; The Palace of Angels; The Past-Master; Peace in the Fields; The People Next Door; The Phantom Tollbooth; The Pizza Triangle; The Private Life of Sherlock Holmes; Quackser Fortune Has a Cousin in the Bronx; The Railway Children; The Revolutionary; The Rise and Rise of Michael Rimmer; Salt of the Black Earth; The Spider's Stratagem; Start the Revolution Without Me; The Strawberry Statement; The Things of Life; Too Late the Hero; The Traveling Executioner; The Twelve Chairs; The Vampire Lovers; A Walk in the Spring Rain; The Wandering Swordsman; Which Way to the Front?; The Wild Child; The Abominable Dr. Phibes; Adrift on the Nile; The Adversary; The American Soldier; The Anderson Tapes; The Andromeda Strain; The Barefoot Executive; The Battle of Kerzhenets; The Beguiled; The Big Boss; The Big Doll House; Bless the Beasts and Children; The Boat on the Grass; The Boat on the Grass; The Boy Friend; The Ceremony; The Clowns; The Deadly Duo; The Deadly Trap; The Decameron; The Deserter; The Devils; The Emigrants; Escape from the Planet of the Apes; Escape from the Planet of the Apes; Fiddler on the Roof; The French Connection; The Gang That Couldn't Shoot Straight; The Go-Between; The Grissom Gang; The Hellstrom Chronicle; The Hired Hand; The Horsemen; The Hospital; The Hunting Party; The Last Picture Show; The Last Run; The Love Machine; Man in the Wilderness; The Marriage of a Young Stockbroker; The Mephisto Waltz; The Million Dollar Duck; The Missing Clerk; Murmur of the Heart; The Night Digger; The Omega Man; On the Buses; The Panic in Needle Park; The Pursuit of Happiness; Raphael, or The Debauched One; The Salamander; The Seven Minutes; Sympathy for the Underdog; The Tales of Beatrix Potter; The Trojan Women; Twitch of the Death Nerve; W.R.: Mysteries of the Organism; What's the Matter with Helen?; Willy Wonka & the Chocolate Factory; The Working Class Goes to Heaven; The 14 Amazons; The Adventures of Barry McKenzie; Aguirre, the Wrath of God; The Amazing Mr. Blunden; The Big Bird Cage; The Bitter Tears of Petra von Kant; The Boy Turns Man; Buck and the Preacher; The Candidate; The Canterbury Tales; The Carey Treatment; The Castle of Purity; Chloe in the Afternoon; Conquest of the Planet of the Apes; Conquest of the Planet of the Apes; The Cowboys; The Cruel Sea; The Culpepper Cattle Company; The Dawns Here Are Quiet; A Day in the Death of Joe Egg; The Discreet Charm of the Bourgeoisie; The Discreet Charm of the Bourgeoisie; The Effect of Gamma Rays on Man-in-the-Moon Marigolds; The Final Comedown; Fritz the Cat; The Getaway; The Girl on the Broomstick; The Girl on the Broomstick; The Goalkeeper's Fear of the Penalty; The Goalkeeper's Fear of the Penalty; The Goat Horn; The Godfather; The Great Northfield Minnesota Raid; The Groundstar Conspiracy; The Harder They Come; The Heartbreak Kid; The Hot Rock; João and the Knife; The King of Marvin Gardens; Lady Sings the Blues; The Last House on the Left; The Last House on the Left; The Legend of Nigger Charley; The Life and Times of Judge Roy Bean; The Man; The Man Who Quit Smoking; The Mattei Affair; The Mechanic; Mutiny on the Buses; The New Centurions; The New Land; Night of the Lepus; The Night Stalker; The Offence; The Other; The Other Side of the Underneath; The Other Side of the Underneath; The Outside Man; Pearl in the Crown; The Poseidon Adventure; The Possession of Joel Delaney; The Revengers; The Ruling Class; The Salzburg Connection; The Scientific Cardplayer; The Seduction of Mimi; Tales from the Crypt; The Tall Blond Man with One Black Shoe; Taming of the Fire; The Thing with Two Heads; The Triple Echo; Under the Flag of the Rising Sun; Under the Flag of the Rising Sun; The Valachi Papers; The Visitors; The War Between Men and Women; The Water Margin; Way of the Dragon; The Wedding; When the Gods Fall Asleep; The Wrath of God; The 14; Ace Eli and Rodger of the Skies; The Adventures of Rabbi Jacob; The Alpha Caper; Ana and the Wolves; And Now the Screaming Starts!; The Baby; Bang the Drum Slowly; Battle for the Planet of the Apes; Battle for the Planet of the Apes; Blood in the Streets; Blood of the Dragon; Brother of the Wind; The Candy Snatchers; Charley and the Angel; The Crazies; The Creeping Flesh; The Day of the Dolphin; The Day of the Dolphin; The Day of the Jackal; The Day of the Jackal; The Death of a Lumberjack; The Devil in Miss Jones; The Don Is Dead; Don't Be Afraid of the Dark; Emperor of the North Pole; Enter the Dragon; The Exorcist; Five on the Black Hand Side; The Friends of Eddie Coyle; From the Mixed-Up Files of Mrs. Basil E. Frankweiler; The Hare Census; The Harrad Experiment; The Hireling; Hitler: The Last Ten Days; The Holy Mountain; The Homecoming; The Hour-Glass Sanatorium; The House in Nightmare Park; The House on Chelouche Street; Hugo the Hippo; The Iceman Cometh; Ivan Vasilievich: Back to the Future; The Land of Our Ancesters; The Last American Hero; The Last Detail; The Last of Sheila; The Laughing Policeman; The Legend of Hell House; The Legend of Paul and Paula; The Long Goodbye; Love and Pain and the Whole Damn Thing; The Mackintosh Man; The Mother and the Whore; The Mother and the Whore; The Neptune Factor; The No Mercy Man; The Night Strangler; The Nutcracker; The Olsen Gang Goes Crazy; The Paper Chase; Pat Garrett and Billy the Kid; The Pedestrian; Save the Tiger; The Seven Madmen; The Seven-Ups; The Society of the Spectacle; The Society of the Spectacle; The Spirit of the Beehive; The Spirit of the Beehive; The Sting; The Stone Killer; The Tenderness of Wolves; That´ll Be the Day; The Thief Who Came to Dinner; The Three-Day Reign; The Three Musketeers; The Train Robbers; The Vault of Horror; The Way We Were; We Want the Colonels; The Wicker Man; The World's Greatest Athlete; The 6 Ultra Brothers vs. the Monster Army; The 6 Ultra Brothers vs. the Monster Army; Acting Hamlet in the Village of Mrdusa Donja; Ali: Fear Eats the Soul; Alice in the Cities; All the Kind Strangers; The Apprenticeship of Duddy Kravitz; The Autobiography of Miss Jane Pittman; The Beast Must Die; The Black Windmill; Bring Me the Head of Alfredo Garcia; The Cars that Ate Paris; The Clockmaker; The Conscript; The Conversation; The Crazy World of Julius Vrooder; The Deluge; Drama of the Rich; The Enigma of Kaspar Hauser; The Four Musketeers; Freebie and the Bean; The Front Page; The Gambler; Ginger in the Morning; The Girl from Petrovka; The Godfather Part II; The Golden Voyage of Sinbad; The Great Gatsby; The Holy Office; The Homeless; The Internecine Project; The Island at the Top of the World; The Island at the Top of the World; The Island at the Top of the World; The Klansman; Ladies and Gentlemen: The Rolling Stones; The Life and Times of Grizzly Adams; The Longest Yard; The Lords of Flatbush; Lost in the Stars; The Man with the Golden Gun; The Man with the Golden Gun; The Marseille Contract; The Middle of the World; The Middle of the World; The Midnight Man; The Missiles of October; Murder on the Orient Express; The Night of the Scarecrow; The Night of the Scarecrow; The Night Porter; The Nine Lives of Fritz the Cat; The Nine Lives of Fritz the Cat; The Odessa File; One or the Other of Us; The Parallax View; Pastoral: To Die in the Country; The Phantom of Liberty; Phantom of the Paradise; The Red Snowball Tree; The Rehearsal; Report to the Commissioner; Return of the Street Fighter; The Sannikov Land; The Spikes Gang; The Street Fighter; The Street Fighter's Last Revenge; The Sugarland Express; The Taking of Pelham One Two Three; The Tamarind Seed; The Terminal Man; The Texas Chain Saw Massacre; The Towering Inferno; The Traveller; Where the Lilies Bloom; The White Dawn; Winnie the Pooh and Tigger Too!; A Woman Under the Influence; 92 in the Shade; The Adventure of Sherlock Holmes' Smarter Brother; The Adventures of the Wilderness Family; The Adventures of the Wilderness Family; The Apple Dumpling Gang; Bite the Bullet; The Black Bird; Chronicle of the Years of Fire; The Claws of Light; Cleopatra Jones and the Casino of Gold; The Cycle; The Day of the Locust; The Day of the Locust; Doc Savage: The Man of Bronze; The Drowning Pool; The Eiger Sanction; The Empress Dowager; End of the Game; The Flower in His Mouth; The Fortune; The Giant Spider Invasion; The Great Waldo Pepper; Hans Christian Andersen's The Little Mermaid; The Happy Hooker; Hearts of the West; Hedgehog in the Fog; The Hiding Place; The Hindenburg; The 'Human' Factor; The Irony of Fate; Jacob the Liar; Karayuki-san, the Making of a Prostitute; The Land That Time Forgot; Legend of the Lawman; Legend of the Werewolf; The Lion Roars Again; The Lost Honour of Katharina Blum; The Magic Flute; The Man in the Glass Booth; The Man in the Glass Booth; The Man Who Would Be King; The Mirror; Monty Python and the Holy Grail; The Noah, starring Robert Strauss; The Old Gun; One Flew Over the Cuckoo's Nest; The Other Side of the Mountain; The Other Side of the Mountain; The Passenger; The Prisoner of Second Avenue; The Promised Land; Queen of the Gypsies; Queen of the Stardust Ballroom; Race with the Devil; Rafferty and the Gold Dust Twins; The Reincarnation of Peter Proud; The Return of the Pink Panther; The Return of the Pink Panther; The Return of the Sister Street Fighter; The Return of the Sister Street Fighter; The Rocky Horror Picture Show; The Romantic Englishwoman; The Sensuous Nurse; The Stepford Wives; The Story of Adele H.; The Strongest Man in the World; The Strongest Man in the World; The Sunshine Boys; Three Days of the Condor; The Travelling Players; The Ultimate Warrior; W.W. and the Dixie Dancekings; The Wilby Conspiracy; The Wild Party; The Wind and the Lion; The Wind and the Lion; The Wrong Move; The Yakuza; All the President's Men; The Anchorite; The Ascent; At the Earth's Core; The Bad News Bears; The Big Bus; The Bingo Long Traveling All-Stars & Motor Kings; The Blank Generation; Bobbie Jo and the Outlaw; The Bricklayers; Buffalo Bill and the Indians, or Sitting Bull's History Lesson; The Career of a Chambermaid; The Cassandra Crossing; A Child in the Crowd; A Cricket in the Ear; The Desert of the Tartars; The Desert of the Tartars; The Devil's Playground; Diary of the Dead; The Divine Nymph; The Eagle Has Landed; The Enforcer; Escape from the Dark; The Fifth Seal; The First Nudie Musical; The Food of the Gods; The Food of the Gods; The Front; The Gumball Rally; The House with Laughing Windows; The Inheritance; In the Realm of the Senses; In the Realm of the Senses; The Inugamis; Jonah Who Will Be 25 in the Year 2000; The Judge and the Assassin; The Judge and the Assassin; The Killing of a Chinese Bookie; Kings of the Road; The Last Hard Men; The Last Supper; The Last Tycoon; The Little Girl Who Lives Down the Lane; The Little Girl Who Lives Down the Lane; Mako: The Jaws of Death; The Man on the Roof; The Man on the Roof; The Man Who Fell to Earth; Marecek, Pass Me the Pen!; The Marquise of O; Master of the Flying Guillotine; The Memory of Justice; The Missouri Breaks; The Mysterious Monsters; The Omen; The Outlaw Josey Wales; The Pink Panther Strikes Again; The Rat Savior; The Ritz; The Sailor Who Fell from Grace with the Sea; The Sailor Who Fell from Grace with the Sea; The Scar (film); The Seven-Per-Cent Solution; The Shaggy D.A.; The Shootist; Shout at the Devil; The Slipper and the Rose; The Slipper and the Rose; The Smurfs and the Magic Flute; The Smurfs and the Magic Flute; The Song Remains the Same; The Song Remains the Same; The Swiss Conspiracy; The Tenant; To the Devil a Daughter; The Town That Dreaded Sundown; The Twist; Voyage of the Damned; The White Ship; Won Ton Ton, the Dog Who Saved Hollywood; ABBA: The Movie; The Amazing Spider-Man; The American Friend; The Bad News Bears in Breaking Training; The Brothers Lionheart; The Car; The Chess Players; The Choirboys; Close Encounters of the Third Kind; The Deep; The Devil Probably; The Disappearance; The Dog Who Loved Trains; The Domino Principle; Dot and the Kangaroo; The Duellists; Exorcist II: The Heretic; The Gauntlet; The Getting of Wisdom; The Goodbye Girl; The Grateful Dead Movie; The Greatest; The Hills Have Eyes; The Hobbit; The Hunters; In the Name of the Pope King; In the Name of the Pope King; The Iron Prefect; The Iron-Fisted Monk; The Island of Dr. Moreau; Islands in the Stream; Kingdom of the Spiders; The King of the Street Cleaners; The King of the Street Cleaners; The Lacemaker; The Last Remake of Beau Geste; The Last Wave; The Late Show; The Lorry; The Magic Pony; The Man Who Loved Women; The Many Adventures of Winnie the Pooh; The Many Adventures of Winnie the Pooh; One Sings, the Other Doesn't; The Other Side of Midnight; A Piece of the Action; The Report; The Rescuers; The Sentinel; The Serpent's Egg; Sinbad and the Eye of the Tiger; Sinbad and the Eye of the Tiger; Smokey and the Bandit; The Spy Who Loved Me; The Turning Point; The War in Space; The White Buffalo; The World's Greatest Lover; The Year of the Hare; The Year of the Hare; The Yellow Handkerchief; The 36th Chamber of Shaolin; The Adventures of Jody Shanan; The Bad News Bears Go to Japan; The Betsy; The Big Fix; The Big Sleep; The Boys from Brazil; The Boys in Company C; The Brink's Job; The Buddy Holly Story; The Cat from Outer Space; The Chant of Jimmie Blacksmith; The Cheap Detective; The Dain Curse; Dawn of the Dead; Death on the Nile; The Deer Hunter; The Demon; The Driver; The End; An Enemy of the People; Enter the Fat Dragon; The Fury; Go Tell the Spartans; The Herd; Invasion of the Body Snatchers; King of the Gypsies; Lady on the Bus; The Left-Handed Woman; The Last Waltz; The Lord of the Rings; The Lord of the Rings; The Medusa Touch; The Night the Prowler; The Night the Prowler; The One and Only; The Place Without Limits; The Prophet, the Gold and the Transylvanians; The Prophet, the Gold and the Transylvanians; The Prophet, the Gold and the Transylvanians; Revenge of the Pink Panther; The Sailor's Return; The Shout; The Silent Partner; Slow Dancing in the Big City; The Small One; Snake in the Eagle's Shadow; The Stud; The Swarm; The Swissmakers; The Tree of Wooden Clogs; The Water Babies; Who is Killing the Great Chefs of Europe?; Who'll Stop the Rain; The Wild Geese; The Wiz; The Actress, the Dollars and the Transylvanians; The Actress, the Dollars and the Transylvanians; The Actress, the Dollars and the Transylvanians; The Adventure of Sudsakorn; All Quiet on the Western Front; The Amityville Horror; The Apple Dumpling Gang Rides Again; The Bell Jar; Beyond the Poseidon Adventure; Birth of The Beatles; The Bitch; The Black Hole; The Black Stallion; The Brood; Buck Rogers in the 25th Century; The Bugs Bunny/Road Runner Movie; Butch and Sundance: The Early Days; The Butterfly Murders; The Castle of Cagliostro; The Cat and the Canary; The Cat and the Canary; The Champ; The China Syndrome; The Concorde Airport '79; Derek and Clive Get the Horn; The Electric Horseman; The Europeans; The Fifth Musketeer; The First Great Train Robbery; The Genealogy; The Great Santini; The Great Riviera Bank Robbery; Heart of the Forest; The Human Factor; The Hussy; The Hypothesis of the Stolen Painting; The Hypothesis of the Stolen Painting; The In-Laws; The Jerk; The Kids Are Alright; The Lady Vanishes; The Last of the Knucklemen; The Last of the Knucklemen; Love on the Run; The Magician of Lublin; The Main Event; The Marriage of Maria Braun; Mattie the Goose-boy; The Meeting Place Cannot Be Changed; The Muppet Movie; The North Avenue Irregulars; The Odd Angry Shot; The Odd Couple; The Onion Field; Over the Edge; The Passage; The Plank; The Prisoner of Zenda; The Prize Fighter; The Rose; The Seduction of Joe Tynan; Sisters, or the Balance of Happiness; Star Trek: The Motion Picture; The Survivors; Tarka the Otter; The Tempest; The Third Generation; The Tin Drum; Uncle Marin, the Billionaire; The Villain; The Visitor; The Wanderers; The Warriors; The Fog; Don't Answer the Phone; The Changeling; Don't Go in the House; Friday the 13th; The Nude Bomb; The Long Riders; Star Wars Episode V: The Empire Strikes Back; The Gong Show Movie; The Shining; The Hollywood Knights; Up the Academy; The Island; The Blues Brothers; The Stunt Man; The Blue Lagoon; The Big Red One; The Final Countdown; The Octagon; Smokey and the Bandit II; The Agency; The Awakening; The Baltimore Bullet; The Big Brawl; The Big Red One; The Black Marble; The Blood of Hussain; The Blue Lagoon; The Blues Brothers; The Candidate; Can't Stop the Music; The Changeling; The Club; The Competition; The Constant Factor; The Crime of Cuenca; The Dogs of War; The Elephant Man; Encounters of the Spooky Kind; The Exterminator; The Falls; The Final Countdown; The First Deadly Sin; The Fog; The Formula; Friday the 13th; The Gamekeeper; The Gods Must Be Crazy; The Great Rock 'n' Roll Swindle; The Hit; How to Beat the High Co$t of Living; Humanoids from the Deep; The Hunter; The Idolmaker; The Island; The Jazz Singer; The Last Flight of Noah's Ark; The Last Married Couple in America; The Last Metro; The Last Witness; The Lathe of Heaven; The Life and Times of Rosie the Riveter; The Life and Times of Rosie the Riveter; The Long Good Friday; The Long Riders; The Magician of Lublin; The Man with Bogart's Face; The Mirror Crack'd; The Mountain Men; The Nest; The Ninth Configuration; The Orchestra Conductor; Out of the Blue; The Pilot; The Private Eyes; The Return of the King; The Return of the King; Return of the Secaucus 7; The Sea Wolves; See You in the Next War; The Shining; Star Wars Episode V: The Empire Strikes Back; The Stunt Man; To Love the Damned; The Unseen; Up the Academy; The Watcher in the Woods; The Watcher in the Woods; Where the Buffalo Roam; The Young Master; All the Marbles; The Aviator's Wife; The Blood of Hussain; The Boat Is Full; The Burning; The Cannonball Run; Charlie Chan and the Curse of the Dragon Queen; Charlie Chan and the Curse of the Dragon Queen; The Chosen; Chu Chu and the Philly Flash; Clash of the Titans; The Decline of Western Civilization; The Devil and Max Devlin; The Entity; The Evil Dead; Eye of the Needle; The Fan; Fort Apache the Bronx; The Four Seasons; The Fox and the Hound; The Fox and the Hound; The French Lieutenant's Woman; Friday the 13th Part 2; The Funhouse; The German Sisters; The Girl with the Red Hair; The Girl with the Red Hair; The Great Muppet Caper; The Hand; History of the World: Part I; The Hound of the Baskervilles; The Hound of the Baskervilles; The Howling; The Incredible Shrinking Woman; The Inventor; The Killing of Angel Street; Ladies and Gentlemen, The Fabulous Stains; The Land of Hunger; The Last Chase; The Legend of the Lone Ranger; The Legend of the Lone Ranger; The Lion of the Desert; The Lion of the Desert; The Little Fox; The Looney Looney Looney Bugs Bunny Movie; Mad Max 2: The Road Warrior; The Melody Haunts My Memory; The Mysterious Castle in the Carpathians; The Mysterious Castle in the Carpathians; The Mystery of the Third Planet; The Mystery of the Third Planet; The Nesting; The Night the Lights Went Out in Georgia; The Night the Lights Went Out in Georgia; The Oil, the Baby and the Transylvanians; The Oil, the Baby and the Transylvanians; The Oil, the Baby and the Transylvanians; Omen III: The Final Conflict; On the Right Track; The Postman Always Rings Twice; Prince of the City; The Prodigal Son; The Pursuit of D. B. Cooper; Race for the Yankee Zephyr; Raiders of the Lost Ark; The Salamander; Saturday the 14th; The Simple-Minded Murder; The Sixth; Tarzan, the Ape Man; The True Story of Ah Q; Under the Rainbow; The Woman Next Door; Zorro, the Gay Blade; Airplane II: The Sequel; Alone in the Dark; Alsino and the Condor; Amityville II: The Possession; The Atomic Cafe; The Beastmaster; The Beehive; The Best Little Whorehouse in Texas; The Border; Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean; Conan the Barbarian; The Concrete Jungle; The Dark Crystal; The Draughtsman's Contract; E.T. the Extra-Terrestrial; The Escape Artist; Evil Under the Sun; The Flight of Dragons; Friday the 13th Part III; The Grey Fox; Halloween III: Season of the Witch; The Herdsman; How the World Is Losing Poets; The Hunchback of Notre Dame; I, the Jury; The Last Unicorn; Let's Spend the Night Together; The Man from Snowy River; The Marathon Family; The Missionary; Monty Python Live at the Hollywood Bowl; The Night of the Shooting Stars; The Night of the Shooting Stars; On Top of the Whale; One from the Heart; The Passerby; Pink Floyd – The Wall; The Pirate Movie; The Plague Dogs; The Pokrovsky Gate (Pokrovskiye Vorota) - (U.S.S.R.); The Pool Hustlers; The Queen of Spades; The Return of Martin Guerre; The Return of the Soldier; The Return of the Soldier; Richard Pryor: Live on the Sunset Strip; The Scarlet Pimpernel; The Secret of NIMH; The Seduction; The Sender; The Shadow Riders; The Shaolin Temple; Shoot the Moon; Star Trek II: The Wrath of Khan; The State of Things; The Sword and the Sorcerer; The Sword and the Sorcerer; The Thing; Timerider: The Adventure of Lyle Swann; Trail of the Pink Panther; The Trout; The Verdict; We of the Never Never; The Wind; The Wizard of Oz; The World According to Garp; The Worthless; The Year of Living Dangerously; All the Right Moves; And the Ship Sails On; The Ballad of Narayama; Beauty and the Beast; The Big Chill; The Black Stallion Returns; Bloodbath at the House of Death; The Boys From Fengkuei; The Crimson Permanent Assurance; Curse of the Pink Panther; The Day After; The Dead Zone; Deal of the Century; The Death of Mario Ricci; The Dragon That Wasn't (Or Was He?); The Dresser; Eddie and the Cruisers; The Family Game; The Fourth Man; The Honorary Consul; The Hunger; The Illusionist; In the White City; The Keep; The King of Comedy; The Lords of Discipline; The Makioka Sisters; The Man in the Silk Hat; The Man in the Silk Hat; The Man Who Loved Women; The Man with Two Brains; Monty Python's The Meaning of Life; The Osterman Weekend; The Outsiders; Pauline at the Beach; The Pirates of Penzance; The Ploughman's Lunch; The Right Stuff; The Scarlet and the Black; The Scarlet and the Black; Smokey and the Bandit Part 3; Spacehunter: Adventures in the Forbidden Zone; The Star Chamber; Star Wars Episode VI: Return of the Jedi; The Sting II; The Survivors; The Thorn Birds; Three Crowns of the Sailor; Twilight Zone: The Movie; The Very Late Afternoon of a Faun; Walking the Edge; The Wind in the Willows (1983 film); The Wind in the Willows (1983 film); The Winds of War; Winnie the Pooh and a Day for Eeyore; The Wounded Man; Zu Warriors from the Magic Mountain; The Adventures of Buckaroo Banzai; After the Rehearsal; The Ambassador; The Annunciation; Ballad of the Little Soldier; The Bay Boy; Beyond the Walls; Bicycles Are for the Summer; The Bostonians; The Bounty; The Brother from Another Planet; The Buddy System; The Chain; The Children; Children of the Corn; The Company of Wolves; Conan the Destroyer; The Coolangatta Gold; The Cotton Club; The Dark Glow of the Mountains; The Dark Glow of the Mountains; The Descendant of the Snow Leopard; The Descendant of the Snow Leopard; The Element of Crime; The Evil That Men Do; Farewell to the Ark; The Flamingo Kid; Friday the 13th: The Final Chapter; Friday the 13th: The Final Chapter; The Funeral; Greystoke - The Legend of Tarzan, Lord of the Apes; Greystoke - The Legend of Tarzan, Lord of the Apes; The Hit; The Holy Innocents; The Hotel New Hampshire; The Ice Pirates; Indiana Jones and the Temple of Doom; The Jesse Owens Story; John the Fearless; Just the Way You Are; The Karate Kid; The Killing Fields; The Last Days of Pompeii; The Last Starfighter; The Little Drummer Girl; The Lonely Guy; Making the Grade; The Man from Majorca; The Miracle of Joe Petrel; Moscow on the Hudson; The Muppets Take Manhattan; The Naked Face; The Natural; Nausicaä of the Valley of the Wind; Nausicaä of the Valley of the Wind; The NeverEnding Story; Night of the Comet; The Ninja Mission; On the Top of the Cherry Tree; On the Top of the Cherry Tree; Over the Brooklyn Bridge; The Philadelphia Experiment; Places in the Heart; The Pope of Greenwich Village; The Razor's Edge; The Return of Godzilla; Revenge of the Nerds; The River; The Road to Bresson; Romancing the Stone; Ronia, the Robber's Daughter; The Snowdrop Festival; Star Trek III: The Search for Spock; A Sunday in the Country; The Tale of Tsar Saltan; The Terminator; Terror in the Aisles; Ultraman Zoffy: Ultra Warriors vs. the Giant Monster Army; Under the Volcano; Up the Creek; When the Raven Flies; Where the Boys Are '84; Where the Green Ants Dream; Where The Toys Come From; The Wild Life; The Woman in Red; Wreaths at the Foot of the Mountain; Wreaths at the Foot of the Mountain; A Year of the Quiet Sun; The Adventures of Mark Twain, starring James Whitmore; The Assam Garden; The Aviator; Baby: Secret of the Lost Legend; Back to the Future; The Black Cauldron; The Boys Next Door; The Breakfast Club; The Bride; The Burmese Harp; The Care Bears Movie; The Coca-Cola Kid; The Color Purple; Day of the Dead; Defence of the Realm; The Emerald Forest; Ewoks: The Battle for Endor; The Falcon and the Snowman; The Falcon and the Snowman; Give the Devil His Due; The Goonies; Guest from the Future; Half Life: A Parable for the Nuclear Age; Here Come the Littles; The Holcroft Covenant; The Home and the World; The Home and the World; Hour of the Star; Into the Night; The Jewel of the Nile; The Jewel of the Nile; The Journey of Natty Gann; Just One of the Guys; Kiss of the Spider Woman; The Last Dragon; The Last Polka; The Legend of Billie Jean; Lust in the Dust; The Man with One Red Shoe; The Mass Is Ended; The Mean Season; The Official Story; The Peanut Butter Solution; The Protector; The Purple Rose of Cairo; The Quiet Earth; Rainbow Brite and the Star Stealer - (U.S.A./Japan); Remo Williams: The Adventure Begins; The Return of the Living Dead; The Return of the Living Dead; The Runner; Santa Claus: The Movie; The Secret of the Sword; The Secret of the Sword; The Shooting Party; The Slugger's Wife; Starchaser: The Legend of Orin; The Supergrass; The Sure Thing; Tea in the Harem; The Time of the Hero; The Time of the Hero; The Time to Live and the Time to Die; The Time to Live and the Time to Die; The Trip to Bountiful; The Two Lives of Mattia Pascal; The Unknown Soldier; The Woman and the Stranger; The Woman and the Stranger; Year of the Dragon; 3:15, aka 3:15: The Moment of Truth; The Adventure of Faustus Bidgood; The Adventures of Milo and Otis; The Adventures of the American Rabbit; The Adventures of the American Rabbit; The AIDS Show; The Assault; Band of the Hand; Bashu, the Little Stranger; The Beekeeper; The Big Parade; The Boy Who Could Fly; The Care Bears Movie II: A New Generation; The Clan of the Cave Bear; The Clan of the Cave Bear; The Color of Money; Crimes of the Heart; The Delta Force; Dr. Otto and the Riddle of the Gloom Beam; Dr. Otto and the Riddle of the Gloom Beam; Dragon Ball: Curse of the Blood Rubies; Dust in the Wind; Eye of the Tiger; Flight of the Navigator; The Fly; Friday the 13th Part VI: Jason Lives; The Fringe Dwellers; GoBots: Battle of the Rock Lords; The Golden Child; Gonza the Spearman; The Great Mouse Detective; The Green Ray; Hamburger The Motion Picture; Heathcliff: The Movie; The Hitcher; The Horse Thief; Howard the Duck; The Karate Kid, Part II; Knights of the City; Laputa: Castle in the Sky; The Manhattan Project; The Men's Club; The Mission; The Money Pit; Monster in the Closet; The Morning After; The Mosquito Coast; My Little Pony: The Movie; The Name of the Rose; The Name of the Rose; Night of the Pencils; On the Edge; The Park Is Mine; The Patriot; The Pied Piper; Poltergeist II: The Other Side; Robotech: The Movie; The Sacrifice; Scene of the Crime; The Sea and Poison; Seize the Day; Star Trek IV: The Voyage Home; The Terrorizers; The Texas Chainsaw Massacre 2; The Transformers: The Movie; The Transformers: The Movie; Under the Cherry Moon; When the Wind Blows; The Wraith; X: The Unheard Music; The Year of Enlightenment; Amazon Women on the Moon; The Bedroom Window; The Belly of an Architect; Benji the Hunted; The Bicyclist; The Big Easy; The Big Town; The Brave Little Toaster; The Care Bears Adventure in Wonderland; The Chipmunk Adventure; The Cry of the Owl; The Cry of the Owl; Daughter of the Nile; The Dead; Death Wish 4: The Crackdown; Eat the Rich; Empire of the Sun; The Emperor's Naked Army Marches On; End of the Line; Far Side of the Moon; Flowers in the Attic; The Fourth Protocol; Freckled Max and the Spooks; From the Hip; G.I. Joe: The Movie; The Gate; The Glass Menagerie; The Good Wife; The Hanoi Hilton; Harry and the Hendersons; The Hidden; House II: The Second Story; In the Mood; I've Heard the Mermaids Singing; Jaws: The Revenge; King of the Children; The Kreutzer Sonata; The Last Emperor; The Last of England; Laughter and Grief by the White Sea; The Lighthorsemen; The Living Daylights; The Lonely Passion of Judith Hearne; The Lost Boys; A Man from the Boulevard des Capuchines; The Man Who Planted Trees; Masters of the Universe; Mio in the Land of Faraway; The Monster Squad; A Month in the Country; The Moro Affair; The Mother of Kings; On the Silver Globe; Over the Top; Pelle the Conqueror; The Pick-up Artist; Pinocchio and the Emperor of the Night; Pinocchio and the Emperor of the Night; A Prayer for the Dying; The Princess Bride; The Principal; Revenge of the Nerds II: Nerds in Paradise; Royal Space Force: The Wings of Honnêamise; The Running Man; The Secret of My Succe$s; The Sicilian; Sign 'o' the Times; The Squeeze; The Stepfather; Subway to the Stars; Superman IV: The Quest for Peace; The Surrogate Woman; The Theme; Three for the Road; Throw Momma from the Train; The Trouble with Spies; Under the Sun of Satan; The Untouchables; Waiting for the Moon; The Whales of August; Where Is the Friend's Home?; White of the Eye; The Witches of Eastwick; The Year My Voice Broke; The Abyss; Above the Law; The Accidental Tourist; The Accused; The Adventures of Baron Munchausen; Arthur 2: On the Rocks; The Bear; The Beast; The Big Blue; The Blob; The Boost; The Cannibals; The Cat Who Walked by Herself; The Chocolate War; Cocoon: The Return; The Couch Trip; A Cry in the Dark; Dancing in the Dust; The Dawning; The Dead Pool; The Deceivers; The Decline of Western Civilization Part II: The Metal Years; The Decline of Western Civilization Part II: The Metal Years; The Dressmaker; The Eighth Happiness; Elvira, Mistress of the Dark; The Everlasting Secret Family; The First Kangaroos; The Fruit Machine; The Gamble; Ghosts… of the Civil Dead; The Good Mother; Gorillas in the Mist: The Story of Dian Fossey; Gorillas in the Mist: The Story of Dian Fossey; Grave of the Fireflies; The Great Outdoors; Hôtel Terminus: The Life and Times of Klaus Barbie; The House on Carroll Street; Kamilla and the Thief; The Kiss; The Lair of the White Worm; The Lair of the White Worm; The Land Before Time; Landscape in the Mist; The Last Temptation of Christ; The Little Devil; Maison Ikkoku: The Final Chapter; Married to the Mob; Men Behind the Sun; The Milagro Beanfield War; The Moderns; The Music Teacher; The Naked Gun: From the Files of Police Squad!; The Naked Gun: From the Files of Police Squad!; The Navigator: A Medieval Odyssey; The New Adventures of Pippi Longstocking; Pass the Ammo; Pound Puppies and the Legend of Big Paw; The Presidio; The Prince of Pennsylvania; The Rescue; The Secret of the Sahara; The Secret of the Sahara; Shadows in the Storm; Tales from the Gimli Hospital; Time of the Gypsies; Tommy Tricker and the Stamp Traveller; Tucker: The Man and His Dream; The Unbearable Lightness of Being; Urusei Yatsura: The Final Chapter; The Vanishing; Women on the Verge of a Nervous Breakdown; The Abyss; The BFG; Babar: The Movie; Back to the Future Part II; Before the Bat's Flight Is Done; Best of the Best; The Big Picture; Born on the Fourth of July; The 'Burbs; The Cook, the Thief, His Wife & Her Lover; The Cook, the Thief, His Wife & Her Lover; The Delinquents; Do the Right Thing; The Dream Team; The Ear; Erik the Viking; The Experts; The Fabulous Baker Boys; Farewell to the King; Food of the Gods II; Gleaming the Cube; Honey, I Shrunk the Kids; The Icicle Thief; Indiana Jones and the Last Crusade; The January Man; The Karate Kid, Part III; The Killer; The Little Mermaid; The Marriage of the Blessed; The Marriage of the Blessed; Meet the Feebles; Meet the Hollowheads; The Mighty Quinn; Out of the Dark; The Package; The Paper Wedding; The Punisher; The Rainbow; The Return of the Musketeers; The Return of the Musketeers; Scenes from the Class Struggle in Beverly Hills; See You in the Morning; The Servant; The Seventh Continent; Star Trek V: The Final Frontier; The Striker with Number 9; The Tall Guy; Tetsuo: The Iron Man; Triumph of the Spirit; The War of the Roses; The War of the Roses; When the Whales Came; Why Has Bodhi-Dharma Left for the East?; Willy the Sparrow; The Winter War; The Wizard; Wodaabe - Herdsmen of the Sun",match=low
 "england";england;W10;;possible="England Made Me; The Last of England",match=low
 "conflict";conflict;W10;;likely="Omen III: The Final Conflict",match=low
 "game";game;W10;;possible="Skin Game; Game of Death; End of the Game; Wounded Game; The Family Game; Night Game",match=low
@@ -6026,7 +6024,7 @@
 "leningrad";leningrad;W10;;likely="Leningrad Cowboys Go America",match=low
 "orchestra";orchestra;W10;;possible="Orchestra Rehearsal; The Orchestra Conductor",match=low
 "momma";momma;W10;;likely="Throw Momma from the Train",match=low
-"memphis";memphis;W10;;likely="King: A Filmed Record... Montgomery to Memphis",match=low
+"memphis";memphis;W10;;likely="King: A Filmed Record Montgomery to Memphis",match=low
 "sixth";sixth;W10;;likely="The Sixth",match=low
 "profile";profile;W10;;likely="American Boy: A Profile of Steven Prince",match=low
 "father";father;W10;;possible="I Never Sang for My Father; Lies My Father Told Me; When Father Was Away on Business; Like Father Like Son",match=low
@@ -6196,7 +6194,7 @@
 "manhunt";manhunt;W10;;likely="Manhunt",match=low
 "hathyar";hathyar;W10;;likely="Hathyar",match=low
 "echoes";echoes;W10;;likely="Echoes of Paradise",match=low
-"will";will;W10;;possible="Jonah Who Will Be 25 in the Year 2000; Will",match=low
+"will";will;W10;;possible="I Will, I Will for Now; Jonah Who Will Be 25 in the Year 2000; Will",match=low
 "birdy";birdy;W10;;likely="Birdy",match=low
 "station";station;W10;;possible="Station; Station for Two",match=low
 "paradis";paradis;W10;;likely="Hôtel du Paradis",match=low
@@ -6527,7 +6525,7 @@
 "murmur";murmur;W10;;likely="Murmur of the Heart",match=low
 "1776";1776;W10;;likely="1776",match=low
 "loot";loot;W10;;likely="Loot",match=low
-"will.?";willx;W10;;likely="I Will, I Will... for Now",match=low
+"will.?";willx;W10;;likely="I Will, I Will for Now",match=low
 "returns";returns;W10;;possible="The Black Stallion Returns; Max Dugan Returns",match=low
 "shivers";shivers;W10;;likely="Shivers",match=low
 "nowhere";nowhere;W10;;possible="Voyage to Nowhere; Nowhere to Hide; Nowhere to Run",match=low
@@ -6573,7 +6571,6 @@
 "bombo";bombo;W10;;likely="Ecce bombo",match=low
 "breaks";breaks;W10;;likely="The Missouri Breaks",match=low
 "bouki";bouki;W10;;likely="Touki Bouki",match=low
-"man.?.?.?";manxxx;W10;;likely="There Was a Crooked Man...",match=low
 "cities";cities;W10;;likely="Alice in the Cities",match=low
 "10";10;W10;;possible="10 Rillington Place; Force 10 from Navarone; 10; 10 to Midnight",match=low
 "11";11;W10;;likely="11 Harrowhouse",match=low
@@ -6673,7 +6670,6 @@
 "treasure";treasure;W10;;possible="Animal Treasure Island; Treasure Island; Treasure of Matecumbe; Treasure Island",match=low
 "sources";sources;W10;;likely="Manon des Sources",match=low
 "hayes";hayes;W10;;likely="Nate and Hayes",match=low
-"alexandria.?.?.?";alexandriaxxx;W10;;likely="Alexandria... Why?",match=low
 "swedish";swedish;W10;;likely="A Swedish Love Story",match=low
 "sadness";sadness;W10;;possible="A Tale of Sorrow and Sadness; A City of Sadness",match=low
 "mira";mira;W10;;likely="Mira",match=low
@@ -6684,7 +6680,6 @@
 "repo";repo;W10;;likely="Repo Man",match=low
 "sunset";sunset;W10;;possible="Richard Pryor: Live on the Sunset Strip; Sunset",match=low
 "kickboxer";kickboxer;W10;;likely="Kickboxer",match=low
-"stavisky.?.?.?";staviskyxxx;W10;;likely="Stavisky...",match=low
 "mysteries";mysteries;W10;;likely="W.R.: Mysteries of the Organism",match=low
 "clerk";clerk;W10;;likely="The Missing Clerk",match=low
 "cockeyed";cockeyed;W10;;likely="Cockeyed Cowboys of Calico County",match=low
@@ -6884,8 +6879,9 @@
 "merry";merry;W10;;likely="Merry Christmas Mr. Lawrence",match=low
 "hunchback";hunchback;W10;;likely="The Hunchback of Notre Dame",match=low
 ".?77";x77;W10;;likely="Airport '77",match=low
-".?79";x79;W10;;likely="The Concorde( .).. Airport '79",match=low
+".?79";x79;W10;;likely="The Concorde Airport '79",match=low
 "baker";baker;W10;;likely="The Fabulous Baker Boys",match=low
+"record";record;W10;;likely="King: A Filmed Record Montgomery to Memphis",match=low
 "whispers";whispers;W10;;likely="Cries and Whispers",match=low
 "hadas";hadas;W10;;likely="Veneno para las hadas",match=low
 "necromancer";necromancer;W10;;likely="Necromancer",match=low
@@ -7183,7 +7179,6 @@
 "quit";quit;W10;;likely="The Man Who Quit Smoking",match=low
 "moonrunners";moonrunners;W10;;likely="Moonrunners",match=low
 "ii.?";iix;W10;;possible="Exorcist II: The Heretic; Airplane II: The Sequel; Amityville II: The Possession; Star Trek II: The Wrath of Khan; The Care Bears Movie II: A New Generation; Poltergeist II: The Other Side; House II: The Second Story; Revenge of the Nerds II: Nerds in Paradise; The Decline of Western Civilization Part II: The Metal Years",match=low
-"anything.?.?.?";anythingxxx;W10;;likely="Say Anything...",match=low
 "leonard";leonard;W10;;likely="Leonard Part 6",match=low
 "vi.?";vix;W10;;possible="Star Wars Episode VI: Return of the Jedi; Friday the 13th Part VI: Jason Lives",match=low
 "losing";losing;W10;;possible="How the World Is Losing Poets; How Poets are Losing Their Illusions",match=low
@@ -7241,7 +7236,7 @@
 "illegally";illegally;W10;;likely="Illegally Yours",match=low
 "hellraiser";hellraiser;W10;;possible="Hellraiser; Hellbound: Hellraiser II",match=low
 "callan";callan;W10;;likely="Callan",match=low
-"crooked";crooked;W10;;likely="There Was a Crooked Man...",match=low
+"crooked";crooked;W10;;likely="There Was a Crooked Man",match=low
 "video";video;W10;;likely="Mr. Mike's Mondo Video",match=low
 "hunan";hunan;W10;;likely="A Girl from Hunan",match=low
 "drawer";drawer;W10;;likely="A Dog in a Drawer",match=low
@@ -7253,7 +7248,7 @@
 "tartars";tartars;W10;;likely="The Desert of the Tartars",match=low
 "fearless";fearless;W10;;likely="John the Fearless",match=low
 "horror";horror;W10;;possible="The Dunwich Horror; The Vault of Horror; The Rocky Horror Picture Show; The Amityville Horror; Houseboat Horror",match=low
-"that";that;W10;;possible="Tell Me That You Love Me, Junie Moon; The Gang That Couldn't Shoot Straight; The Cars that Ate Paris; The Land That Time Forgot; The Town That Dreaded Sundown; That Obscure Object of Desire; All That Jazz; That Summer; That Sinking Feeling; That Championship Season; That Night in Varennes; The Dragon That Wasn't (Or Was He?); The Evil That Men Do; Sesame Street Presents Follow That Bird; That Was Then... This Is Now; Who's That Girl",match=low
+"that";that;W10;;possible="Tell Me That You Love Me, Junie Moon; The Gang That Couldn't Shoot Straight; The Cars that Ate Paris; The Land That Time Forgot; The Town That Dreaded Sundown; That Obscure Object of Desire; All That Jazz; That Summer; That Sinking Feeling; That Championship Season; That Night in Varennes; The Dragon That Wasn't (Or Was He?); The Evil That Men Do; Sesame Street Presents Follow That Bird; That Was Then This Is Now; Who's That Girl",match=low
 "tommy";tommy;W10;;possible="Tommy; Tommy Tricker and the Stamp Traveller",match=low
 "dillinger";dillinger;W10;;likely="Dillinger",match=low
 "twitch";twitch;W10;;likely="Twitch of the Death Nerve",match=low
@@ -7410,7 +7405,7 @@
 "rolling";rolling;W10;;possible="Ladies and Gentlemen: The Rolling Stones; Rolling Thunder",match=low
 "new";new;W10;;possible="Hercules in New York; A New Leaf; The New Centurions; The New Land; Harry and Walter Go to New York; New York, New York; New York, New York; Escape from New York; The Hotel New Hampshire; Goodbye, New York; The Care Bears Movie II: A New Generation; Happy New Year; The New Adventures of Pippi Longstocking; A New Life; New York Stories; Slaves of New York",match=low
 "1900";1900;W10;;likely="1900",match=low
-"then";then;W10;;possible="And Then There Were None; Joshua Then and Now",match=low
+"then";then;W10;;possible="And Then There Were None; Joshua Then and Now; That Was Then This Is Now",match=low
 "score";score;W10;;likely="Shaft's Big Score",match=low
 "coolangatta";coolangatta;W10;;likely="The Coolangatta Gold",match=low
 "peanut";peanut;W10;;likely="The Peanut Butter Solution",match=low
@@ -7606,7 +7601,7 @@
 "vs.?";vsx;W10;;possible="Gamera vs. Jiger; Godzilla vs. Hedorah; Daigoro vs. Goliath; Godzilla vs. Gigan; Godzilla vs. Megalon; The 6 Ultra Brothers vs. the Monster Army; Godzilla vs. Mechagodzilla; Bandits vs. Samurai Squadron; Kramer vs. Kramer; Strangler vs. Strangler; Ultraman Zoffy: Ultra Warriors vs. the Giant Monster Army; Godzilla vs. Biollante",match=low
 "mario";mario;W10;;likely="The Death of Mario Ricci",match=low
 "temps";temps;W10;;likely="Les Maîtres du temps",match=low
-"this";this;W10;;possible="Take This Job and Shove It; This is Elvis; If You Love This Planet; Something Wicked This Way Comes; This Is My Country; This Is Spinal Tap; That Was Then... This Is Now",match=low
+"this";this;W10;;possible="Take This Job and Shove It; This is Elvis; If You Love This Planet; Something Wicked This Way Comes; This Is My Country; This Is Spinal Tap; That Was Then This Is Now",match=low
 "truth";truth;W10;;likely="3:15, aka 3:15: The Moment of Truth",match=low
 "guns";guns;W10;;likely="Young Guns",match=low
 "ninja";ninja;W10;;possible="The Ninja Mission; American Ninja",match=low
@@ -7638,7 +7633,7 @@
 "saw";saw;W10;;likely="The Texas Chain Saw Massacre",match=low
 "morant";morant;W10;;possible="Breaker Morant; Breaker Morant",match=low
 "castaway";castaway;W10;;likely="Castaway",match=low
-"say";say;W10;;possible="Never Say Never Again; Say Anything...",match=low
+"say";say;W10;;possible="Never Say Never Again; Say Anything",match=low
 "plaza";plaza;W10;;likely="Plaza Suite",match=low
 "vanzetti";vanzetti;W10;;likely="Sacco e Vanzetti",match=low
 ".?three";xthree;W10;;likely="¡Three Amigos!",match=low
@@ -7714,7 +7709,7 @@
 "motor";motor;W10;;likely="The Bingo Long Traveling All-Stars & Motor Kings",match=low
 "salt";salt;W10;;likely="Salt of the Black Earth",match=low
 "life";life;W10;;possible="Elise, or Real Life; One Day in the Life of Ivan Denisovich; The Private Life of Sherlock Holmes; The Things of Life; Family Life; The Life and Times of Judge Roy Bean; The Life and Times of Grizzly Adams; Still Life; You Light Up My Life; Monty Python's Life of Brian; Real Life; The Life and Times of Rosie the Riveter; Whose Life Is It Anyway?; Private Life; Monty Python's The Meaning of Life; The Wild Life; Family Life; Mishima: A Life in Four Chapters; My Life as a Dog; Jo Jo Dancer, Your Life Is Calling; El Lute: Run for Your Life; My Life as a Dog; Hôtel Terminus: The Life and Times of Klaus Barbie; Life Is a Long Quiet River; A New Life; Run for Your Life; Freeze Die Come to Life; Life and Nothing But; Signs of Life",match=low
-"all";all;W10;;possible="Pretty Maids All in a Row; All Nudity Shall Be Punished; All the Kind Strangers; We All Loved Each Other So Much; All the President's Men; All Quiet on the Western Front; All That Jazz; …And Justice for All; All Night Long; They All Laughed; Things Are Tough All Over; All the Right Moves; Against All Odds; All of Me; All About Ah-Long; All Dogs Go To Heaven",match=low
+"all";all;W10;;possible="Pretty Maids All in a Row; All Nudity Shall Be Punished; All the Kind Strangers; We All Loved Each Other So Much; All the President's Men; All Quiet on the Western Front; All That Jazz; …And Justice for All; All Night Long; All the Marbles; They All Laughed; Things Are Tough All Over; All the Right Moves; Against All Odds; All of Me; All About Ah-Long; All Dogs Go To Heaven",match=low
 "dreamchild";dreamchild;W10;;likely="Dreamchild",match=low
 "channels";channels;W10;;likely="Switching Channels",match=low
 "artist";artist;W10;;possible="The Escape Artist; The Pick-up Artist",match=low
@@ -7731,7 +7726,6 @@
 "slowly";slowly;W10;;likely="Bang the Drum Slowly",match=low
 "armed";armed;W10;;possible="One Armed Boxer; Armed and Dangerous; Armed Response",match=low
 "getaway";getaway;W10;;likely="The Getaway",match=low
-"will.?.?.?";willxxx;W10;;likely="I Will, I Will... for Now",match=low
 "jugs";jugs;W10;;likely="Mother, Jugs & Speed",match=low
 "castles";castles;W10;;likely="Ice Castles",match=low
 "autumn";autumn;W10;;possible="Autumn Sonata; Germany in Autumn; Autumn Marathon",match=low
@@ -7859,13 +7853,13 @@
 "not";not;W10;;possible="Once Is Not Enough; You Are Not Alone; Moscow Does Not Believe In Tears; To Be or Not to Be; *batteries not included",match=low
 "mistress";mistress;W10;;likely="Elvira, Mistress of the Dark",match=low
 "internecine";internecine;W10;;likely="The Internecine Project",match=low
-"now";now;W10;;possible="And Now for Something Completely Different; Now You See Him, Now You Don't; Now You See Him, Now You Don't; And Now the Screaming Starts!; Don't Look Now; And Now My Love; Any Day Now; I Will, I Will... for Now; Apocalypse Now; Joshua Then and Now; That Was Then... This Is Now",match=low
+"now";now;W10;;possible="And Now for Something Completely Different; Now You See Him, Now You Don't; Now You See Him, Now You Don't; And Now the Screaming Starts!; Don't Look Now; And Now My Love; Any Day Now; I Will, I Will for Now; Apocalypse Now; Joshua Then and Now; That Was Then This Is Now",match=low
 "macarthur.?s";macarthurxs;W10;;likely="MacArthur's Children",match=low
 "terms";terms;W10;;likely="Terms of Endearment",match=low
 "chess";chess;W10;;likely="The Chess Players",match=low
 "garden";garden;W10;;possible="The Garden of the Finzi-Continis; I Never Promised You a Rose Garden; The Assam Garden; Death in a French Garden",match=low
 "creepshow";creepshow;W10;;likely="Creepshow",match=low
-"when";when;W10;;possible="When the Gods Fall Asleep; When a Stranger Calls; When Time Ran Out; Only When I Laugh; When the Raven Flies; When Father Was Away on Business; When the Wind Blows; When Harry Met Sally...; When the Whales Came",match=low
+"when";when;W10;;possible="When the Gods Fall Asleep; When a Stranger Calls; When Time Ran Out; Only When I Laugh; When the Raven Flies; When Father Was Away on Business; When the Wind Blows; When Harry Met Sally; When the Whales Came",match=low
 "charleston";charleston;W10;;possible="Come Back, Charleston Blue; Charleston",match=low
 "gumshoe";gumshoe;W10;;likely="Gumshoe",match=low
 "saddles";saddles;W10;;likely="Blazing Saddles",match=low
@@ -8085,7 +8079,6 @@
 "shanan";shanan;W10;;likely="The Adventures of Jody Shanan",match=low
 "majorca";majorca;W10;;likely="The Man from Majorca",match=low
 "beanfield";beanfield;W10;;likely="The Milagro Beanfield War",match=low
-".?.?.?";xxx;W10;;likely="The Concorde( .).. Airport '79",match=low
 "left.?handed";leftxhanded;W10;;likely="The Left-Handed Woman",match=low
 "tropical";tropical;W10;;likely="Tropical Snow",match=low
 "large";large;W10;;likely="Hero at Large",match=low
@@ -8146,6 +8139,7 @@
 "aur";aur;W10;;likely="Purab Aur Paschim",match=low
 "yentl";yentl;W10;;likely="Yentl",match=low
 "lion";lion;W10;;possible="The Lion Roars Again; The Wind and the Lion; The Lion of the Desert",match=low
+"tick.?.?.?tick.?.?.?tick.?.?.?";tickxxxtickxxxtickxxx;W10;;likely="tick...tick...tick...",match=low
 "lives";lives;W10;;possible="The Nine Lives of Fritz the Cat; The Little Girl Who Lives Down the Lane; The Two Lives of Mattia Pascal; Friday the 13th Part VI: Jason Lives; Distant Voices, Still Lives; How Poets are Enjoying Their Lives; Fletch Lives",match=low
 "aux";aux;W10;;likely="La Cage aux Folles",match=low
 "cocoon";cocoon;W10;;likely="Cocoon",match=low
@@ -8200,7 +8194,7 @@
 "superstar";superstar;W10;;possible="Jesus Christ Superstar; Bugs Bunny Superstar",match=low
 "fairbanks";fairbanks;W10;;likely="F comme Fairbanks",match=low
 "kitty";kitty;W10;;likely="Salon Kitty",match=low
-"airport";airport;W10;;possible="Airport; Airport 1975; Airport '77; The Concorde( .).. Airport '79",match=low
+"airport";airport;W10;;possible="Airport; Airport 1975; Airport '77; The Concorde Airport '79",match=low
 "muppet";muppet;W10;;possible="The Muppet Movie; The Great Muppet Caper",match=low
 "antony";antony;W10;;likely="Antony and Cleopatra",match=low
 "cuba";cuba;W10;;likely="Cuba",match=low
@@ -8282,7 +8276,7 @@
 "paris.?";parisx;W10;;likely="Paris, Texas",match=low
 "gentlemen";gentlemen;W10;;possible="Gentlemen of Fortune; Gentlemen of Fortune",match=low
 "lianna";lianna;W10;;likely="Lianna",match=low
-"for";for;W10;;possible="Cannon for Cordoba; I Never Sang for My Father; Something for Everyone; Two Mules for Sister Sara; And Now for Something Completely Different; Made for Each Other; Play Misty for Me; Sympathy for the Underdog; Battle for the Planet of the Apes; Day for Night; Three Nuts for Cinderella; Flesh for Frankenstein; F for Fake; For Pete's Sake; They Fought for Their Country; Bound for Glory; Farsighted for Two Diopters; I Will, I Will... for Now; Dinner for Adele; Looking for Mr. Goodbar; Race for Your Life, Charlie Brown; …And Justice for All; Every Man for Himself; Playing for Time; An Eye for an Eye; For Your Eyes Only; Quest for Fire; Race for the Yankee Zephyr; Soup for One; Station for Two; King for a Day; Table for Five; Winnie the Pooh and a Day for Eeyore; Bicycles Are for the Summer; Diary for My Children; Star Trek III: The Search for Spock; Ewoks: The Battle for Endor; Fool for Love; Half Life: A Parable for the Nuclear Age; Duet for One; Diary for My Loves; El Lute: Run for Your Life; A Prayer for the Dying; Superman IV: The Quest for Peace; Three for the Road; Waiting for the Moon; Run for Your Life; For Queen and Country; Too Beautiful for You; Why Has Bodhi-Dharma Left for the East?",match=low
+"for";for;W10;;possible="Cannon for Cordoba; I Never Sang for My Father; Something for Everyone; Two Mules for Sister Sara; And Now for Something Completely Different; Made for Each Other; Play Misty for Me; Sympathy for the Underdog; Battle for the Planet of the Apes; Day for Night; Three Nuts for Cinderella; Flesh for Frankenstein; F for Fake; For Pete's Sake; They Fought for Their Country; Bound for Glory; Farsighted for Two Diopters; I Will, I Will for Now; Dinner for Adele; Looking for Mr. Goodbar; Race for Your Life, Charlie Brown; …And Justice for All; Every Man for Himself; Playing for Time; An Eye for an Eye; For Your Eyes Only; Quest for Fire; Race for the Yankee Zephyr; Soup for One; Station for Two; King for a Day; Table for Five; Winnie the Pooh and a Day for Eeyore; Bicycles Are for the Summer; Diary for My Children; Star Trek III: The Search for Spock; Ewoks: The Battle for Endor; Fool for Love; Half Life: A Parable for the Nuclear Age; Duet for One; Diary for My Loves; El Lute: Run for Your Life; A Prayer for the Dying; Superman IV: The Quest for Peace; Three for the Road; Waiting for the Moon; Run for Your Life; For Queen and Country; Too Beautiful for You; Why Has Bodhi-Dharma Left for the East?",match=low
 "lair";lair;W10;;likely="The Lair of the White Worm",match=low
 "cheongchun";cheongchun;W10;;likely="Cheongchun gyosa",match=low
 "son";son;W10;;possible="Steptoe and Son; Steptoe and Son Ride Again; Son of Dracula; The Prodigal Son; Harry & Son; Like Father Like Son",match=low
@@ -8418,6 +8412,7 @@
 "nomads";nomads;W10;;likely="Nomads",match=low
 "kin";kin;W10;;likely="Next of Kin",match=low
 "fayre";fayre;W10;;likely="Glastonbury Fayre",match=low
+"stavisky";stavisky;W10;;likely="Stavisky",match=low
 "rattle";rattle;W10;;likely="Rattle and Hum",match=low
 "travels";travels;W10;;likely="Travels with My Aunt",match=low
 "closed";closed;W10;;likely="Closed Circuit",match=low
@@ -8564,7 +8559,7 @@
 "tell";tell;W10;;possible="Tell Me That You Love Me, Junie Moon; Go Tell the Spartans; Just Tell Me What You Want",match=low
 "mississippi";mississippi;W10;;likely="Mississippi Burning",match=low
 "ride";ride;W10;;likely="Steptoe and Son Ride Again",match=low
-"there";there;W10;;possible="There Was a Crooked Man...; And Then There Were None; Being There; A Hoof Here, a Hoof There",match=low
+"there";there;W10;;possible="There Was a Crooked Man; And Then There Were None; Being There; A Hoof Here, a Hoof There",match=low
 "sur";sur;W10;;possible="El Sur; Sur",match=low
 "r.?volution";rxvolution;W10;;likely="La Révolution française",match=low
 "icarus";icarus;W10;;likely="I as in Icarus",match=low
@@ -8643,7 +8638,6 @@
 "kunwara";kunwara;W10;;likely="Kunwara Baap",match=low
 "ball";ball;W10;;likely="Ball Lightning",match=low
 "crown";crown;W10;;likely="Pearl in the Crown",match=low
-"record.?.?.?";recordxxx;W10;;likely="King: A Filmed Record... Montgomery to Memphis",match=low
 "staying";staying;W10;;possible="Staying Alive; Staying Together",match=low
 "moses.?";mosesx;W10;;possible="Wholly Moses!; Wholly Moses!",match=low
 "dominick";dominick;W10;;likely="Dominick and Eugene",match=low
@@ -8728,7 +8722,7 @@
 "bang";bang;W10;;possible="Bang the Drum Slowly; Dead Bang",match=low
 "stallion";stallion;W10;;possible="The Black Stallion; The Black Stallion Returns",match=low
 "bank";bank;W10;;possible="The Great Riviera Bank Robbery; A Man, a Woman, and a Bank",match=low
-"last";last;W10;;possible="The Last Warrior; Leo the Last; The Last Picture Show; The Last Run; The Last House on the Left; Last Tango in Paris; Hitler: The Last Ten Days; The Last American Hero; The Last Detail; The Last of Sheila; The Street Fighter's Last Revenge; At Long Last Love; The Last Hard Men; The Last Supper; The Last Tycoon; The Last Remake of Beau Geste; The Last Wave; Twilight's Last Gleaming; The Last Waltz; Last Embrace; The Last of the Knucklemen; The Last Flight of Noah's Ark; The Last Married Couple in America; The Last Metro; The Last Witness; The Last Chase; The Last Unicorn; Last Year's Snow Was Falling; The Last Days of Pompeii; The Last Starfighter; The Last Dragon; The Last Polka; About Last Night...; The Last Emperor; The Last of England; Last Rites; The Last Temptation of Christ; Salome's Last Dance; Indiana Jones and the Last Crusade; Last Exit to Brooklyn",match=low
+"last";last;W10;;possible="The Last Warrior; Leo the Last; The Last Picture Show; The Last Run; The Last House on the Left; Last Tango in Paris; Hitler: The Last Ten Days; The Last American Hero; The Last Detail; The Last of Sheila; The Street Fighter's Last Revenge; At Long Last Love; The Last Hard Men; The Last Supper; The Last Tycoon; The Last Remake of Beau Geste; The Last Wave; Twilight's Last Gleaming; The Last Waltz; Last Embrace; The Last of the Knucklemen; The Last Flight of Noah's Ark; The Last Married Couple in America; The Last Metro; The Last Witness; The Last Chase; The Last Unicorn; Last Year's Snow Was Falling; The Last Days of Pompeii; The Last Starfighter; The Last Dragon; The Last Polka; About Last Night; The Last Emperor; The Last of England; Last Rites; The Last Temptation of Christ; Salome's Last Dance; Indiana Jones and the Last Crusade; Last Exit to Brooklyn",match=low
 "talking";talking;W10;;likely="Look Who's Talking",match=low
 "veronika";veronika;W10;;likely="Veronika Voss",match=low
 "rites";rites;W10;;likely="Last Rites",match=low
@@ -8757,7 +8751,7 @@
 "symptoms";symptoms;W10;;likely="Symptoms",match=low
 "dona";dona;W10;;likely="Dona Flor and Her Two Husbands",match=low
 "shopping";shopping;W10;;likely="Rosalie Goes Shopping",match=low
-"why.?";whyx;W10;;possible="Alexandria... Why?; Why?",match=low
+"why.?";whyx;W10;;possible="Alexandria Why?; Why?",match=low
 "done";done;W10;;possible="What Have I Done to Deserve This?; Before the Bat's Flight Is Done",match=low
 "regards";regards;W10;;likely="Give My Regards to Broad Street",match=low
 "swamp";swamp;W10;;likely="Swamp Thing",match=low
@@ -9005,7 +8999,7 @@
 "fast.?walking";fastxwalking;W10;;likely="Fast-Walking",match=low
 ".?er";xer;W10;;likely="Who Killed Mary What's 'Er Name?",match=low
 "consul";consul;W10;;likely="The Honorary Consul",match=low
-"about";about;W10;;possible="Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?; Everything You Always Wanted to Know About Sex (But Were Afraid to Ask); About Last Night...; A Short Film About Killing; A Short Film About Love; All About Ah-Long",match=low
+"about";about;W10;;possible="Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?; Everything You Always Wanted to Know About Sex (But Were Afraid to Ask); About Last Night; A Short Film About Killing; A Short Film About Love; All About Ah-Long",match=low
 "fought";fought;W10;;likely="They Fought for Their Country",match=low
 "relentless";relentless;W10;;likely="Relentless",match=low
 "passion";passion;W10;;possible="A Dream of Passion; Empire of Passion; Passion Flower Hotel; Passion of Love; Crimes of Passion; The Lonely Passion of Judith Hearne",match=low
@@ -9148,7 +9142,7 @@
 "function";function;W10;;likely="A Private Function",match=low
 "adventurers";adventurers;W10;;likely="The Adventurers",match=low
 "down";down;W10;;possible="Goin' Down the Road; Down and Dirty Duck; The Little Girl Who Lives Down the Lane; Gray Lady Down; Watership Down; Take Down; Down and Out in Beverly Hills; Down by Law; Down Twisted",match=low
-"king.?";kingx;W10;;likely="King: A Filmed Record... Montgomery to Memphis",match=low
+"king.?";kingx;W10;;likely="King: A Filmed Record Montgomery to Memphis",match=low
 "jock";jock;W10;;likely="Jock Petersen",match=low
 "pound";pound;W10;;likely="Pound Puppies and the Legend of Big Paw",match=low
 "raid";raid;W10;;possible="Raid on Rommel; The Great Northfield Minnesota Raid; Ulzana's Raid",match=low
@@ -9165,7 +9159,7 @@
 "in";in;W10;;possible="Alex in Wonderland; The Boys in the Band; Days and Nights in the Forest; Figures in a Landscape; Hercules in New York; Lost in the Desert; One Day in the Life of Ivan Denisovich; Peace in the Fields; Quackser Fortune Has a Cousin in the Bronx; There's a Girl in My Soup; A Walk in the Spring Rain; Death in Venice; A Girl in Australia; In Prison Awaiting Trial; Man in the Wilderness; The Panic in Needle Park; Pretty Maids All in a Row; She Killed in Ecstasy; Wake in Fright; Chloe in the Afternoon; A Day in the Death of Joe Egg; Eagle in a Cage; Last Tango in Paris; Pearl in the Crown; Sbatti il mostro in prima pagina; Blood in the Streets; Blume in Love; The Devil in Miss Jones; Electra Glide in Blue; Hell Up in Harlem; The House in Nightmare Park; Massacre in Rome; Two Men in Town; Wedding in Blood; Acting Hamlet in the Village of Mrdusa Donja; Alice in the Cities; Ginger in the Morning; Gone in 60 Seconds; Lost in the Stars; Pastoral: To Die in the Country; 92 in the Shade; The Flower in His Mouth; Hedgehog in the Fog; In Celebration; The Man in the Glass Booth; The Strongest Man in the World; Beach Guard in Winter; Black and White in Color; A Child in the Crowd; A Cricket in the Ear; In the Realm of the Senses; Jonah Who Will Be 25 in the Year 2000; The Bad News Bears in Breaking Training; In the Name of the Pope King; Islands in the Stream; The War in Space; The Boys in Company C; Germany in Autumn; In a Year with 13 Moons; In Praise of Older Women; Occupation in 26 Pictures; Slow Dancing in the Big City; Snake in the Eagle's Shadow; Up In Smoke; Buck Rogers in the 25th Century; Going in Style; I as in Icarus; Moscow Does Not Believe In Tears; Richard Pryor: Live in Concert; Don't Go in the House; The Last Married Couple in America; See You in the Next War; Somewhere in Time; The Watcher in the Woods; An American Werewolf in London; First Monday in October; The Mysterious Castle in the Carpathians; The Night the Lights Went Out in Georgia; Alone in the Dark; The Best Little Whorehouse in Texas; A Dog in a Drawer; I Ought to Be in Pictures; That Night in Varennes; Young Doctors in Love; Born in Flames; In the White City; The Man in the Silk Hat; A Night in Heaven; A Season in Hakkari; Spacehunter: Adventures in the Forbidden Zone; Voyage in Time; The Wind in the Willows (1983 film); Falling in Love; Full Moon in Paris; Missing in Action; Once Upon a Time in America; Places in the Heart; A Sunday in the Country; Terror in the Aisles; The Woman in Red; Alice in Wonderland; Death in a French Garden; In a Glass Cage; Lost In America; Lust in the Dust; Mishima: A Life in Four Chapters; Tea in the Harem; To Live and Die in L.A.; Trouble in Mind; Twice in a Lifetime; Vampires in Havana; Big Trouble in Little China; Down and Out in Beverly Hills; Dust in the Wind; Laputa: Castle in the Sky; Monster in the Closet; Murder in Three Acts; Nothing in Common; Pretty in Pink; Adventures in Babysitting; Born in East L.A.; The Care Bears Adventure in Wonderland; Dragon Ball: Sleeping Princess in Devil's Castle; Flowers in the Attic; In the Mood; Made in Heaven; Mio in the Land of Faraway; A Month in the Country; Revenge of the Nerds II: Nerds in Paradise; A Cry in the Dark; Dancing in the Dust; Full Moon in Blue Water; Gorillas in the Mist: The Story of Dian Fossey; Landscape in the Mist; Shadows in the Storm; Breaking In; How to Get Ahead in Advertising; In Country; Little Nemo: Adventures in Slumberland; Scenes from the Class Struggle in Beverly Hills; See You in the Morning",match=low
 "dadar";dadar;W10;;likely="Dadar Kirti",match=low
 "hellbound.?";hellboundx;W10;;likely="Hellbound: Hellraiser II",match=low
-"is";is;W10;;possible="Valdez Is Coming; Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?; Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?; Hammersmith Is Out; My Name Is Shanghai Joe; One Is a Lonely Number; The Don Is Dead; My Name is Nobody; Property Is No Longer a Theft; Once Is Not Enough; One of Our Dinosaurs is Missing; A Star Is Born; Which Way Is Up?; Who is Killing the Great Chefs of Europe?; Vengeance Is Mine; The Boat Is Full; This is Elvis; Whose Life Is It Anyway?; Chan Is Missing; How the World Is Losing Poets; Wrong Is Right; Bayan Ko:This Is My Country; This Is My Country; This Is Spinal Tap; The Mass Is Ended; That Was Then... This Is Now; As Is; Jo Jo Dancer, Your Life Is Calling; The Park Is Mine; Love is a Fat Woman; Where Is the Friend's Home?; Dadah is Death; Life Is a Long Quiet River; My Stepmother Is an Alien; Before the Bat's Flight Is Done; Black Rose Is an Emblem of Sorrow, Red Rose Is an Emblem of Love; Black Rose Is an Emblem of Sorrow, Red Rose Is an Emblem of Love; What Time is it?",match=low
+"is";is;W10;;possible="Valdez Is Coming; Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?; Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?; Hammersmith Is Out; My Name Is Shanghai Joe; One Is a Lonely Number; The Don Is Dead; My Name is Nobody; Property Is No Longer a Theft; Once Is Not Enough; One of Our Dinosaurs is Missing; A Star Is Born; Which Way Is Up?; Who is Killing the Great Chefs of Europe?; Vengeance Is Mine; The Boat Is Full; This is Elvis; Whose Life Is It Anyway?; Chan Is Missing; How the World Is Losing Poets; Wrong Is Right; Bayan Ko:This Is My Country; This Is My Country; This Is Spinal Tap; The Mass Is Ended; That Was Then This Is Now; As Is; Jo Jo Dancer, Your Life Is Calling; The Park Is Mine; Love is a Fat Woman; Where Is the Friend's Home?; Dadah is Death; Life Is a Long Quiet River; My Stepmother Is an Alien; Before the Bat's Flight Is Done; Black Rose Is an Emblem of Sorrow, Red Rose Is an Emblem of Love; Black Rose Is an Emblem of Sorrow, Red Rose Is an Emblem of Love; What Time is it?",match=low
 "monkey";monkey;W10;;possible="Bye Bye Monkey; Monkey Grip; Monkey Shines",match=low
 "it";it;W10;;possible="Let It Be; Play It Again, Sam; Play It as It Lays; Play It as It Lays; Let's Do It Again; Cutting It Short; Take This Job and Shove It; Whose Life Is It Anyway?; Losin' It; Blame it on Rio; She's Gotta Have It; It Couldn't Happen Here; Getting It Right",match=low
 "j.?";jx;W10;;likely="J. W. Coop",match=low
@@ -9174,7 +9168,7 @@
 "iv";iv;W10;;possible="Phase IV; Henry IV; Rocky IV",match=low
 "assault";assault;W10;;possible="Assault on Precinct 13; The Assault",match=low
 "yaaro";yaaro;W10;;likely="Jaane Bhi Do Yaaro",match=low
-"picture";picture;W10;;possible="The Last Picture Show; The Rocky Horror Picture Show; Picture Show Man; Star Trek: The Motion Picture; Hamburger... The Motion Picture; The Big Picture",match=low
+"picture";picture;W10;;possible="The Last Picture Show; The Rocky Horror Picture Show; Picture Show Man; Star Trek: The Motion Picture; Hamburger The Motion Picture; The Big Picture",match=low
 "sammy";sammy;W10;;likely="Sammy and Rosie Get Laid",match=low
 "peau";peau;W10;;likely="Peau d'Âne",match=low
 "working";working;W10;;possible="The Working Class Goes to Heaven; Hardly Working; Working Girl",match=low
@@ -9210,6 +9204,7 @@
 "holiday";holiday;W10;;likely="Black Holiday",match=low
 "gong";gong;W10;;likely="The Gong Show Movie",match=low
 "wisdom";wisdom;W10;;possible="The Getting of Wisdom; Wisdom",match=low
+"alexandria";alexandria;W10;;likely="Alexandria Why?",match=low
 "smart";smart;W10;;likely="Street Smart",match=low
 "fairy";fairy;W10;;likely="A Hungarian Fairy Tale",match=low
 "world.?s";worldxs;W10;;possible="The World's Greatest Athlete; The World's Greatest Lover",match=low
@@ -9247,7 +9242,7 @@
 "cosby.?";cosbyx;W10;;likely="Bill Cosby: Himself",match=low
 "corvette";corvette;W10;;likely="Corvette Summer",match=low
 "se.?or";sexor;W10;;likely="Los Amantes del Señor de la Noche",match=low
-"man";man;W10;;possible="Little Big Man; A Man Called Horse; Man in the Wilderness; The Omega Man; The Boy Turns Man; The Man; Man of La Mancha; The Man Who Quit Smoking; The Outside Man; The Tall Blond Man with One Black Shoe; To Find a Man; Trouble Man; The Mackintosh Man; The No Mercy Man; The Wicker Man; The Man with the Golden Gun; The Midnight Man; The Terminal Man; Doc Savage: The Man of Bronze; The Man in the Glass Booth; The Man Who Would Be King; The Strongest Man in the World; 7 Man Army; The Man on the Roof; The Man Who Fell to Earth; Marathon Man; Rich Man, Poor Man; An Average Little Man; Man of Marble; The Man Who Loved Women; Picture Show Man; The Stunt Man; The Elephant Man; Every Man for Himself; The Man with Bogart's Face; The Stunt Man; Man of Iron; Raggedy Man; Tarzan, the Ape Man; Tragedy of a Ridiculous Man; Honkytonk Man; The Man from Snowy River; The Fourth Man; The Man in the Silk Hat; Man of Flowers; The Man Who Loved Women; The Man with Two Brains; The Wounded Man; The Man from Majorca; A Man of Principle; Man Under Suspicion; Repo Man; The Man with One Red Shoe; Soul Man; A Successful Man; A Man from the Boulevard des Capuchines; Man On Fire; The Man Who Planted Trees; The Running Man; Walk Like a Man; Rain Man; Tucker: The Man and His Dream; Fat Man and Little Boy; An Innocent Man; The January Man; Tetsuo: The Iron Man",match=low
+"man";man;W10;;possible="Little Big Man; A Man Called Horse; There Was a Crooked Man; Man in the Wilderness; The Omega Man; The Boy Turns Man; The Man; Man of La Mancha; The Man Who Quit Smoking; The Outside Man; The Tall Blond Man with One Black Shoe; To Find a Man; Trouble Man; The Mackintosh Man; The No Mercy Man; The Wicker Man; The Man with the Golden Gun; The Midnight Man; The Terminal Man; Doc Savage: The Man of Bronze; The Man in the Glass Booth; The Man Who Would Be King; The Strongest Man in the World; 7 Man Army; The Man on the Roof; The Man Who Fell to Earth; Marathon Man; Rich Man, Poor Man; An Average Little Man; Man of Marble; The Man Who Loved Women; Picture Show Man; The Stunt Man; The Elephant Man; Every Man for Himself; The Man with Bogart's Face; The Stunt Man; Man of Iron; Raggedy Man; Tarzan, the Ape Man; Tragedy of a Ridiculous Man; Honkytonk Man; The Man from Snowy River; The Fourth Man; The Man in the Silk Hat; Man of Flowers; The Man Who Loved Women; The Man with Two Brains; The Wounded Man; The Man from Majorca; A Man of Principle; Man Under Suspicion; Repo Man; The Man with One Red Shoe; Soul Man; A Successful Man; A Man from the Boulevard des Capuchines; Man On Fire; The Man Who Planted Trees; The Running Man; Walk Like a Man; Rain Man; Tucker: The Man and His Dream; Fat Man and Little Boy; An Innocent Man; The January Man; Tetsuo: The Iron Man",match=low
 "sailor";sailor;W10;;possible="The Sailor Who Fell from Grace with the Sea; Three Crowns of the Sailor",match=low
 "dwarfs";dwarfs;W10;;likely="Even Dwarfs Started Small",match=low
 "young";young;W10;;possible="The Marriage of a Young Stockbroker; Young Winston; Young Frankenstein; Gal Young 'Un; The Young Master; Young Doctors in Love; Young Sherlock Holmes; Young Einstein; Young Guns",match=low
@@ -9324,9 +9319,9 @@
 "west";west;W10;;likely="Hearts of the West",match=low
 "burmese";burmese;W10;;likely="The Burmese Harp",match=low
 "winston";winston;W10;;likely="Young Winston",match=low
-"motion";motion;W10;;possible="Star Trek: The Motion Picture; Hamburger... The Motion Picture",match=low
+"motion";motion;W10;;possible="Star Trek: The Motion Picture; Hamburger The Motion Picture",match=low
 "author.?";authorx;W10;;possible="Author! Author!; Author! Author!",match=low
-"filmed";filmed;W10;;likely="King: A Filmed Record... Montgomery to Memphis",match=low
+"filmed";filmed;W10;;likely="King: A Filmed Record Montgomery to Memphis",match=low
 "white";white;W10;;possible="The Great White Hope; White Lightning; The White Dawn; White Line Fever; Black and White in Color; The White Ship; White Bim Black Ear; The White Buffalo; White Dog; In the White City; White Nights; Laughter and Grief by the White Sea; White Mischief; White of the Eye; White Water Summer; The Lair of the White Worm; A Dry White Season",match=low
 "ang.?lica";angxlica;W10;;likely="La prima Angélica",match=low
 "attraction";attraction;W10;;likely="Fatal Attraction",match=low
@@ -9445,7 +9440,7 @@
 "une";une;W10;;likely="Une belle fille comme moi",match=low
 "cries";cries;W10;;likely="Cries and Whispers",match=low
 "zen";zen;W10;;likely="A Touch of Zen",match=low
-"met";met;W10;;likely="When Harry Met Sally...",match=low
+"met";met;W10;;likely="When Harry Met Sally",match=low
 "shadows";shadows;W10;;possible="House of Dark Shadows; Night of Dark Shadows; Shadows in the Storm",match=low
 "i.?m";ixm;W10;;possible="Hello, I'm Your Aunt!; Mama, I'm Alive; I'm Dancing as Fast as I Can; I'm Gonna Git You Sucka",match=low
 "nickelodeon";nickelodeon;W10;;likely="Nickelodeon",match=low
@@ -9459,7 +9454,6 @@
 "yours";yours;W10;;possible="Confidentially Yours; Unfaithfully Yours; Illegally Yours",match=low
 "indian";indian;W10;;likely="Indian Summer",match=low
 "marian";marian;W10;;likely="Robin and Marian",match=low
-"sally.?.?.?";sallyxxx;W10;;likely="When Harry Met Sally...",match=low
 "blade";blade;W10;;possible="Zorro, the Gay Blade; Blade Runner",match=low
 "too.?";toox;W10;;likely="Winnie the Pooh and Tigger Too!",match=low
 "autumn.?s";autumnxs;W10;;likely="An Autumn's Tale",match=low
@@ -9534,7 +9528,7 @@
 "gallois";gallois;W10;;likely="Perceval le Gallois",match=low
 "wrath";wrath;W10;;possible="Aguirre, the Wrath of God; The Wrath of God; Star Trek II: The Wrath of Khan",match=low
 "mrs.?";mrsx;W10;;possible="McCabe & Mrs. Miller; From the Mixed-Up Files of Mrs. Basil E. Frankweiler; Mrs. Soffel",match=low
-"hamburger";hamburger;W10;;likely="Hamburger Hill",match=low
+"hamburger";hamburger;W10;;possible="Hamburger The Motion Picture; Hamburger Hill",match=low
 "bicyclist";bicyclist;W10;;likely="The Bicyclist",match=low
 "decisive";decisive;W10;;likely="Ultraman: Great Monster Decisive Battle",match=low
 "ridgemont";ridgemont;W10;;likely="Fast Times at Ridgemont High",match=low
@@ -9594,7 +9588,6 @@
 "hour.?glass";hourxglass;W10;;likely="The Hour-Glass Sanatorium",match=low
 "seconds";seconds;W10;;likely="Gone in 60 Seconds",match=low
 "passenger";passenger;W10;;likely="The Passenger",match=low
-".?.?.?tick.?.?.?tick.?.?.?tick.?.?.?";xxxtickxxxtickxxxtickxxx;W10;;likely="...tick...tick...tick...",match=low
 "deshe";deshe;W10;;likely="Hirak Rajar Deshe",match=low
 "monty";monty;W10;;possible="Monty Python and the Holy Grail; Monty Python's Life of Brian; Monty Python Live at the Hollywood Bowl; Monty Python's The Meaning of Life",match=low
 "delusion";delusion;W10;;likely="Delusion",match=low
@@ -9733,7 +9726,6 @@
 "and pain";and_pain;W40;;likely="Love and Pain and the Whole Damn Thing",match=medium
 "geese ii";geese_ii;W40;;likely="Wild Geese II",match=medium
 "bon voyage.?";bon_voyagex;W40;;possible="Bon Voyage, Charlie Brown (and Don't Come Back!!)",match=medium
-"will.?.?.? for";willxxx_for;W40;;possible="I Will, I Will... for Now",match=medium
 "mary.? crazy";maryx_crazy;W40;;possible="Dirty Mary, Crazy Larry",match=medium
 "the world.?s";the_worldxs;W40;;likely="The World's Greatest Athlete; The World's Greatest Lover",match=medium
 "the years";the_years;W40;;likely="Chronicle of the Years of Fire",match=medium
@@ -9842,7 +9834,7 @@
 "grand theft";grand_theft;W40;;likely="Grand Theft Auto",match=medium
 "york.? new";yorkx_new;W40;;possible="New York, New York",match=medium
 "culpepper cattle";culpepper_cattle;W40;;likely="The Culpepper Cattle Company",match=medium
-"montgomery to";montgomery_to;W40;;likely="King: A Filmed Record... Montgomery to Memphis",match=medium
+"montgomery to";montgomery_to;W40;;likely="King: A Filmed Record Montgomery to Memphis",match=medium
 "the palace";the_palace;W40;;likely="The Palace of Angels",match=medium
 "the dawns";the_dawns;W40;;likely="The Dawns Here Are Quiet",match=medium
 "mother.? jugs";motherx_jugs;W40;;possible="Mother, Jugs & Speed",match=medium
@@ -9891,7 +9883,6 @@
 "of second";of_second;W40;;likely="The Prisoner of Second Avenue",match=medium
 "with bogart.?s";with_bogartxs;W40;;likely="The Man with Bogart's Face",match=medium
 "i.?ve heard";ixve_heard;W40;;likely="I've Heard the Mermaids Singing",match=medium
-"record.?.?.? montgomery";recordxxx_montgomery;W40;;likely="King: A Filmed Record... Montgomery to Memphis",match=medium
 "of destiny";of_destiny;W40;;likely="A Time of Destiny",match=medium
 "the true";the_true;W40;;likely="The True Story of Ah Q",match=medium
 "give the";give_the;W40;;likely="Give the Devil His Due",match=medium
@@ -10039,6 +10030,7 @@
 "se.?or de";sexor_de;W40;;likely="Los Amantes del Señor de la Noche",match=medium
 "carroll street";carroll_street;W40;;likely="The House on Carroll Street",match=medium
 "dead or";dead_or;W40;;likely="Wanted: Dead or Alive",match=medium
+"met sally";met_sally;W40;;likely="When Harry Met Sally",match=medium
 "cry of";cry_of;W40;;likely="The Cry of the Owl",match=medium
 "di natale";di_natale;W40;;likely="Regalo di Natale",match=medium
 "holds his";holds_his;W40;;likely="Barry McKenzie Holds His Own",match=medium
@@ -10176,7 +10168,6 @@
 "the valachi";the_valachi;W40;;likely="The Valachi Papers",match=medium
 "when time";when_time;W40;;likely="When Time Ran Out",match=medium
 "stranger calls";stranger_calls;W40;;likely="When a Stranger Calls",match=medium
-"concorde( .)?.?.?";concorde_xxx;W40;;likely="The Concorde( .).. Airport '79",match=medium
 "successful man";successful_man;W40;;likely="A Successful Man",match=medium
 "nice plate";nice_plate;W40;;likely="A Nice Plate of Spinach",match=medium
 "down by";down_by;W40;;likely="Down by Law",match=medium
@@ -10332,6 +10323,7 @@
 "mattei affair";mattei_affair;W40;;likely="The Mattei Affair",match=medium
 "lost honour";lost_honour;W40;;likely="The Lost Honour of Katharina Blum",match=medium
 "police academy";police_academy;W40;;likely="Police Academy 2: Their First Assignment",match=medium
+"crooked man";crooked_man;W40;;likely="There Was a Crooked Man",match=medium
 "ginger in";ginger_in;W40;;likely="Ginger in the Morning",match=medium
 "mother k.?sters.?";mother_kxstersx;W40;;likely="Mother Küsters' Trip to Heaven",match=medium
 "para las";para_las;W40;;likely="Veneno para las hadas",match=medium
@@ -10368,7 +10360,7 @@
 "just tell";just_tell;W40;;likely="Just Tell Me What You Want",match=medium
 "green ants";green_ants;W40;;likely="Where the Green Ants Dream",match=medium
 "be in";be_in;W40;;likely="I Ought to Be in Pictures",match=medium
-"about last";about_last;W40;;likely="About Last Night...",match=medium
+"about last";about_last;W40;;likely="About Last Night",match=medium
 "el jard.?n";el_jardxn;W40;;likely="El jardín de las delicias",match=medium
 "report to";report_to;W40;;likely="Report to the Commissioner",match=medium
 "of flatbush";of_flatbush;W40;;likely="The Lords of Flatbush",match=medium
@@ -10737,7 +10729,7 @@
 "her sisters";her_sisters;W40;;likely="Hannah and Her Sisters",match=medium
 "descendant of";descendant_of;W40;;likely="The Descendant of the Snow Leopard",match=medium
 "dark shadows";dark_shadows;W40;;likely="House of Dark Shadows; Night of Dark Shadows",match=medium
-"the marbles";the_marbles;W40;;likely="...All the Marbles",match=medium
+"the marbles";the_marbles;W40;;likely="All the Marbles",match=medium
 "the pencils";the_pencils;W40;;likely="Night of the Pencils",match=medium
 "ronia.? the";roniax_the;W40;;possible="Ronia, the Robber's Daughter",match=medium
 "devil his";devil_his;W40;;likely="Give the Devil His Due",match=medium
@@ -10758,6 +10750,7 @@
 "alfredo garcia";alfredo_garcia;W40;;likely="Bring Me the Head of Alfredo Garcia",match=medium
 "to heaven";to_heaven;W40;;likely="The Working Class Goes to Heaven; Mother Küsters' Trip to Heaven; Ticket to Heaven; All Dogs Go To Heaven",match=medium
 "bye blues";bye_blues;W40;;likely="Bye Bye Blues",match=medium
+"last night";last_night;W40;;likely="About Last Night",match=medium
 "and cub.?";and_cubx;W40;;likely="Lone Wolf and Cub: Sword of Vengeance",match=medium
 "last detail";last_detail;W40;;likely="The Last Detail",match=medium
 "under milk";under_milk;W40;;likely="Under Milk Wood",match=medium
@@ -10797,7 +10790,7 @@
 "grief by";grief_by;W40;;likely="Laughter and Grief by the White Sea",match=medium
 "another.?s burden";anotherxs_burden;W40;;likely="Bear Ye One Another's Burden",match=medium
 "the conqueror";the_conqueror;W40;;likely="Pelle the Conqueror",match=medium
-"this is";this_is;W40;;likely="This is Elvis; This Is My Country; This Is Spinal Tap; That Was Then... This Is Now",match=medium
+"this is";this_is;W40;;likely="This is Elvis; This Is My Country; This Is Spinal Tap; That Was Then This Is Now",match=medium
 "duddy kravitz";duddy_kravitz;W40;;likely="The Apprenticeship of Duddy Kravitz",match=medium
 "morning.? babylon";morningx_babylon;W40;;possible="Good Morning, Babylon",match=medium
 "amantes del";amantes_del;W40;;likely="Los Amantes del Señor de la Noche",match=medium
@@ -10867,7 +10860,7 @@
 "never say";never_say;W40;;likely="Never Say Never Again",match=medium
 "sammy and";sammy_and;W40;;likely="Sammy and Rosie Get Laid",match=medium
 "atomic cafe";atomic_cafe;W40;;likely="The Atomic Cafe",match=medium
-"harry met";harry_met;W40;;likely="When Harry Met Sally...",match=medium
+"harry met";harry_met;W40;;likely="When Harry Met Sally",match=medium
 "an eye";an_eye;W40;;likely="An Eye for an Eye; An Eye for an Eye",match=medium
 "the cry";the_cry;W40;;likely="The Cry of the Owl",match=medium
 "your aunt.?";your_auntx;W40;;possible="Hello, I'm Your Aunt!",match=medium
@@ -10957,6 +10950,7 @@
 "the salzburg";the_salzburg;W40;;likely="The Salzburg Connection",match=medium
 "big blue";big_blue;W40;;likely="The Big Blue",match=medium
 "thief who";thief_who;W40;;likely="The Thief Who Came to Dinner",match=medium
+"will for";will_for;W40;;possible="I Will, I Will for Now",match=medium
 "to beat";to_beat;W40;;likely="How to Beat the High Co$t of Living",match=medium
 "the sparrow";the_sparrow;W40;;likely="Willy the Sparrow",match=medium
 "that wasn.?t";that_wasnxt;W40;;likely="The Dragon That Wasn't (Or Was He?)",match=medium
@@ -10989,6 +10983,7 @@
 "ridgemont high";ridgemont_high;W40;;likely="Fast Times at Ridgemont High",match=medium
 "raphael.? or";raphaelx_or;W40;;possible="Raphael, or The Debauched One",match=medium
 "the nile";the_nile;W40;;likely="Adrift on the Nile; Death on the Nile; The Jewel of the Nile; Daughter of the Nile",match=medium
+"then this";then_this;W40;;likely="That Was Then This Is Now",match=medium
 "battle of";battle_of;W40;;likely="The Battle of Kerzhenets; GoBots: Battle of the Rock Lords",match=medium
 "the marathon";the_marathon;W40;;likely="The Marathon Family",match=medium
 "one song";one_song;W40;;likely="One Song a Day Takes Mischief Away",match=medium
@@ -11036,7 +11031,7 @@
 ".?pokrovskiye vorota.?";xpokrovskiye_vorotax;W40;;likely="The Pokrovsky Gate (Pokrovskiye Vorota) - (U.S.S.R.)",match=medium
 "moon over";moon_over;W40;;likely="Moon over Parador",match=medium
 "part ii.?";part_iix;W40;;likely="The Decline of Western Civilization Part II: The Metal Years",match=medium
-"there was";there_was;W40;;likely="There Was a Crooked Man...",match=medium
+"there was";there_was;W40;;likely="There Was a Crooked Man",match=medium
 "the paradise";the_paradise;W40;;likely="Phantom of the Paradise",match=medium
 "part vi.?";part_vix;W40;;likely="Friday the 13th Part VI: Jason Lives",match=medium
 "of pompeii";of_pompeii;W40;;likely="The Last Days of Pompeii",match=medium
@@ -11127,7 +11122,7 @@
 "fiddler on";fiddler_on;W40;;likely="Fiddler on the Roof",match=medium
 "dick and";dick_and;W40;;likely="Fun with Dick and Jane",match=medium
 "to india";to_india;W40;;likely="A Passage to India",match=medium
-"the concorde";the_concorde;W40;;likely="The Concorde( .).. Airport '79",match=medium
+"the concorde";the_concorde;W40;;likely="The Concorde Airport '79",match=medium
 "identification of";identification_of;W40;;likely="Identification of a Woman",match=medium
 "born without";born_without;W40;;likely="Porcupines Are Born Without Bristles",match=medium
 "serpent.?s egg";serpentxs_egg;W40;;likely="The Serpent's Egg",match=medium
@@ -11182,7 +11177,6 @@
 "your hand";your_hand;W40;;likely="I Wanna Hold Your Hand",match=medium
 "light years";light_years;W40;;likely="Light Years Away",match=medium
 "the possession";the_possession;W40;;likely="The Possession of Joel Delaney; Amityville II: The Possession",match=medium
-".?.?.?all the";xxxall_the;W40;;likely="...All the Marbles",match=medium
 "maine pyar";maine_pyar;W40;;likely="Maine Pyar Kiya",match=medium
 "the wrath";the_wrath;W40;;possible="Aguirre, the Wrath of God; The Wrath of God; Star Trek II: The Wrath of Khan",match=medium
 "mr.? mike.?s";mrx_mikexs;W40;;likely="Mr. Mike's Mondo Video",match=medium
@@ -11273,7 +11267,7 @@
 "eye of";eye_of;W40;;likely="Sinbad and the Eye of the Tiger; Eye of the Needle; Eye of the Tiger",match=medium
 "wonderful movie";wonderful_movie;W40;;likely="Those Wonderful Movie Cranks",match=medium
 "is not";is_not;W40;;likely="Once Is Not Enough",match=medium
-"is now";is_now;W40;;likely="That Was Then... This Is Now",match=medium
+"is now";is_now;W40;;likely="That Was Then This Is Now",match=medium
 "me the";me_the;W40;;possible="Bring Me the Head of Alfredo Garcia; Marecek, Pass Me the Pen!",match=medium
 "the front.?";the_frontx;W40;;likely="Which Way to the Front?",match=medium
 "who fell";who_fell;W40;;likely="The Man Who Fell to Earth; The Sailor Who Fell from Grace with the Sea",match=medium
@@ -11297,6 +11291,7 @@
 "the slugger.?s";the_sluggerxs;W40;;likely="The Slugger's Wife",match=medium
 "front page";front_page;W40;;likely="The Front Page",match=medium
 "are for";are_for;W40;;likely="Bicycles Are for the Summer",match=medium
+"concorde airport";concorde_airport;W40;;likely="The Concorde Airport '79",match=medium
 "and nicky";and_nicky;W40;;likely="Mikey and Nicky",match=medium
 "delta force";delta_force;W40;;likely="The Delta Force",match=medium
 "act of";act_of;W40;;likely="The Act of the Heart",match=medium
@@ -11409,9 +11404,9 @@
 "of an";of_an;W40;;likely="The Belly of an Architect",match=medium
 "of doom";of_doom;W40;;likely="Indiana Jones and the Temple of Doom",match=medium
 "living dangerously";living_dangerously;W40;;likely="The Year of Living Dangerously",match=medium
-"met sally.?.?.?";met_sallyxxx;W40;;likely="When Harry Met Sally...",match=medium
 "that.?s carry";thatxs_carry;W40;;likely="That's Carry On!",match=medium
 "runner movie";runner_movie;W40;;likely="The Bugs Bunny/Road Runner Movie",match=medium
+"record montgomery";record_montgomery;W40;;likely="King: A Filmed Record Montgomery to Memphis",match=medium
 "the name";the_name;W40;;likely="In the Name of the Pope King; The Name of the Rose",match=medium
 "average little";average_little;W40;;likely="An Average Little Man",match=medium
 "president.?s men";presidentxs_men;W40;;likely="All the President's Men",match=medium
@@ -11450,7 +11445,7 @@
 "sure thing";sure_thing;W40;;likely="The Sure Thing",match=medium
 "legendary weapons";legendary_weapons;W40;;likely="Legendary Weapons of China",match=medium
 "great notion";great_notion;W40;;likely="Sometimes a Great Notion",match=medium
-"all the";all_the;W40;;likely="All the Kind Strangers; All the President's Men; All the Right Moves",match=medium
+"all the";all_the;W40;;likely="All the Kind Strangers; All the President's Men; All the Marbles; All the Right Moves",match=medium
 "the silent";the_silent;W40;;likely="The Silent Partner",match=medium
 "karate kid.?";karate_kidx;W40;;possible="The Karate Kid, Part II; The Karate Kid, Part III",match=medium
 "taking of";taking_of;W40;;likely="The Taking of Pelham One Two Three",match=medium
@@ -11509,7 +11504,6 @@
 "beach guard";beach_guard;W40;;likely="Beach Guard in Winter",match=medium
 "and whispers";and_whispers;W40;;likely="Cries and Whispers",match=medium
 "realm of";realm_of;W40;;likely="In the Realm of the Senses",match=medium
-"last night.?.?.?";last_nightxxx;W40;;likely="About Last Night...",match=medium
 "urusei yatsura.?";urusei_yatsurax;W40;;likely="Urusei Yatsura: The Final Chapter",match=medium
 "the towering";the_towering;W40;;likely="The Towering Inferno",match=medium
 "wrong is";wrong_is;W40;;likely="Wrong Is Right",match=medium
@@ -11613,7 +11607,7 @@
 "black stallion";black_stallion;W40;;likely="The Black Stallion; The Black Stallion Returns",match=medium
 "the emperor.?s";the_emperorxs;W40;;likely="The Emperor's Naked Army Marches On",match=medium
 "fast times";fast_times;W40;;likely="Fast Times at Ridgemont High",match=medium
-"for now";for_now;W40;;possible="I Will, I Will... for Now",match=medium
+"for now";for_now;W40;;possible="I Will, I Will for Now",match=medium
 "class of";class_of;W40;;likely="Class of '44; Class of 1984",match=medium
 "bloodbath at";bloodbath_at;W40;;likely="Bloodbath at the House of Death",match=medium
 "the stunt";the_stunt;W40;;likely="The Stunt Man; The Stunt Man",match=medium
@@ -11672,7 +11666,6 @@
 "belly of";belly_of;W40;;likely="The Belly of an Architect",match=medium
 "adventure in";adventure_in;W40;;likely="The Care Bears Adventure in Wonderland",match=medium
 "the irony";the_irony;W40;;likely="The Irony of Fate",match=medium
-".?.?.? airport";xxx_airport;W40;;likely="The Concorde( .).. Airport '79",match=medium
 "seigneur du";seigneur_du;W40;;likely="Je suis le seigneur du château",match=medium
 "paul and";paul_and;W40;;likely="The Legend of Paul and Paula",match=medium
 "earth girls";earth_girls;W40;;likely="Earth Girls Are Easy",match=medium
@@ -12070,7 +12063,7 @@
 "hammersmith is";hammersmith_is;W40;;likely="Hammersmith Is Out",match=medium
 "for peace";for_peace;W40;;likely="Superman IV: The Quest for Peace",match=medium
 "family game";family_game;W40;;likely="The Family Game",match=medium
-"the motion";the_motion;W40;;likely="Star Trek: The Motion Picture; Hamburger... The Motion Picture",match=medium
+"the motion";the_motion;W40;;likely="Star Trek: The Motion Picture; Hamburger The Motion Picture",match=medium
 "brothers vs.?";brothers_vsx;W40;;likely="The 6 Ultra Brothers vs. the Monster Army",match=medium
 "the rings";the_rings;W40;;likely="The Lord of the Rings",match=medium
 "killing the";killing_the;W40;;likely="Who is Killing the Great Chefs of Europe?",match=medium
@@ -12119,7 +12112,7 @@
 "the gang";the_gang;W40;;likely="The Gang That Couldn't Shoot Straight",match=medium
 "puppies and";puppies_and;W40;;likely="Pound Puppies and the Legend of Big Paw",match=medium
 "moon in";moon_in;W40;;likely="Full Moon in Paris; Full Moon in Blue Water",match=medium
-"that was";that_was;W40;;likely="That Was Then... This Is Now",match=medium
+"that was";that_was;W40;;likely="That Was Then This Is Now",match=medium
 "the friend.?s";the_friendxs;W40;;likely="Where Is the Friend's Home?",match=medium
 "les enfants";les_enfants;W40;;possible="Au revoir, les enfants",match=medium
 "the harrad";the_harrad;W40;;likely="The Harrad Experiment",match=medium
@@ -12138,6 +12131,7 @@
 "casino of";casino_of;W40;;likely="Cleopatra Jones and the Casino of Gold",match=medium
 "the angel";the_angel;W40;;likely="The Angel Levine; Charley and the Angel",match=medium
 "north dallas";north_dallas;W40;;likely="North Dallas Forty",match=medium
+"filmed record";filmed_record;W40;;likely="King: A Filmed Record Montgomery to Memphis",match=medium
 "missing clerk";missing_clerk;W40;;likely="The Missing Clerk",match=medium
 "the yankee";the_yankee;W40;;likely="Race for the Yankee Zephyr",match=medium
 "signs of";signs_of;W40;;likely="Signs of Life",match=medium
@@ -12218,7 +12212,6 @@
 "just one";just_one;W40;;likely="Just One of the Guys",match=medium
 "hans christian";hans_christian;W40;;likely="Hans Christian Andersen's The Little Mermaid",match=medium
 "in heaven";in_heaven;W40;;likely="A Night in Heaven; Made in Heaven",match=medium
-"then.?.?.? this";thenxxx_this;W40;;likely="That Was Then... This Is Now",match=medium
 "and humanity";and_humanity;W40;;likely="Battles Without Honour and Humanity",match=medium
 "remember love.?";remember_lovex;W40;;likely="Macross: Do You Remember Love?",match=medium
 "of eddie";of_eddie;W40;;likely="The Friends of Eddie Coyle",match=medium
@@ -12549,7 +12542,7 @@
 "and lombard";and_lombard;W40;;likely="Gable and Lombard",match=medium
 "the finzi.?continis";the_finzixcontinis;W40;;likely="The Garden of the Finzi-Continis",match=medium
 "year.?s snow";yearxs_snow;W40;;likely="Last Year's Snow Was Falling",match=medium
-"airport( .)?79";airport_x79;W40;;likely="The Concorde( .).. Airport '79",match=medium
+"airport( .)?79";airport_x79;W40;;likely="The Concorde Airport '79",match=medium
 "brave little";brave_little;W40;;likely="The Brave Little Toaster",match=medium
 "last exit";last_exit;W40;;likely="Last Exit to Brooklyn",match=medium
 "and after";and_after;W40;;likely="Eden and After",match=medium
@@ -12590,7 +12583,7 @@
 "of crime";of_crime;W40;;likely="The Element of Crime",match=medium
 "the texas";the_texas;W40;;likely="The Texas Chain Saw Massacre; The Texas Chainsaw Massacre 2",match=medium
 "bob too";bob_too;W40;;possible="Rita, Sue and Bob Too",match=medium
-"when harry";when_harry;W40;;likely="When Harry Met Sally...",match=medium
+"when harry";when_harry;W40;;likely="When Harry Met Sally",match=medium
 "last hard";last_hard;W40;;likely="The Last Hard Men",match=medium
 "man.?s letters";manxs_letters;W40;;likely="Dead Man's Letters",match=medium
 "desert of";desert_of;W40;;likely="The Desert of the Tartars",match=medium
@@ -12685,7 +12678,6 @@
 "makioka sisters";makioka_sisters;W40;;likely="The Makioka Sisters",match=medium
 "cops and";cops_and;W40;;likely="Cops and Robbers",match=medium
 "for himself";for_himself;W40;;likely="Every Man for Himself",match=medium
-"hamburger.?.?.? the";hamburgerxxx_the;W40;;likely="Hamburger... The Motion Picture",match=medium
 "decline of";decline_of;W40;;likely="The Decline of Western Civilization; The Decline of Western Civilization Part II: The Metal Years",match=medium
 "unmarried woman";unmarried_woman;W40;;likely="An Unmarried Woman",match=medium
 "buffalo roam";buffalo_roam;W40;;likely="Where the Buffalo Roam",match=medium
@@ -12739,6 +12731,7 @@
 "at grandpa.?s";at_grandpaxs;W40;;likely="A Summer at Grandpa's",match=medium
 "and sister";and_sister;W40;;likely="Brother and Sister",match=medium
 "my heart";my_heart;W40;;likely="Cross My Heart",match=medium
+"hamburger the";hamburger_the;W40;;likely="Hamburger The Motion Picture",match=medium
 "of ordinary";of_ordinary;W40;;likely="Tales of Ordinary Madness",match=medium
 "to find";to_find;W40;;likely="To Find a Man",match=medium
 "of green";of_green;W40;;likely="Anne of Green Gables",match=medium
@@ -12766,6 +12759,7 @@
 "and women";and_women;W40;;likely="The War Between Men and Women",match=medium
 "the beatles";the_beatles;W40;;likely="Birth of The Beatles",match=medium
 "the duck";the_duck;W40;;likely="Howard the Duck",match=medium
+"was then";was_then;W40;;likely="That Was Then This Is Now",match=medium
 "warriors from";warriors_from;W40;;likely="Zu Warriors from the Magic Mountain",match=medium
 "the pursuit";the_pursuit;W40;;likely="The Pursuit of Happiness; The Pursuit of D. B. Cooper",match=medium
 "time after";time_after;W40;;likely="Time After Time; Time After Time",match=medium
@@ -12964,7 +12958,7 @@
 "civil dead";civil_dead;W40;;likely="Ghosts… of the Civil Dead",match=medium
 "110th street";110th_street;W40;;likely="Across 110th Street",match=medium
 "the rock";the_rock;W40;;likely="GoBots: Battle of the Rock Lords",match=medium
-"motion picture";motion_picture;W40;;likely="Star Trek: The Motion Picture; Hamburger... The Motion Picture",match=medium
+"motion picture";motion_picture;W40;;likely="Star Trek: The Motion Picture; Hamburger The Motion Picture",match=medium
 "belt jones";belt_jones;W40;;likely="Black Belt Jones",match=medium
 "avant la";avant_la;W40;;likely="Juste avant la nuit",match=medium
 "the spearman";the_spearman;W40;;likely="Gonza the Spearman",match=medium
@@ -12982,7 +12976,7 @@
 "all quiet";all_quiet;W40;;likely="All Quiet on the Western Front",match=medium
 "the many";the_many;W40;;likely="The Many Adventures of Winnie the Pooh",match=medium
 "murder on";murder_on;W40;;likely="Murder on the Orient Express",match=medium
-"to memphis";to_memphis;W40;;likely="King: A Filmed Record... Montgomery to Memphis",match=medium
+"to memphis";to_memphis;W40;;likely="King: A Filmed Record Montgomery to Memphis",match=medium
 "the alpha";the_alpha;W40;;likely="The Alpha Caper",match=medium
 "even dwarfs";even_dwarfs;W40;;likely="Even Dwarfs Started Small",match=medium
 "about ah.?long";about_ahxlong;W40;;likely="All About Ah-Long",match=medium
@@ -13216,7 +13210,6 @@
 "glass booth";glass_booth;W40;;likely="The Man in the Glass Booth",match=medium
 "to victory";to_victory;W40;;likely="Escape to Victory",match=medium
 "struggle in";struggle_in;W40;;likely="Scenes from the Class Struggle in Beverly Hills",match=medium
-"crooked man.?.?.?";crooked_manxxx;W40;;likely="There Was a Crooked Man...",match=medium
 "the crackdown";the_crackdown;W40;;likely="Death Wish 4: The Crackdown",match=medium
 "the mosquito";the_mosquito;W40;;likely="The Mosquito Coast",match=medium
 "left to";left_to;W40;;likely="Nothing Left to Do But Cry",match=medium
@@ -14472,7 +14465,6 @@
 "brilliant career";brilliant_career;W40;;likely="My Brilliant Career",match=medium
 "sue got";sue_got;W40;;likely="Peggy Sue Got Married",match=medium
 "babar.? the";babarx_the;W40;;likely="Babar: The Movie",match=medium
-"was then.?.?.?";was_thenxxx;W40;;likely="That Was Then... This Is Now",match=medium
 "the dogs";the_dogs;W40;;likely="The Dogs of War",match=medium
 "marches on";marches_on;W40;;likely="The Emperor's Naked Army Marches On",match=medium
 "train to";train_to;W40;;likely="One More Train to Rob",match=medium
@@ -14676,7 +14668,6 @@
 "robber.?s daughter";robberxs_daughter;W40;;possible="Ronia, the Robber's Daughter",match=medium
 "good to";good_to;W40;;likely="Good to Go",match=medium
 "the dolls";the_dolls;W40;;likely="Beyond the Valley of the Dolls",match=medium
-"filmed record.?.?.?";filmed_recordxxx;W40;;likely="King: A Filmed Record... Montgomery to Memphis",match=medium
 "holy office";holy_office;W40;;likely="The Holy Office",match=medium
 "which way is";which_way_is;W60;;likely="Which Way Is Up?",match=high
 "actress.? the dollars";actressx_the_dollars;W60;;possible="The Actress, the Dollars and the Transylvanians",match=high
@@ -14783,6 +14774,7 @@
 "million ways to";million_ways_to;W60;;likely="8 Million Ways to Die",match=high
 "to get out";to_get_out;W60;;likely="Lookin' to Get Out",match=high
 "i done to";i_done_to;W60;;likely="What Have I Done to Deserve This?",match=high
+"record montgomery to";record_montgomery_to;W60;;likely="King: A Filmed Record Montgomery to Memphis",match=high
 "man called horse";man_called_horse;W60;;likely="A Man Called Horse",match=high
 "first nudie musical";first_nudie_musical;W60;;likely="The First Nudie Musical",match=high
 "the final conflict";the_final_conflict;W60;;likely="Omen III: The Final Conflict",match=high
@@ -14843,7 +14835,6 @@
 "the wrath of";the_wrath_of;W60;;possible="Aguirre, the Wrath of God; The Wrath of God; Star Trek II: The Wrath of Khan",match=high
 "humanoids from the";humanoids_from_the;W60;;likely="Humanoids from the Deep",match=high
 "the years of";the_years_of;W60;;likely="Chronicle of the Years of Fire",match=high
-"record.?.?.? montgomery to";recordxxx_montgomery_to;W60;;likely="King: A Filmed Record... Montgomery to Memphis",match=high
 "and nothing but";and_nothing_but;W60;;likely="Life and Nothing But",match=high
 "dot and the";dot_and_the;W60;;likely="Dot and the Kangaroo",match=high
 "timerider.? the adventure";timeriderx_the_adventure;W60;;likely="Timerider: The Adventure of Lyle Swann",match=high
@@ -15065,7 +15056,7 @@
 "the pokrovsky gate";the_pokrovsky_gate;W60;;likely="The Pokrovsky Gate (Pokrovskiye Vorota) - (U.S.S.R.)",match=high
 "are from jazz";are_from_jazz;W60;;likely="We Are from Jazz",match=high
 "the world.? part";the_worldx_part;W60;;likely="History of the World: Part I",match=high
-"montgomery to memphis";montgomery_to_memphis;W60;;likely="King: A Filmed Record... Montgomery to Memphis",match=high
+"montgomery to memphis";montgomery_to_memphis;W60;;likely="King: A Filmed Record Montgomery to Memphis",match=high
 "lonely hearts club";lonely_hearts_club;W60;;likely="Sgt. Pepper's Lonely Hearts Club Band",match=high
 "her two husbands";her_two_husbands;W60;;likely="Dona Flor and Her Two Husbands",match=high
 "triumph of the";triumph_of_the;W60;;likely="Triumph of the Spirit",match=high
@@ -15110,7 +15101,6 @@
 "great riviera bank";great_riviera_bank;W60;;likely="The Great Riviera Bank Robbery",match=high
 "lady on the";lady_on_the;W60;;likely="Lady on the Bus",match=high
 "wanted to know";wanted_to_know;W60;;likely="Everything You Always Wanted to Know About Sex (But Were Afraid to Ask)",match=high
-"a crooked man.?.?.?";a_crooked_manxxx;W60;;likely="There Was a Crooked Man...",match=high
 "godfather part ii";godfather_part_ii;W60;;likely="The Godfather Part II",match=high
 "mccabe( .)? mrs.?";mccabe_x_mrsx;W60;;likely="McCabe & Mrs. Miller",match=high
 "crazy world of";crazy_world_of;W60;;likely="The Crazy World of Julius Vrooder",match=high
@@ -15148,6 +15138,7 @@
 "of eddie coyle";of_eddie_coyle;W60;;likely="The Friends of Eddie Coyle",match=high
 "the planet of";the_planet_of;W60;;likely="Beneath the Planet of the Apes; Escape from the Planet of the Apes; Conquest of the Planet of the Apes; Battle for the Planet of the Apes",match=high
 "hans christian andersen.?s";hans_christian_andersenxs;W60;;likely="Hans Christian Andersen's The Little Mermaid",match=high
+"that was then";that_was_then;W60;;likely="That Was Then This Is Now",match=high
 "between wolf and";between_wolf_and;W60;;likely="Woman Between Wolf and Dog",match=high
 "amityville ii.? the";amityville_iix_the;W60;;likely="Amityville II: The Possession",match=high
 "of the scarecrow";of_the_scarecrow;W60;;likely="The Night of the Scarecrow",match=high
@@ -15286,7 +15277,7 @@
 "and the rose";and_the_rose;W60;;likely="The Slipper and the Rose",match=high
 "moon in blue";moon_in_blue;W60;;likely="Full Moon in Blue Water",match=high
 "emperor.?s naked army";emperorxs_naked_army;W60;;likely="The Emperor's Naked Army Marches On",match=high
-"was a crooked";was_a_crooked;W60;;likely="There Was a Crooked Man...",match=high
+"was a crooked";was_a_crooked;W60;;likely="There Was a Crooked Man",match=high
 "of the senses";of_the_senses;W60;;likely="In the Realm of the Senses",match=high
 "come the littles";come_the_littles;W60;;likely="Here Come the Littles",match=high
 "remo williams.? the";remo_williamsx_the;W60;;likely="Remo Williams: The Adventure Begins",match=high
@@ -15305,10 +15296,9 @@
 "sgt.? pepper.?s lonely";sgtx_pepperxs_lonely;W60;;likely="Sgt. Pepper's Lonely Hearts Club Band",match=high
 "the unheard music";the_unheard_music;W60;;likely="X: The Unheard Music",match=high
 "bon voyage.? charlie";bon_voyagex_charlie;W60;;possible="Bon Voyage, Charlie Brown (and Don't Come Back!!)",match=high
-"king.? a filmed";kingx_a_filmed;W60;;likely="King: A Filmed Record... Montgomery to Memphis",match=high
+"king.? a filmed";kingx_a_filmed;W60;;likely="King: A Filmed Record Montgomery to Memphis",match=high
 "the ape man";the_ape_man;W60;;possible="Tarzan, the Ape Man",match=high
 "evil that men";evil_that_men;W60;;likely="The Evil That Men Do",match=high
-"will.? i will.?.?.?";willx_i_willxxx;W60;;possible="I Will, I Will... for Now",match=high
 "civilization part ii.?";civilization_part_iix;W60;;likely="The Decline of Western Civilization Part II: The Metal Years",match=high
 "daffy duck.?s fantastic";daffy_duckxs_fantastic;W60;;likely="Daffy Duck's Fantastic Island",match=high
 "married to the";married_to_the;W60;;likely="Married to the Mob",match=high
@@ -15361,6 +15351,7 @@
 "of the damned";of_the_damned;W60;;likely="Voyage of the Damned",match=high
 "thief.? his wife";thiefx_his_wife;W60;;possible="The Cook, the Thief, His Wife & Her Lover",match=high
 "hoof here.? a";hoof_herex_a;W60;;possible="A Hoof Here, a Hoof There",match=high
+"was then this";was_then_this;W60;;likely="That Was Then This Is Now",match=high
 "fields and me";fields_and_me;W60;;likely="W.C. Fields and Me",match=high
 "to love the";to_love_the;W60;;likely="To Love the Damned",match=high
 "by ishir.? honda";by_ishirx_honda;W60;;possible="Terror of Mechagodzilla (Mekagojira no gyakushu), directed by Ishirō Honda - (Japan)",match=high
@@ -15405,6 +15396,7 @@
 "23 quai du";23_quai_du;W60;;possible="Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",match=high
 "gang goes crazy";gang_goes_crazy;W60;;likely="The Olsen Gang Goes Crazy",match=high
 "year my voice";year_my_voice;W60;;likely="The Year My Voice Broke",match=high
+"hamburger the motion";hamburger_the_motion;W60;;likely="Hamburger The Motion Picture",match=high
 "stop.? greenwich village";stopx_greenwich_village;W60;;possible="Next Stop, Greenwich Village",match=high
 "nemo.? adventures in";nemox_adventures_in;W60;;likely="Little Nemo: Adventures in Slumberland",match=high
 "slapstick of another";slapstick_of_another;W60;;likely="Slapstick of Another Kind",match=high
@@ -15422,7 +15414,7 @@
 "temple of doom";temple_of_doom;W60;;likely="Indiana Jones and the Temple of Doom",match=high
 "way of the";way_of_the;W60;;likely="Way of the Dragon",match=high
 "in the woods";in_the_woods;W60;;likely="The Watcher in the Woods",match=high
-"when harry met";when_harry_met;W60;;likely="When Harry Met Sally...",match=high
+"when harry met";when_harry_met;W60;;likely="When Harry Met Sally",match=high
 "can.?t buy me";canxt_buy_me;W60;;likely="Can't Buy Me Love",match=high
 "of a woman";of_a_woman;W60;;likely="Scent of a Woman; Identification of a Woman",match=high
 "el hombre lobo";el_hombre_lobo;W60;;likely="Dr. Jekyll y el Hombre Lobo",match=high
@@ -15634,7 +15626,6 @@
 "the black hand";the_black_hand;W60;;likely="Five on the Black Hand Side",match=high
 "way to the";way_to_the;W60;;likely="Which Way to the Front?",match=high
 "elvira.? mistress of";elvirax_mistress_of;W60;;possible="Elvira, Mistress of the Dark",match=high
-".?.?.? airport( .)?79";xxx_airport_x79;W60;;likely="The Concorde( .).. Airport '79",match=high
 "in the morning";in_the_morning;W60;;likely="Ginger in the Morning; See You in the Morning",match=high
 "me that you";me_that_you;W60;;possible="Tell Me That You Love Me, Junie Moon",match=high
 "masters of the";masters_of_the;W60;;likely="Masters of the Universe",match=high
@@ -15687,6 +15678,7 @@
 "in the land";in_the_land;W60;;likely="Mio in the Land of Faraway",match=high
 "quackser fortune has";quackser_fortune_has;W60;;likely="Quackser Fortune Has a Cousin in the Bronx",match=high
 "the white city";the_white_city;W60;;likely="In the White City",match=high
+"filmed record montgomery";filmed_record_montgomery;W60;;likely="King: A Filmed Record Montgomery to Memphis",match=high
 "no evil.? hear";no_evilx_hear;W60;;possible="See No Evil, Hear No Evil",match=high
 "my name is";my_name_is;W60;;likely="My Name Is Shanghai Joe; My Name is Nobody",match=high
 "of tarzan.? lord";of_tarzanx_lord;W60;;possible="Greystoke - The Legend of Tarzan, Lord of the Apes",match=high
@@ -15771,7 +15763,6 @@
 "spirit of the";spirit_of_the;W60;;likely="The Spirit of the Beehive",match=high
 "cowboys of calico";cowboys_of_calico;W60;;likely="Cockeyed Cowboys of Calico County",match=high
 "got into college";got_into_college;W60;;likely="How I Got Into College",match=high
-"will.?.?.? for now";willxxx_for_now;W60;;possible="I Will, I Will... for Now",match=high
 ".? ted.?s excellent";x_tedxs_excellent;W60;;likely="Bill & Ted's Excellent Adventure",match=high
 "je suis le";je_suis_le;W60;;likely="Je suis le seigneur du château",match=high
 "dream a little";dream_a_little;W60;;likely="Dream a Little Dream",match=high
@@ -15813,7 +15804,7 @@
 "brother sun.? sister";brother_sunx_sister;W60;;possible="Brother Sun, Sister Moon",match=high
 "it again.? sam";it_againx_sam;W60;;possible="Play It Again, Sam",match=high
 "quai du commerce.?";quai_du_commercex;W60;;possible="Jeanne Dielman, 23 quai du Commerce, 1080 Bruxelles",match=high
-"i will.? i";i_willx_i;W60;;possible="I Will, I Will... for Now",match=high
+"i will.? i";i_willx_i;W60;;possible="I Will, I Will for Now",match=high
 "never sang for";never_sang_for;W60;;likely="I Never Sang for My Father",match=high
 "the hound of";the_hound_of;W60;;likely="The Hound of the Baskervilles",match=high
 "light up my";light_up_my;W60;;likely="You Light Up My Life",match=high
@@ -15896,7 +15887,7 @@
 "shall be punished";shall_be_punished;W60;;likely="All Nudity Shall Be Punished",match=high
 "chu chu and";chu_chu_and;W60;;likely="Chu Chu and the Philly Flash",match=high
 "planes.? trains and";planesx_trains_and;W60;;possible="Planes, Trains and Automobiles",match=high
-"the motion picture";the_motion_picture;W60;;likely="Star Trek: The Motion Picture; Hamburger... The Motion Picture",match=high
+"the motion picture";the_motion_picture;W60;;likely="Star Trek: The Motion Picture; Hamburger The Motion Picture",match=high
 "woman of fire";woman_of_fire;W60;;likely="Woman of Fire '82",match=high
 "le roi et";le_roi_et;W60;;likely="Le Roi et l'oiseau",match=high
 "the balance of";the_balance_of;W60;;possible="Sisters, or the Balance of Happiness",match=high
@@ -15907,6 +15898,7 @@
 "return of godzilla";return_of_godzilla;W60;;likely="The Return of Godzilla",match=high
 "of the gods";of_the_gods;W60;;likely="Chariots of the Gods; The Food of the Gods; Food of the Gods II",match=high
 "star is born";star_is_born;W60;;likely="A Star Is Born",match=high
+"i will for";i_will_for;W60;;possible="I Will, I Will for Now",match=high
 "kellerman and why";kellerman_and_why;W60;;likely="Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",match=high
 "poets are losing";poets_are_losing;W60;;likely="How Poets are Losing Their Illusions",match=high
 "stop the music";stop_the_music;W60;;likely="Can't Stop the Music",match=high
@@ -15993,7 +15985,6 @@
 "jugs( .)? speed";jugs_x_speed;W60;;possible="Mother, Jugs & Speed",match=high
 "take this job";take_this_job;W60;;likely="Take This Job and Shove It",match=high
 "is shanghai joe";is_shanghai_joe;W60;;likely="My Name Is Shanghai Joe",match=high
-"the concorde( .)?.?.?";the_concorde_xxx;W60;;likely="The Concorde( .).. Airport '79",match=high
 "on the bus";on_the_bus;W60;;likely="Lady on the Bus",match=high
 "and the undead";and_the_undead;W60;;likely="Of Gods and the Undead",match=high
 "the brooklyn bridge";the_brooklyn_bridge;W60;;likely="Over the Brooklyn Bridge",match=high
@@ -16021,7 +16012,6 @@
 "gods must be";gods_must_be;W60;;likely="The Gods Must Be Crazy",match=high
 "cook.? the thief.?";cookx_the_thiefx;W60;;possible="The Cook, the Thief, His Wife & Her Lover",match=high
 "or the balance";or_the_balance;W60;;possible="Sisters, or the Balance of Happiness",match=high
-"filmed record.?.?.? montgomery";filmed_recordxxx_montgomery;W60;;likely="King: A Filmed Record... Montgomery to Memphis",match=high
 "bayan ko.?this is";bayan_koxthis_is;W60;;likely="Bayan Ko:This Is My Country",match=high
 "the time of";the_time_of;W60;;likely="The Time of the Hero",match=high
 "monty python.?s life";monty_pythonxs_life;W60;;likely="Monty Python's Life of Brian",match=high
@@ -16103,7 +16093,7 @@
 "an officer and";an_officer_and;W60;;likely="An Officer and a Gentleman",match=high
 "and 44.?100.? dead";and_44x100x_dead;W60;;likely="99 and 44/100% Dead",match=high
 "lives of mattia";lives_of_mattia;W60;;likely="The Two Lives of Mattia Pascal",match=high
-"this is now";this_is_now;W60;;likely="That Was Then... This Is Now",match=high
+"this is now";this_is_now;W60;;likely="That Was Then This Is Now",match=high
 "the white sea";the_white_sea;W60;;likely="Laughter and Grief by the White Sea",match=high
 "panic in needle";panic_in_needle;W60;;likely="The Panic in Needle Park",match=high
 "tenderness of wolves";tenderness_of_wolves;W60;;likely="The Tenderness of Wolves",match=high
@@ -16152,6 +16142,7 @@
 "monty python.?s the";monty_pythonxs_the;W60;;likely="Monty Python's The Meaning of Life",match=high
 "cats.? play( .)?macskaj.?t.?k.?";catsx_play_xmacskajxtxkx;W60;;likely="Cats' Play (Macskajáték) - (Hungary)",match=high
 "and shove it";and_shove_it;W60;;likely="Take This Job and Shove It",match=high
+"a filmed record";a_filmed_record;W60;;likely="King: A Filmed Record Montgomery to Memphis",match=high
 "beach guard in";beach_guard_in;W60;;likely="Beach Guard in Winter",match=high
 "marriage of the";marriage_of_the;W60;;likely="The Marriage of the Blessed",match=high
 "the best little";the_best_little;W60;;likely="The Best Little Whorehouse in Texas",match=high
@@ -16223,7 +16214,7 @@
 "he might hear";he_might_hear;W60;;possible="Careful, He Might Hear You",match=high
 "an emblem of";an_emblem_of;W60;;possible="Black Rose Is an Emblem of Sorrow, Red Rose Is an Emblem of Love; Black Rose Is an Emblem of Sorrow, Red Rose Is an Emblem of Love",match=high
 "tears of petra";tears_of_petra;W60;;likely="The Bitter Tears of Petra von Kant",match=high
-"there was a";there_was_a;W60;;likely="There Was a Crooked Man...",match=high
+"there was a";there_was_a;W60;;likely="There Was a Crooked Man",match=high
 "king of comedy";king_of_comedy;W60;;likely="The King of Comedy",match=high
 "ultra brothers vs.?";ultra_brothers_vsx;W60;;likely="The 6 Ultra Brothers vs. the Monster Army",match=high
 "and the gold";and_the_gold;W60;;likely="Rafferty and the Gold Dust Twins",match=high
@@ -16373,7 +16364,6 @@
 "five on the";five_on_the;W60;;likely="Five on the Black Hand Side",match=high
 "of the black";of_the_black;W60;;likely="Salt of the Black Earth",match=high
 "roi et l.?oiseau";roi_et_lxoiseau;W60;;likely="Le Roi et l'oiseau",match=high
-"i will.?.?.? for";i_willxxx_for;W60;;possible="I Will, I Will... for Now",match=high
 "bring me the";bring_me_the;W60;;likely="Bring Me the Head of Alfredo Garcia",match=high
 "trail of the";trail_of_the;W60;;likely="Trail of the Pink Panther",match=high
 "bake a cherry";bake_a_cherry;W60;;likely="Can She Bake a Cherry Pie?",match=high
@@ -16462,6 +16452,7 @@
 "the grateful dead";the_grateful_dead;W60;;likely="The Grateful Dead Movie",match=high
 "pepper.?s lonely hearts";pepperxs_lonely_hearts;W60;;likely="Sgt. Pepper's Lonely Hearts Club Band",match=high
 "incredible shrinking woman";incredible_shrinking_woman;W60;;likely="The Incredible Shrinking Woman",match=high
+"then this is";then_this_is;W60;;likely="That Was Then This Is Now",match=high
 "getting of wisdom";getting_of_wisdom;W60;;likely="The Getting of Wisdom",match=high
 "retorno del hombre";retorno_del_hombre;W60;;likely="El Retorno del Hombre Lobo",match=high
 "down and out";down_and_out;W60;;likely="Down and Out in Beverly Hills",match=high
@@ -16549,7 +16540,6 @@
 "seems like old";seems_like_old;W60;;likely="Seems Like Old Times",match=high
 "do it again";do_it_again;W60;;likely="Let's Do It Again",match=high
 "zoffy.? ultra warriors";zoffyx_ultra_warriors;W60;;likely="Ultraman Zoffy: Ultra Warriors vs. the Giant Monster Army",match=high
-"was then.?.?.? this";was_thenxxx_this;W60;;likely="That Was Then... This Is Now",match=high
 "and let die";and_let_die;W60;;likely="Live and Let Die",match=high
 "mist.? the story";mistx_the_story;W60;;likely="Gorillas in the Mist: The Story of Dian Fossey",match=high
 "thing with two";thing_with_two;W60;;likely="The Thing with Two Heads",match=high
@@ -16561,6 +16551,7 @@
 "the long good";the_long_good;W60;;likely="The Long Good Friday",match=high
 "se.?or de la";sexor_de_la;W60;;likely="Los Amantes del Señor de la Noche",match=high
 "and why is";and_why_is;W60;;likely="Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",match=high
+"a crooked man";a_crooked_man;W60;;likely="There Was a Crooked Man",match=high
 "of the death";of_the_death;W60;;likely="Twitch of the Death Nerve",match=high
 "kill a child.?";kill_a_childx;W60;;likely="Who Can Kill a Child?",match=high
 "the jesse owens";the_jesse_owens;W60;;likely="The Jesse Owens Story",match=high
@@ -16620,7 +16611,6 @@
 "striker with number";striker_with_number;W60;;likely="The Striker with Number 9",match=high
 "to the stars";to_the_stars;W60;;likely="Subway to the Stars",match=high
 "or sitting bull.?s";or_sitting_bullxs;W60;;possible="Buffalo Bill and the Indians, or Sitting Bull's History Lesson",match=high
-"hamburger.?.?.? the motion";hamburgerxxx_the_motion;W60;;likely="Hamburger... The Motion Picture",match=high
 "something out of";something_out_of;W60;;likely="Something Out of Nothing",match=high
 "time to live";time_to_live;W60;;likely="The Time to Live and the Time to Die",match=high
 "first deadly sin";first_deadly_sin;W60;;likely="The First Deadly Sin",match=high
@@ -16643,6 +16633,7 @@
 "they only kill";they_only_kill;W60;;likely="They Only Kill Their Masters",match=high
 "of gods and";of_gods_and;W60;;likely="Of Gods and the Undead",match=high
 "first blood part";first_blood_part;W60;;likely="Rambo: First Blood Part II",match=high
+"harry met sally";harry_met_sally;W60;;likely="When Harry Met Sally",match=high
 "wind and the";wind_and_the;W60;;likely="The Wind and the Lion",match=high
 "and the eye";and_the_eye;W60;;likely="Sinbad and the Eye of the Tiger",match=high
 "of the navigator";of_the_navigator;W60;;likely="Flight of the Navigator",match=high
@@ -16845,7 +16836,6 @@
 "bugs bunny.?road runner";bugs_bunnyxroad_runner;W60;;likely="The Bugs Bunny/Road Runner Movie",match=high
 "evil under the";evil_under_the;W60;;likely="Evil Under the Sun",match=high
 "navigator.? a medieval";navigatorx_a_medieval;W60;;likely="The Navigator: A Medieval Odyssey",match=high
-"concorde( .)?.?.? airport";concorde_xxx_airport;W60;;likely="The Concorde( .).. Airport '79",match=high
 "mark twain.? starring";mark_twainx_starring;W60;;possible="The Adventures of Mark Twain, starring James Whitmore",match=high
 "tough all over";tough_all_over;W60;;likely="Things Are Tough All Over",match=high
 "time.? another place";timex_another_place;W60;;possible="Another Time, Another Place",match=high
@@ -16879,9 +16869,9 @@
 "the mother and";the_mother_and;W60;;likely="The Mother and the Whore",match=high
 ".?pokrovskiye vorota.?( .)?";xpokrovskiye_vorotax_x;W60;;likely="The Pokrovsky Gate (Pokrovskiye Vorota) - (U.S.S.R.)",match=high
 "would i lie.?";would_i_liex;W60;;likely="Why Would I Lie?",match=high
+"will.? i will";willx_i_will;W60;;possible="I Will, I Will for Now",match=high
 "and billy the";and_billy_the;W60;;likely="Pat Garrett and Billy the Kid",match=high
 "we are from";we_are_from;W60;;likely="We Are from Jazz",match=high
-"then.?.?.? this is";thenxxx_this_is;W60;;likely="That Was Then... This Is Now",match=high
 "from the dark";from_the_dark;W60;;likely="Escape from the Dark",match=high
 "every man for";every_man_for;W60;;likely="Every Man for Himself",match=high
 "is the friend.?s";is_the_friendxs;W60;;likely="Where Is the Friend's Home?",match=high
@@ -16928,7 +16918,6 @@
 "tea in the";tea_in_the;W60;;likely="Tea in the Harem",match=high
 "the very late";the_very_late;W60;;likely="The Very Late Afternoon of a Faun",match=high
 "girl with the";girl_with_the;W60;;likely="The Girl with the Red Hair",match=high
-"that was then.?.?.?";that_was_thenxxx;W60;;likely="That Was Then... This Is Now",match=high
 "where the toys";where_the_toys;W60;;likely="Where The Toys Come From",match=high
 "raphael.? or the";raphaelx_or_the;W60;;possible="Raphael, or The Debauched One",match=high
 "riviera bank robbery";riviera_bank_robbery;W60;;likely="The Great Riviera Bank Robbery",match=high
@@ -17152,6 +17141,7 @@
 "ultraman zoffy.? ultra";ultraman_zoffyx_ultra;W60;;likely="Ultraman Zoffy: Ultra Warriors vs. the Giant Monster Army",match=high
 "profile of steven";profile_of_steven;W60;;likely="American Boy: A Profile of Steven Prince",match=high
 "and the bean";and_the_bean;W60;;likely="Freebie and the Bean",match=high
+"will for now";will_for_now;W60;;possible="I Will, I Will for Now",match=high
 "alone in the";alone_in_the;W60;;likely="Alone in the Dark",match=high
 "in the mist.?";in_the_mistx;W60;;likely="Gorillas in the Mist: The Story of Dian Fossey",match=high
 "house on chelouche";house_on_chelouche;W60;;likely="The House on Chelouche Street",match=high
@@ -17190,7 +17180,6 @@
 "lone wolf and";lone_wolf_and;W60;;likely="Lone Wolf and Cub: Sword of Vengeance",match=high
 "boy.? a profile";boyx_a_profile;W60;;likely="American Boy: A Profile of Steven Prince",match=high
 "a sense of";a_sense_of;W60;;likely="A Sense of Freedom",match=high
-"harry met sally.?.?.?";harry_met_sallyxxx;W60;;likely="When Harry Met Sally...",match=high
 ".?and justice for";xand_justice_for;W60;;likely="…And Justice for All",match=high
 "eats the soul";eats_the_soul;W60;;likely="Ali: Fear Eats the Soul",match=high
 "chu and the";chu_and_the;W60;;likely="Chu Chu and the Philly Flash",match=high
@@ -17354,7 +17343,6 @@
 "hound of the";hound_of_the;W60;;likely="The Hound of the Baskervilles",match=high
 "summer hyosetsu no";summer_hyosetsu_no;W60;;likely="Karafuto 1945 Summer Hyosetsu no Mon",match=high
 "trains and automobiles";trains_and_automobiles;W60;;possible="Planes, Trains and Automobiles",match=high
-"a filmed record.?.?.?";a_filmed_recordxxx;W60;;likely="King: A Filmed Record... Montgomery to Memphis",match=high
 "bitter tears of";bitter_tears_of;W60;;likely="The Bitter Tears of Petra von Kant",match=high
 "adventures of barry";adventures_of_barry;W60;;likely="The Adventures of Barry McKenzie",match=high
 "jo jo dancer.?";jo_jo_dancerx;W60;;possible="Jo Jo Dancer, Your Life Is Calling",match=high
@@ -17435,6 +17423,7 @@
 "the gimli hospital";the_gimli_hospital;W60;;likely="Tales from the Gimli Hospital",match=high
 "there.?s a girl";therexs_a_girl;W60;;likely="There's a Girl in My Soup",match=high
 "of the apes";of_the_apes;W60;;possible="Beneath the Planet of the Apes; Escape from the Planet of the Apes; Conquest of the Planet of the Apes; Battle for the Planet of the Apes; Greystoke - The Legend of Tarzan, Lord of the Apes",match=high
+"concorde airport( .)?79";concorde_airport_x79;W60;;likely="The Concorde Airport '79",match=high
 "a long quiet";a_long_quiet;W60;;likely="Life Is a Long Quiet River",match=high
 "martial arts of";martial_arts_of;W60;;likely="Martial Arts of Shaolin",match=high
 "walk like a";walk_like_a;W60;;likely="Walk Like a Man",match=high
@@ -17893,6 +17882,7 @@
 "amanece.? que no";amanecex_que_no;W60;;possible="Amanece, que no es poco",match=high
 "ballad of the";ballad_of_the;W60;;likely="Ballad of the Little Soldier",match=high
 "the last flight";the_last_flight;W60;;likely="The Last Flight of Noah's Ark",match=high
+"the concorde airport";the_concorde_airport;W60;;likely="The Concorde Airport '79",match=high
 "of second avenue";of_second_avenue;W60;;likely="The Prisoner of Second Avenue",match=high
 "castle of purity";castle_of_purity;W60;;likely="The Castle of Purity",match=high
 "with bogart.?s face";with_bogartxs_face;W60;;likely="The Man with Bogart's Face",match=high
