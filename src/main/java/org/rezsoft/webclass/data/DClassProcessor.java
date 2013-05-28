@@ -2,10 +2,6 @@ package org.rezsoft.webclass.data;
 
 import org.rezsoft.webclass.Util;
 import dclass.dClass;
-import java.io.File;
-import java.io.FileOutputStream;
-import java.io.InputStream;
-import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
