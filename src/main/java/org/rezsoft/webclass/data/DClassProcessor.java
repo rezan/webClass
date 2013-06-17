@@ -16,6 +16,24 @@ public class DClassProcessor {
     
     public DClassProcessor() {
     }
+
+    public void setData(List<Resource> paths) {
+        long start=System.nanoTime();
+
+        for(Resource path:paths) {
+            try {
+                loadDataResource(path);
+            } catch(Exception ex) {
+                log.error("ERROR: "+ex.toString(),ex);
+            }
+        }
+
+        long diff=System.nanoTime()-start;
+        String sdiff=Util.getTime(diff);
+
+        log.info("dtrees loaded: "+sdiff);
+    }
+
     
     public void setDtree(List<Resource> paths) {
         long start=System.nanoTime();
@@ -38,6 +56,25 @@ public class DClassProcessor {
         dclasses=dcs;
     }
     
+    private void loadDataResource(Resource resource) throws Exception
+    {
+        String name=resource.getFile().getName();
+
+        if(name.indexOf(".")>0) {
+            name=name.substring(0,name.indexOf("."));
+        }
+
+        String group="default";
+
+        if(resource.getFile().getParentFile()!=null) {
+            group=resource.getFile().getParentFile().getName();
+        }
+
+        log.info("loadDataResource() "+group+" "+name+": "+resource);
+
+        throw new Exception("Loading raw data unsupported at this time");
+    }
+
     private void loadDtreeResource(Resource resource,List<DClassObject> dcs) throws Exception
     {
         String name=resource.getFile().getName();
